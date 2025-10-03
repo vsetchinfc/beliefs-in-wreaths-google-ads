@@ -8,7 +8,7 @@
   - Status: Ad not showing due to low Ad Rank
   - Landing page experience: Below average
   - Action: Change Final URL to specific Christmas collection page
-  - Guide: See `docs/guides/fix-landing-page-quality.md`
+  - Guide: See [`docs/guides/fix-landing-page-quality.md`](./guides/fix-landing-page-quality.md)
 
 - [ ] **Create 2 additional ads in "Christmas Products" ad group**
   - Current: Only 1 ad (causing "Ad group has too few ads" error)
@@ -38,12 +38,12 @@
 
 ---
 
-## 📅 HIGH PRIORITY (This Week - Oct 3-10, 2025)
+## 📅 HIGH PRIORITY (This Week - Oct 3-10, 2025) ⏳✅
 
 ### Keyword Optimization
-- [ ] **Add negative keywords** (campaign level)
-  - [ ] DIY, free, tutorial, "how to make", pattern, instructions
-  - [ ] funeral, sympathy, memorial, condolence
+- [⏳] **Add negative keywords** (campaign level)
+  - [✅] DIY, free, tutorial, "how to make", pattern, instructions
+  - [⏳] funeral, sympathy, memorial, condolence
   - [ ] cheap, discount, bargain, clearance
   - [ ] wholesale, bulk, commercial
   - [ ] ornaments, lights, tree, tinsel, stockings, baubles
@@ -64,12 +64,12 @@
   - [ ] "designer christmas wreaths"
   - [ ] "premium christmas wreaths"
 
-- [ ] **Review "christmas decorations" keyword**
+- [⏳] **Review "christmas decorations" keyword**
   - Currently spending $21.38 (87% of budget)
   - CTR: 10.89% (good)
   - Quality Score: 4/10 (poor)
   - Action: Check Search Terms Report
-  - Consider: Change to phrase match "christmas decorations"
+  - Consider: Change to phrase match "christmas decorations" - ✅ **Changed**
 
 ### Campaign Structure
 - [ ] **Restructure ad groups** (see guide)
@@ -172,11 +172,11 @@
 ## ✅ COMPLETED TASKS
 
 ### Week of Sept 19 - Oct 2, 2025
-- [x] Initial campaign setup
-- [x] Raised budget from $6/day to $15/day (Oct 2)
-- [x] Added initial negative keywords: free, DIY, tutorial, how to make, cheap
-- [x] Created exact match versions of top keywords
-- [x] Campaign diagnostics reviewed
+- [✅] Initial campaign setup
+- [✅] Raised budget from $6/day to $15/day (Oct 2)
+- [✅] Added initial negative keywords: free, DIY, tutorial, how to make, cheap
+- [✅] Created exact match versions of top keywords
+- [✅] Campaign diagnostics reviewed
 
 ---
 

@@ -1,32 +1,97 @@
 # Current Issues & Critical Recommendations
 
 **Campaign**: B-in-W [Search | Sales]  
-**Date Analyzed**: October 3, 2025  
+**Date Analyzed**: October 4, 2025  
 **Analysis Period**: Sept 19 - Oct 2, 2025  
+**Last Updated**: October 4, 2025 (Updated with detailed keyword analysis)
 
 ---
 
-## 🚨 CRITICAL ISSUES
+## � CRITICAL ISSUES (IMMEDIATE ACTION REQUIRED)
 
-### 1. Zero Conversion Tracking ⚠️⚠️⚠️
+### 1. All Year Products Ad Group is PAUSED ⚠️⚠️⚠️
 
-**Status**: CRITICAL - Blocking all ROI measurement
+**Status**: CRITICAL - 27 core keywords completely inactive
 
 **The Problem**:
-- 38 clicks received
-- $24.51 spent
-- **0 conversions tracked**
-- Cannot measure ROI or optimize for profitability
+- **ALL 27 keywords in "All Year Products" ad group are not serving**
+- These are your best wreath-specific keywords:
+  - "front door wreaths australia"
+  - "door wreath"
+  - "artificial wreaths"
+  - "elegant front door wreaths"
+  - "all season door wreath"
+  - + 22 more
+- Ad group status: PAUSED
+- Result: 0 impressions, 0 clicks, 0 opportunity for sales
 
 **Impact**:
-- Flying blind - don't know which keywords drive sales
-- Cannot calculate cost per acquisition
-- Cannot optimize bidding strategies
-- Cannot prove campaign value to client
+- Losing ALL potential traffic for year-round wreath sales
+- Only relying on Christmas Products (seasonal limitation)
+- Missing out on high-intent "buy" and "australia" searches
+- Competitors capturing this traffic instead
+
+**IMMEDIATE ACTION**:
+1. Log into Google Ads TODAY
+2. Navigate to "All Year Products" ad group
+3. Check why it's paused (budget exhausted? manual pause?)
+4. Allocate $10-15/day budget to this ad group
+5. UNPAUSE the ad group immediately
+6. Monitor for 24 hours
+
+---
+
+### 2. Extremely Low Impression Volume ⚠️⚠️⚠️
+
+**Status**: CRITICAL - Campaign barely visible
+
+**The Problem**:
+- **Only 36 total impressions in 2 weeks** (Sep 19 - Oct 2)
+- That's ~2.5 impressions per day across entire campaign
+- Top performing keyword: "luxury christmas wreath australia" = only 5 impressions
+- 83 out of 86 keywords: 0 impressions
+
+**Why This Is Happening**:
+- Budget too low (likely $5-10/day)
+- Bids too low (keywords not competitive)
+- All Year Products paused (see Issue #1)
+
+**Impact**:
+- Essentially invisible to potential customers
+- Cannot generate meaningful sales at this volume
+- Cannot gather data for optimization
+- Wasting opportunity during lead-up to Christmas
+
+**IMMEDIATE ACTION**:
+1. Increase daily budget to **$20-30 minimum**
+2. Increase bids on top keywords:
+   - "luxury christmas wreath australia" → $1.50
+   - "christmas wreath" → $1.20
+   - "xmas wreaths for front door" → $1.00
+3. Expected result: 500-1000+ impressions per week
+
+---
+
+### 3. Zero Conversion Tracking ⚠️⚠️
+
+**Status**: CRITICAL - Cannot measure ROI
+
+**The Problem**:
+- 5 clicks received (from active keywords)
+- $3.13 spent
+- **0 conversions tracked**
+- Cannot measure which keywords drive sales
+- Cannot calculate return on ad spend
+
+**Impact**:
+- Flying blind - don't know what's working
+- Cannot optimize for profitability
+- Cannot prove campaign value
+- Google's automated bidding cannot work properly
 
 **Solution Required**:
 Set up Google Ads conversion tracking for:
-1. Purchase/Sale events (primary)
+1. Purchase/Sale events (primary) ← MUST HAVE
 2. Add to Cart (secondary)
 3. Initiate Checkout (secondary)
 
@@ -34,20 +99,63 @@ Set up Google Ads conversion tracking for:
 
 ---
 
-### 2. Quality Score 4/10 - Ads Not Showing
+### 4. 15+ Irrelevant Keywords Wasting Budget ⚠️⚠️
 
-**Status**: CRITICAL - Revenue loss
+**Status**: HIGH PRIORITY - Immediate cleanup needed
 
 **The Problem**:
-- "christmas decorations" keyword has Quality Score of 4/10
-- Google warning: "Ad isn't showing now"
-- Reason: "Low Ad Rank due to low Quality Score"
-- Landing page experience: **Below average**
+Currently targeting keywords that have NOTHING to do with wreaths:
+
+**Generic Gift Keywords** (NOT wreath-specific):
+- "gift for"
+- "best present"
+- "best gift"
+- "cool gifts"
+- "fun gift idea"
+- "good gift idea"
+
+**Birthday Keywords** (NOT relevant):
+- "birthday ideas for women"
+- "birthday ideas for her"
+- "best birthday gift ideas"
+- "best birthday presents"
+- "good birthday gift ideas"
+- "great birthday gift ideas"
+
+**Other Issues**:
+- "Black Friday Sale" (event, not search term)
+- "EOFY Sale" (not relevant in September/October)
+- "christmas tree store" (not selling trees)
+
+**Impact**:
+- These keywords dilute your targeting
+- Waste budget on irrelevant clicks
+- Lower overall campaign relevance
+- Confuse Google's algorithm about what you sell
+
+**IMMEDIATE ACTION**:
+DELETE or PAUSE these 15-20 keywords this week
+
+---
+
+### 5. Low Quality Score Keywords ⚠️
+
+**Status**: MEDIUM - Affecting ad performance
+
+**The Problem**:
+- "front door design" - Low quality, too generic
+- "floral wreath" - Low quality, funeral association
 
 **Current Impact**:
-- Your most expensive keyword ($21.38 spent, 87% of budget) is now paused by Google
-- Missing out on potential clicks and sales
-- Wasting ad position to competitors
+- Lower ad rank = fewer impressions
+- Higher cost per click
+- Ads showing in worse positions
+
+**Solution**:
+- Pause "front door design" (not wreath-specific)
+- Replace "floral wreath" with "fresh floral door wreath"
+- Improve landing page relevance
+- Update ad copy to match keywords better
 
 **Quality Score Breakdown**:
 - Expected CTR: Unknown (need to check)
@@ -67,7 +175,7 @@ Set up Google Ads conversion tracking for:
 4. Add trust signals (reviews, shipping info, guarantees)
 5. Consider changing keyword to phrase match: "christmas decorations"
 
-**Implementation Guide**: See `docs/guides/fix-landing-page-quality.md`
+**Implementation Guide**: See [`docs/guides/fix-landing-page-quality.md`](./guides/fix-landing-page-quality.md)
 
 ---
 
@@ -98,7 +206,7 @@ Each ad group needs minimum 2 ads (ideally 3) to be eligible.
 2. Test different headlines and messaging
 3. Use responsive search ads with multiple headline/description options
 
-**Implementation Guide**: See `docs/guides/create-multiple-ads.md`
+**Implementation Guide**: See [`docs/guides/create-multiple-ads.md`](./guides/create-multiple-ads.md)
 
 ---
 
@@ -141,7 +249,7 @@ Several keywords are too broad or off-topic:
 
 | Keyword | Issue |
 |---------|-------|
-| unique gift | Too broad, not wreath-specific |
+| ✅**Removed** - unique gift | Too broad, not wreath-specific |
 | wreath | Too generic, could trigger funeral searches |
 | front door | Way too broad (doors, locks, mats, decorations) |
 | artificial wreaths | Check if relevant to product offerings |
