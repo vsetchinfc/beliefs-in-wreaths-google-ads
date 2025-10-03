@@ -25,7 +25,7 @@
 ### 2. Delete Irrelevant Keywords from Christmas Campaign
 **Time:** 10 minutes | **Impact:** MEDIUM
 
-Delete these keywords NOW:
+Delete these keywords NOW: **DONE** ✅
 ```
 gift for
 best present
@@ -73,7 +73,7 @@ Update these bids:
 
 ---
 
-### 4. Increase Daily Budget
+### 4. Increase Daily Budget - **DONE** ✅ - Budget set to $15 per day
 **Time:** 2 minutes | **Impact:** HIGH
 
 1. Go to Campaign Settings
@@ -85,7 +85,7 @@ Update these bids:
 
 ---
 
-### 5. Add Negative Keywords
+### 5. Add Negative Keywords - **DONE** ✅ - Created a list and applied to a campaign
 **Time:** 8 minutes | **Impact:** MEDIUM
 
 1. Go to Tools & Settings → Negative keyword lists
@@ -109,29 +109,40 @@ rental
 
 ---
 
-## ✅ THIS WEEK (1-2 hours)
+## ✅ THIS WEEK (1-2 hours) - **Complete**
 
 ### 6. Add 5 High-Intent CHRISTMAS Keywords (PRIORITY)
 **Time:** 15 minutes | **Impact:** CRITICAL
 
-Add to "Christmas Products" ONLY:
+⚠️ **Important:** If exact match keywords show "Low search volume", use phrase match or broad match modifier instead.
+
+**Add to "Christmas Products" - REVISED LIST:**
 ```
-[buy christmas wreath online australia] - Exact Match - Bid: $2.00
-[christmas wreath delivery australia] - Exact Match - Bid: $1.80
-"luxury christmas wreaths sydney" - Phrase Match - Bid: $1.50
-"premium christmas wreath melbourne" - Phrase Match - Bid: $1.50
-[christmas door wreath australia] - Exact Match - Bid: $1.80
+"buy christmas wreath australia" - Phrase Match - Bid: $1.20
+"christmas wreath delivery" - Phrase Match - Bid: $1.00
++luxury +christmas +wreath - Broad Match Modifier - Bid: $0.90
+"christmas door wreath" - Phrase Match - Bid: $1.00
+"premium christmas wreath" - Phrase Match - Bid: $0.90
+```
+
+**Why the change:** Australia is a smaller market. Super-specific exact match keywords (like [buy christmas wreath online australia]) have low search volume. Phrase match captures the intent while allowing variations that actually get searches.
+
+**Alternative if these also show low volume:**
+```
+christmas wreaths australia - Broad Match - Bid: $0.80
+buy christmas wreath - Broad Match - Bid: $0.90
+christmas wreath delivery sydney - Broad Match - Bid: $0.80
+luxury christmas decorations - Broad Match - Bid: $0.70
+designer christmas wreath - Broad Match - Bid: $0.80
 ```
 
 **How:**
-1. Go to Keywords tab
-2. Click blue "+" button
-3. Select ad group
-4. Paste keywords
-5. Set match types and bids
-6. Save
+1. Remove the exact match keywords showing "Not eligible"
+2. Add the phrase match versions above
+3. Monitor search terms report closely
+4. Add negatives for any irrelevant searches
 
-**Result:** Capture high-intent purchase traffic
+**Result:** Capture purchase intent with realistic search volume
 
 ---
 
@@ -157,7 +168,7 @@ Add to "Christmas Products" ONLY:
 
 ---
 
-### 8. Request Search Terms Report
+### 8. Request Search Terms Report - ⬜ **Pending**
 **Time:** 5 minutes | **Impact:** MEDIUM
 
 1. Email client or access Google Ads directly
