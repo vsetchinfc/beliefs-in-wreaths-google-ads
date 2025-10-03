@@ -299,7 +299,7 @@ Ready to get started?
 
 ---
 
-**Prepared by:** [Your Name/Agency]  
+**Prepared by:** SETCHIN Consulting  
 **Date:** October 4, 2025  
-**Contact:** [Your email/phone]  
+**Contact:** Vlad  
 **Next Review:** October 11, 2025
