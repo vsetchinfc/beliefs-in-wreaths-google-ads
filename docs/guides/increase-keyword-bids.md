@@ -38,7 +38,8 @@ Increase bids when:
 - Sign in with your account
 
 **2. Navigate to Keywords**
-- In the left menu, click **"Keywords"**
+- In the left sidebar menu, click **"Campaigns"**
+- Then click **"Keywords"** in the submenu (or **"Search keywords"**)
 - Make sure you're viewing "Search keywords" (not "Negative keywords")
 
 **3. Find Your Keyword**
@@ -56,8 +57,9 @@ You'll see a table like this:
 
 **4. Click on the Current Bid**
 - Locate the keyword you want to update
-- Find the **"Max. CPC"** column (shows current bid)
+- Find the **"Max. CPC bid"** or **"Max CPC"** column (shows current bid)
 - **Click directly on the bid amount** (e.g., "$0.50")
+- **OR** hover over the row and click the **pencil icon (✏️)** that appears
 
 **5. Enter New Bid**
 - A text box will appear: `[$0.50        ] ✓ ✗`
@@ -92,13 +94,13 @@ Check the box next to each keyword:
 ☑ xmas wreaths for front door
 ```
 
-**3. Click "Edit" Button**
-- Blue **"Edit"** button appears at the top of the table
+**3. Click "Edit" Dropdown**
+- **"Edit"** dropdown button appears at the top of the table
 - Click it to see editing options
 
 **4. Select "Change max. CPC bids"**
 - A dropdown menu appears
-- Choose **"Change max. CPC bids"**
+- Choose **"Change max. CPC bids"** or **"Change bids"**
 
 **5. Choose Your Adjustment Method**
 
@@ -137,17 +139,19 @@ Your campaign is using **"Maximize Clicks"** bidding strategy, which doesn't all
 ### How to Fix It
 
 **1. Go to Campaign Settings**
-- Click on your **campaign name**
-- Click **"Settings"** in the left menu
+- In the left sidebar, click **"Campaigns"**
+- Click on your **campaign name** in the table
+- Click **"Settings"** in the left submenu
 
 **2. Find Bidding Section**
 - Scroll down to **"Bidding"** section
-- You'll see: "Maximize clicks" with a pencil icon ✏️
+- You'll see current strategy (e.g., "Maximize clicks") with a pencil/edit icon ✏️
 
 **3. Change to Manual CPC**
-- Click the pencil icon ✏️
-- Select **"Manual CPC"** from the dropdown
-- Check the box: **"Help increase conversions with Enhanced CPC"** (recommended)
+- Click the **pencil/edit icon** ✏️ next to the bidding strategy
+- Select **"Manual CPC"** or **"Directly select clicks or conversions you want"**
+- Then choose **"Manual CPC"**
+- Optional: Enable **"Enhanced CPC"** toggle (recommended for better performance)
 
 **4. Save Changes**
 - Click **"Save"**
@@ -199,13 +203,19 @@ Based on your current performance data, here are the recommended bid adjustments
 ### Before Increasing Bids
 
 1. **Check Quality Score**
-   - Keywords > Columns > Modify columns > Quality Score
-   - Only increase bids if QS is 5+/10
+   - Go to **Campaigns** → **Keywords** (left sidebar)
+   - Click **"Columns"** icon → **"Modify columns"**
+   - Expand **"Quality Score"** section in side panel
+   - Check boxes for: Quality Score, Landing page exp., Ad relevance, Expected CTR
+   - Click **"Apply"**
+   - Only increase bids if Quality Score is 5+/10
 
 2. **Review Search Terms Report**
-   - Keywords > Search terms
+   - Go to **Campaigns** → **Insights and reports** (left sidebar)
+   - Click **"Search terms"** in submenu
+   - **OR** Go to **Keywords** → Click **"Search terms"** button above the table
    - Make sure traffic is relevant
-   - Add negative keywords if needed
+   - Add negative keywords if needed (click checkbox → **"Add as negative keyword"**)
 
 3. **Check Average Position**
    - If you're already in position 1-2, may not need increase

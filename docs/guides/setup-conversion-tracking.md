@@ -5,12 +5,20 @@ Setting up conversion tracking is essential for any e-commerce website to measur
 
 ## Step 1: Create Conversion Actions
 1. **Log in to your Google Ads account.**
-2. Navigate to the **Tools & Settings** menu.
-3. Under the **Measurement** section, click on **Conversions**.
-4. Click the **+ Conversion** button to create a new conversion action.
-5. Select the type of conversion you want to track (e.g., website, app, phone calls).
-6. Fill in the necessary details such as conversion name, value, and count.
-7. Save your conversion action.
+2. In the left sidebar, click **"Goals"** → **"Conversions"**
+   - **OR** click **"Tools"** icon (gear) → Under **"Measurement"** → **"Conversions"**
+3. Click the **"+ New conversion action"** or **"+ (plus)"** button.
+4. Select the conversion source you want to track:
+   - **Website** (most common for e-commerce)
+   - App, Phone calls, Import, etc.
+5. For website conversions, enter your website URL and click **"Scan"**
+   - Or select **"Add a conversion action manually"**
+6. Fill in the necessary details:
+   - **Goal and action optimization**: Primary or Secondary
+   - **Conversion name**: e.g., "Purchase", "Add to cart"
+   - **Value**: Transaction-specific or same value
+   - **Count**: One (for purchases) or Every (for leads)
+7. Click **"Done"** or **"Save and continue"** to save your conversion action.
 
 ## Step 2: Install Tracking Tags
 ### For Shopify:

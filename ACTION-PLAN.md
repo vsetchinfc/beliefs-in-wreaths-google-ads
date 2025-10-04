@@ -1,446 +1,525 @@
-# Beliefs in Wreaths - Google Ads Optimization Action Plan
-# 🎄 CHRISTMAS SALES FOCUS - URGENT TIMELINE
-
----
-## ⚠️ DOCUMENT STATUS: OUTDATED
-**This document contains budget recommendations for $40-50/day and $20-30/day.**
-
-**CLIENT DECISION (Oct 4, 2025):** Staying at $15/day (no increase approved)
-
-**USE INSTEAD:**
-- **REVISED-BUDGET-PLAN.md** - Complete $15/day Christmas strategy
-- **QUICK-WINS.md** - Immediate actions for $15/day
-- **IMPLEMENTATION-CHECKLIST.md** - Tracking tool
-
-**This document kept for historical reference only.**
----
+# 🎄 BELIEFS IN WREATHS - GOOGLE ADS ACTION PLAN
+## Christmas Campaign Strategy - $15/Day Budget
 
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
-**Analysis Date:** October 4, 2025  
-**Report Period:** Sep 19 - Oct 2, 2025  
-**Strategy:** 100% Christmas Campaign Focus (Client Directive)  
-**Budget:** ~~$40-50/day~~ **$15/day (CLIENT FINAL)**  
-**Timeline:** URGENT - Only 11 weeks until Christmas  
-**Analyst:** [Your Name]
+**Campaign:** B-in-W [Search | Sales]  
+**Budget:** $15/day (CLIENT APPROVED - FINAL)  
+**Timeline:** October 4 - December 15, 2025 (71 days)  
+**Focus:** 100% Christmas wreath sales  
+**Status:** All Year Products PAUSED per client decision
 
 ---
 
-## ⚠️ CHRISTMAS SEASON URGENCY
+## 📊 EXECUTIVE SUMMARY
 
-**Critical Timeline:**
-- **Today:** October 4, 2025
-- **Christmas:** December 25, 2025 (11 weeks away)
-- **Last order date:** ~December 15 (10 weeks)
-- **Peak shopping:** October-November (NOW!)
+### Current Situation (Oct 4, 2025)
+- **Budget:** $15/day confirmed (was ~$6/day, increased to $15/day Oct 3)
+- **Performance:** 36 impressions in 2 weeks, 5 clicks, 13.89% CTR
+- **Issue:** Very low visibility, no conversion tracking
+- **Opportunity:** 71 days until Christmas = prime selling season
 
-**Strategy Decision:**
-Client has decided to focus 100% of budget on Christmas Products campaign. All Year Products will remain paused. This plan reflects that priority.
+### Campaign Goals (Oct 4 - Dec 15, 71 days)
+- **Investment:** $1,065 total ($15/day × 71 days)
+- **Expected Sales:** 50-70 Christmas wreaths
+- **Expected Revenue:** $7,500-10,500
+- **Expected ROAS:** 700-900% (7-10x return)
+- **Expected Profit:** $6,400-9,400 (after ad spend)
 
----
-
-## 📊 Executive Summary
-
-### Current Performance (Sep 19 - Oct 2)
-- **Total Impressions:** 36 (extremely low)
-- **Total Clicks:** 5
-- **CTR:** 13.89% (good when ads show)
-- **Total Spend:** AUD $3.13
-- **Conversions:** 0 (no tracking installed)
-- **Active Keywords:** 86 (but only 3 getting impressions)
-
-### Critical Issues
-1. 🔴 **ALL YEAR PRODUCTS AD GROUP IS PAUSED** - 27 core wreath keywords inactive
-2. 🔴 **Extremely low impression volume** - Budget/bid issues preventing ad visibility
-3. 🔴 **No conversion tracking** - Cannot measure ROI
-4. 🔴 **15+ irrelevant keywords** - Generic gift/birthday terms waste budget
-5. 🟡 **79% broad match keywords** - Poor targeting control
-6. 🟡 **2 low quality score keywords** - Affecting ad rank
+### Strategy
+✅ Focus on 12-15 high-performing keywords only  
+✅ Conservative bid strategy ($0.60-$1.20 range)  
+✅ Prioritize proven performers (40% CTR on luxury keywords)  
+✅ Daily monitoring essential with limited budget  
+✅ Conversion tracking setup CRITICAL  
 
 ---
 
-## 🎯 Immediate Actions (Next 7 Days)
+## ⚡ IMMEDIATE ACTIONS (TODAY - Oct 4)
 
-### PRIORITY 1: Maximize Christmas Campaign Budget ⚡🎄
-**Impact:** CRITICAL | **Effort:** LOW | **Timeline:** TODAY
+### ✅ COMPLETED
+- [✅] Budget increased to $15/day
+- [✅] Deleted 15+ irrelevant keywords (gift, birthday terms)
+- [✅] Added negative keywords
+- [✅] All Year Products confirmed PAUSED
 
-**Why:** Peak Christmas shopping season is NOW. Every day without maximum visibility = lost sales.
+### 🎯 DO NOW (Next 2 Hours)
 
-**Current Situation:**
-- Only 36 impressions in 2 weeks = invisible to Christmas shoppers
-- Competitors are capturing Christmas wreath searches
-- 11 weeks until Christmas, 10 weeks until last order dates
-- October-November is THE critical sales window
+**1. Remove "Not Eligible" Keywords** - ✅ COMPLETED
+- Go to Keywords tab → Filter by "Not eligible"
+- **DELETE all non-Christmas keywords** (you confirmed they're not Christmas-related)
+- These won't show anyway + waste account space
 
-**Actions:**
-- [ ] Log into Google Ads account
-- [ ] Navigate to Christmas Products campaign settings
-- [ ] Increase daily budget to **$40-50/day** (from ~$5-10)
-- [ ] Verify "All Year Products" stays PAUSED (client decision)
-- [ ] Set delivery method to standard (for all-day coverage)
-- [ ] Monitor for 24 hours to ensure ads are serving
-
-**Expected Results:**
-- Impressions increase from 36/2wk to 1,500-2,500/2wk
-- Capture early Christmas shoppers (high intent, less competition)
-- Build momentum for November peak
-- Maximum ROI during limited seasonal window
-
----
-
-### PRIORITY 2: Increase Budget & Bids 💰
-**Impact:** HIGH | **Effort:** LOW | **Timeline:** THIS WEEK
-
-**Why:** Only 36 impressions in 2 weeks means your ads are barely showing.
-
-**Current Situation:**
-- Average CPC: $0.63
-- Top keyword "luxury christmas wreath australia": Only 5 impressions in 2 weeks
-- Most keywords: 0 impressions
-
-**Actions:**
-
-#### A. Increase Daily Budget
-- [ ] Check current daily budget (likely $5-10/day)
-- [ ] Increase to **$20-30/day minimum** for the campaign
-- [ ] Allocate 60% to All Year Products, 40% to Christmas Products
-
-#### B. Increase Keyword Bids
-Current top performers to prioritize:
-- [ ] "luxury christmas wreath australia" → Bid: $1.50 (currently getting clicks at $0.61)
-- [ ] "christmas wreath" → Bid: $1.20
-- [ ] "xmas wreaths for front door" (Phrase) → Bid: $1.00
-
-**Expected Results:**
-- Increase impressions from 36 to 500-1000+ per week
-- Maintain CPC around $0.50-1.00
-- Generate 30-50 clicks per week
-
----
-
-### PRIORITY 3: Remove Irrelevant Keywords 🗑️
-**Impact:** MEDIUM | **Effort:** LOW | **Timeline:** THIS WEEK
-
-**Why:** These keywords are not related to wreaths and waste budget on irrelevant clicks.
-
-**Keywords to DELETE or PAUSE immediately:**
-
-#### Generic Gift Keywords (NOT wreath-related):
-- [ ] gift for
-- [ ] best present
-- [ ] best gift
-- [ ] cool gifts
-- [ ] fun gift idea
-- [ ] good gift idea
-- [ ] gift idea for
-- [ ] xmas gifts (unless specifically targeting gifting angle)
-
-#### Birthday Keywords (NOT relevant):
-- [ ] birthday ideas for women
-- [ ] birthday ideas for her
-- [ ] best birthday gift ideas
-- [ ] best birthday presents
-- [ ] good birthday gift ideas
-- [ ] great birthday gift ideas
-
-#### Sale Events (NOT search-relevant):
-- [ ] Black Friday Sale
-- [ ] EOFY Sale
-
-#### Other Overly Generic:
-- [ ] christmas tree store
-- [ ] home ornaments
-- [ ] holiday gift shopping
-
-**Total to remove:** 15-20 keywords  
-**Budget saved:** Can be reallocated to high-performing wreath keywords
-
----
-
-### PRIORITY 4: Add Negative Keywords 🚫
-**Impact:** MEDIUM | **Effort:** LOW | **Timeline:** THIS WEEK
-
-**Why:** Broad match keywords can trigger on irrelevant searches. Negative keywords prevent wasted spend.
-
-**Create Negative Keyword List:**
-
-#### Negative Keywords to Add:
+**2. Increase Bids on Top 3 Performers**
 ```
-diy
-tutorial
-how to make
-make your own
-craft
-homemade
-funeral
-sympathy
-memorial
-condolence
-free
-cheap
-clearance
-used
-second hand
-hire
-rental
-template
-pattern
-instructions
-lesson
-class
-workshop
+"luxury christmas wreath australia" → $1.20 (currently 40% CTR!)
+"christmas wreath" → $0.90 (currently 8.33% CTR)
+"xmas wreaths for front door" → $0.80 (currently 100% CTR)
 ```
 
-**How to Implement:**
-1. In Google Ads, go to Tools & Settings → Negative keyword lists
-2. Create list: "Beliefs in Wreaths - General Negatives"
-3. Add keywords above
-4. Apply to all campaigns
+**How to do it:**
+- Keywords tab → Click on bid amount → Type new bid → Enter
+- See: docs/guides/increase-keyword-bids.md for detailed steps
+
+**3. Verify Bidding Strategy**
+- Campaign Settings → Bidding
+- Should be: **Manual CPC** (not "Maximize Clicks") - ✅ COMPLETED, switched to Manual CPC
+- If Maximize Clicks, change to Manual CPC to control individual bids
 
 ---
 
-### PRIORITY 5: Set Up Conversion Tracking 📈
-**Impact:** HIGH | **Effort:** MEDIUM | **Timeline:** THIS WEEK
+## 📅 WEEK 1 PLAN (Oct 4-11)
 
-**Why:** Currently tracking 0 conversions. You MUST track conversions to measure ROI and optimize properly.
+### Day 1-2: Foundation ✅ MOSTLY DONE
+- [✅] Budget set to $15/day
+- [✅] Irrelevant keywords deleted
+- [✅] Negative keywords added
+- [ ] Bids increased on top 3 keywords
+- [ ] Verify Manual CPC bidding enabled
 
-**What to Track:**
-1. **Primary Conversion:** Purchase/Order Completed
-2. **Secondary Conversion:** Add to Cart
-3. **Micro Conversion:** Product Page Views (optional)
+### Day 3-4: Optimization
+- [ ] **Set up conversion tracking** (CRITICAL - Priority #1)
+  - See: docs/guides/setup-conversion-tracking.md
+  - Track: Purchase completion
+  - Test with Google Tag Assistant
+- [ ] Export Search Terms Report
+  - Keywords → Search terms → Last 30 days
+  - Look for new opportunities & wasted spend
+- [ ] Add 3-5 more negative keywords based on search terms
 
-**Implementation Steps:**
+### Day 5-7: Expansion
+- [ ] Add 5 new phrase match keywords (see keyword list below)
+- [ ] Create 2 additional ad variations
+  - Need 3 ads minimum per ad group
+  - See: docs/guides/create-multiple-ads.md
+- [ ] Monitor daily performance (5-10 min/day)
 
-#### Option A: Google Ads Conversion Tag (Recommended)
-- [ ] In Google Ads: Tools & Settings → Conversions → New Conversion
-- [ ] Select "Website" → "Purchase"
-- [ ] Name: "Beliefs in Wreaths - Purchase"
-- [ ] Value: Use transaction-specific value
-- [ ] Copy the Global Site Tag and Event Snippet
-- [ ] Install on Shopify thank-you page
-- [ ] Test with Google Tag Assistant
-
-#### Option B: Google Analytics 4 Integration
-- [ ] Ensure GA4 is installed on website
-- [ ] Link GA4 to Google Ads
-- [ ] Import GA4 "purchase" event as conversion
-- [ ] Set appropriate attribution window
-
-**Expected Outcome:**
-- Track all purchases from Google Ads
-- See which keywords drive sales
-- Calculate actual ROAS (Return on Ad Spend)
-- Optimize budget based on conversion data
+### Week 1 Success Metrics
+- 🎯 Impressions: 900+ (up from 18/week)
+- 🎯 Clicks: 110-140
+- 🎯 CTR: Maintain >8%
+- 🎯 Conversions: 3-6 (if tracking installed)
+- 🎯 Spend: $105
 
 ---
 
-## 🔧 Optimization Tasks (Next 14-30 Days)
+## 🎯 KEYWORD STRATEGY - $15/DAY
 
-### PRIORITY 6: Optimize Match Types
-**Current:** 79% Broad Match | **Target:** 40% Broad, 40% Phrase, 20% Exact
-
-**Actions:**
-- [ ] Add Exact Match versions of top 3 performing keywords
-- [ ] Add Phrase Match for all product-specific terms
-- [ ] Keep Broad Match only for discovery of new search terms
-
-**Recommended Exact Match Additions:**
+### Current High Performers (KEEP & SCALE)
 ```
-[buy wreath online australia]
-[luxury door wreath australia]
-[front door wreath sydney]
-[eucalyptus wreath australia]
-[christmas wreath online australia]
-[designer wreath australia]
-[premium door wreaths]
+✅ luxury christmas wreath australia - Broad - 40% CTR - Bid: $1.20
+✅ christmas wreath - Broad - 8.33% CTR - Bid: $0.90
+✅ xmas wreaths for front door - Phrase - 100% CTR - Bid: $0.80
+```
+
+### Tier 1: Top Priority (8 keywords) - 65% of budget
+**Exact Match - High Intent - Bids: $0.80-$1.20**
+```
+[luxury christmas wreath australia] - $1.20 (our best!)
+[buy christmas wreath australia] - $0.90
+[christmas wreath delivery sydney] - $1.00
+[christmas wreath delivery melbourne] - $1.00
+[christmas door wreath australia] - $0.85
+[christmas wreaths sydney] - $0.80
+[christmas wreaths melbourne] - $0.80
+[designer christmas wreath australia] - $1.00
+```
+
+### Tier 2: Support Keywords (4 keywords) - 25% of budget
+**Phrase Match - Product Specific - Bids: $0.60-$0.65**
+```
+"handmade christmas wreaths australia" - $0.65
+"christmas door wreaths" - $0.60
+"eucalyptus christmas wreath" - $0.60
+"designer christmas door wreath" - $0.65
+```
+
+### Tier 3: Volume Keywords (3 keywords) - 10% of budget
+**Broad Match - Proven Only - Bids: $0.50-$0.70**
+```
+luxury christmas wreath australia - $0.70 (KEEP - 40% CTR)
+christmas wreath - $0.60 (KEEP - 8.33% CTR)
+xmas wreaths for front door - $0.50 (KEEP - 100% CTR)
+```
+
+**Total: 15 keywords (streamlined for $15/day)**
+
+### Keywords to DELETE
+**❌ Not eligible + Not Christmas-related = DELETE NOW**
+- Filter by "Not eligible" status
+- Review list - if not Christmas wreaths, delete them
+- Frees up account space & mental clarity
+
+### Negative Keywords (Already Added ✅)
+```
+-diy, -tutorial, -"how to make", -free, -cheap
+-funeral, -sympathy, -memorial, -condolence
+-wholesale, -bulk, -rental, -hire
+-birthday, -gift (general)
 ```
 
 ---
 
-### PRIORITY 7: Add High-Intent Keywords
-**Impact:** HIGH | **Effort:** MEDIUM | **Timeline:** WEEK 2
+## 📈 MONTHLY PERFORMANCE TARGETS
 
-**New Keywords to Add:**
+### October (Oct 4-31): $420 budget (28 days)
+- **Clicks:** 600-660
+- **Conversions:** 15-20
+- **Revenue:** $2,250-3,600
+- **ROAS:** ~650%
 
-#### All Year Products Ad Group:
-```
-[buy door wreath australia] - Exact
-"premium door wreaths australia" - Phrase
-"eucalyptus door wreath" - Phrase
-"native australian wreath" - Phrase
-"year round door wreath" - Phrase
-[luxury front door wreath] - Exact
-"designer door wreath sydney" - Phrase
-"designer door wreath melbourne" - Phrase
-```
+### November (Nov 1-30): $450 budget (30 days)
+- **Clicks:** 675-720
+- **Conversions:** 22-29
+- **Revenue:** $3,300-5,220
+- **ROAS:** ~900%
 
-#### Christmas Products Ad Group:
-```
-[buy christmas wreath online australia] - Exact
-"luxury christmas door decoration" - Phrase
-[designer christmas wreath australia] - Exact
-"handmade christmas wreath australia" - Phrase
-"eucalyptus christmas wreath" - Phrase
-```
+### December (Dec 1-15): $225 budget (15 days)
+- **Clicks:** 325-360
+- **Conversions:** 13-17
+- **Revenue:** $1,950-3,060
+- **ROAS:** ~1000%+
 
-**Suggested Bids:** $1.00 - $1.50 for Exact/Phrase match
-
----
-
-### PRIORITY 8: Fix Low Quality Score Keywords
-**Impact:** MEDIUM | **Effort:** MEDIUM | **Timeline:** WEEK 2-3
-
-**Current Low QS Keywords:**
-1. "front door design" - Too generic, not wreath-specific
-2. "floral wreath" - Too generic, funeral association
-
-**Actions:**
-- [ ] Pause "front door design" - NOT relevant to wreaths
-- [ ] Replace "floral wreath" with "fresh floral door wreath"
-- [ ] Ensure ad copy mentions wreaths prominently
-- [ ] Ensure landing pages are specific to keyword intent
-
-**Quality Score Improvement Tactics:**
-- Improve ad relevance (mention wreath in ad headline)
-- Improve landing page experience (fast load, mobile-friendly)
-- Improve expected CTR (compelling ad copy)
+### Campaign Total (71 days)
+- **Budget:** $1,065
+- **Clicks:** ~1,600
+- **Conversions:** 50-70
+- **Revenue:** $7,500-10,500
+- **ROAS:** 704-986%
+- **Profit:** $6,400-9,400
 
 ---
 
-### PRIORITY 9: Improve Ad Copy
-**Impact:** MEDIUM | **Effort:** MEDIUM | **Timeline:** WEEK 2-3
+## 🔧 ONGOING OPTIMIZATION
 
-**Action Required:** Need to see current ad copy to provide specific recommendations.
+### Daily Tasks (5-10 minutes)
+- [ ] Check yesterday's spend (should be ~$15)
+- [ ] Review clicks and CTR
+- [ ] Check for any Google Ads alerts
+- [ ] Verify conversion tracking working
 
-**Request from Client:**
-- [ ] Export all ads from Google Ads
-- [ ] Share current ad text for review
+### Weekly Tasks (30 minutes - Every Monday)
+- [ ] Review Search Terms Report
+  - Add negative keywords for irrelevant terms
+  - Add new keywords for good performers
+- [ ] Check Quality Scores (aim for 7+/10)
+- [ ] Adjust bids on top/bottom 3 performers
+- [ ] Review conversion data (which keywords = sales?)
 
-**General Recommendations:**
-- Include "Australia" or "Sydney" in headlines
-- Highlight USPs: "Handmade", "Premium", "Designer"
-- Add price indicators if competitive
-- Use calls-to-action: "Shop Now", "Free Shipping"
-- Test emotional angles: "Transform Your Front Door"
-
----
-
-### PRIORITY 10: Create Negative Keyword Strategy
-**Impact:** MEDIUM | **Effort:** LOW | **Timeline:** ONGOING
-
-**Weekly Task:**
-- [ ] Review Search Terms Report every Monday
-- [ ] Add irrelevant queries as negative keywords
-- [ ] Look for patterns of wasted spend
-
-**Monthly Review:**
-- [ ] Audit negative keyword list
-- [ ] Remove negatives that may be too restrictive
-- [ ] Update based on seasonal trends
+### Bi-Weekly Tasks (1 hour - Every other Friday)
+- [ ] Analyze conversion data deeply
+- [ ] Test new ad copy variations
+- [ ] Review geographic performance
+- [ ] Adjust bids by location if needed
+- [ ] Update client on progress
 
 ---
 
-## 📋 Data Collection Checklist
+## 🚨 CRITICAL SUCCESS FACTORS
 
-To provide deeper analysis, please collect and share:
+### Must-Have Items
 
-### From Google Ads:
-- [ ] Last 90 days campaign performance report
-- [ ] Search terms report (CRITICAL - shows actual queries)
-- [ ] Ad copy export
-- [ ] Campaign settings (targeting, schedule, devices)
-- [ ] Quality Score report
-- [ ] Geographic performance report
-- [ ] Device performance report
-- [ ] Hour of day performance
-- [ ] Auction insights report
+**1. Conversion Tracking (Week 1)**
+- WITHOUT this: Can't measure ROI, can't optimize effectively
+- Install on thank-you/order confirmation page
+- Test to ensure working
+- **Priority #1 - Do this weekend!**
 
-### From Website:
-- [ ] Google Analytics report (last 90 days)
-- [ ] Top landing pages by traffic
-- [ ] Conversion rate by landing page
-- [ ] Average order value
-- [ ] Bounce rate by source
-- [ ] Product catalog/price list
+**2. Daily Monitoring**
+- With only $15/day, every dollar counts
+- Check daily spend rate
+- Watch for budget hitting limit early
+- Pause non-performers quickly
 
-### Business Information:
-- [ ] Monthly advertising budget
-- [ ] Target cost per acquisition (CPA)
-- [ ] Average order value (AOV)
-- [ ] Profit margins by product category
-- [ ] Seasonal sales patterns
-- [ ] Top 5 best-selling products
-- [ ] Unique selling propositions
-- [ ] Competitor list
+**3. Keyword Discipline**
+- Stick to 15 keywords maximum
+- Don't add low-intent keywords
+- Pause anything with 0 conversions after 50 clicks
+- Focus beats breadth with limited budget
+
+**4. Search Terms Review**
+- Weekly minimum
+- Add negatives aggressively
+- Block: DIY, cheap, free, funeral, wholesale
+- Stop wasted spend immediately
 
 ---
 
-## 🎯 Success Metrics (30-Day Goals)
+## ⚠️ WARNING SIGNS & FIXES
 
-Starting from Oct 4, 2025:
+### Red Flags to Watch (Week 1)
 
-| Metric | Current | 30-Day Goal | 90-Day Goal |
-|--------|---------|-------------|-------------|
-| Impressions/week | 18 | 1,000+ | 3,000+ |
-| Clicks/week | 2.5 | 50+ | 150+ |
-| CTR | 13.89% | 5-8% | 5-8% |
-| Avg CPC | $0.63 | $0.70-1.00 | $0.60-0.90 |
-| Weekly Spend | $1.56 | $140-210 | $420-630 |
-| Conversions | 0 | 3-5 | 15-25 |
-| Conv Rate | 0% | 3-5% | 5-7% |
-| ROAS | N/A | 300%+ | 400%+ |
+**❌ Budget hitting limit before 6pm daily**
+- **Fix:** Lower all bids by 10-15%
+- **Why:** Budget exhausting too fast
 
-**Assumptions:**
-- Daily budget: $20-30
-- Average order value: $150-200
-- Target CPA: $40-60
+**❌ CTR drops below 5%**
+- **Fix:** Pause low CTR keywords, improve ad copy
+- **Why:** Poor relevance = wasted clicks
 
----
+**❌ No conversions after 100 clicks**
+- **Fix:** Check conversion tracking, review landing page
+- **Why:** Either tracking broken or landing page issue
 
-## 💡 Quick Wins Summary
+**❌ CPC above $1.50**
+- **Fix:** Lower bids or improve Quality Score
+- **Why:** Overpaying per click
 
-**This Week (Oct 4-11):**
-1. ✅ Unpause "All Year Products" ad group
-2. ✅ Increase daily budget to $20-30
-3. ✅ Remove 15+ irrelevant keywords
-4. ✅ Add negative keyword list
-5. ✅ Increase bids on top 3 keywords
-
-**Next Week (Oct 11-18):**
-1. ✅ Set up conversion tracking
-2. ✅ Add 10 new high-intent keywords
-3. ✅ Create exact match versions of top performers
-4. ✅ Review search terms report
-5. ✅ Request full campaign data
-
-**Week 3-4 (Oct 18-Nov 1):**
-1. ✅ Optimize ad copy based on data
-2. ✅ Fix low quality score keywords
-3. ✅ Implement geographic bid adjustments
-4. ✅ Set up automated rules
-5. ✅ Create weekly reporting template
+**❌ Impression share <20%**
+- **Fix:** Increase bids on top 3 keywords only
+- **Why:** Not visible enough
 
 ---
 
-## 📞 Next Steps with Client
+## 📱 CAMPAIGN SETTINGS
 
-**Information Needed:**
-1. Why is "All Year Products" paused? (budget? seasonal focus?)
-2. What is the total monthly budget available?
-3. Can we get direct access to Google Ads account?
-4. Is conversion tracking already set up? (doesn't appear to be)
-5. What is the average order value?
-6. What is the target ROAS or CPA?
+### Budget & Bidding
+- **Daily budget:** $15
+- **Bidding strategy:** Manual CPC with Enhanced CPC enabled
+- **Delivery method:** Standard (evenly throughout day)
 
-**Meeting Agenda:**
-1. Review current performance (5 min)
-2. Explain critical issues (10 min)
-3. Walk through priority actions (15 min)
-4. Get approval for budget increase (5 min)
-5. Discuss conversion tracking implementation (10 min)
-6. Set expectations and timelines (5 min)
+### Schedule
+- **Days:** All days (Christmas shopping = every day)
+- **Hours:** All hours (no restrictions)
+- **Bid adjustments:**
+  - 6pm-11pm: +15% (peak browsing time)
+  - Weekends: +10% (more browsing)
+  - Mobile: Monitor performance, adjust if needed
+
+### Location Targeting
+- **Primary:** Sydney, Melbourne (75% of budget focus)
+- **Secondary:** Brisbane (20%)
+- **Tertiary:** Perth, Adelaide (5%)
+- **Method:** People in or searching for your targeted locations
+
+### Ad Rotation
+- **Setting:** Optimize (let Google show best performers)
+- **Minimum:** 3 ads per ad group
 
 ---
 
-**Document Version:** 1.0  
+## 📊 SUCCESS METRICS TO TRACK
+
+### Key Performance Indicators
+
+| Metric | Current | Week 1 Goal | Month 1 Goal |
+|--------|---------|-------------|--------------|
+| **Impressions/week** | 18 | 900+ | 3,800+ |
+| **Clicks/week** | 2.5 | 110-140 | 600+ |
+| **CTR** | 13.89% | 8-12% | 8-12% |
+| **Avg CPC** | $0.63 | $0.70-0.90 | $0.65-0.85 |
+| **Conversions/week** | 0 | 3-6 | 15-20 |
+| **Conv Rate** | 0% | 3-5% | 3-5% |
+| **ROAS** | N/A | 600%+ | 700%+ |
+| **Quality Score** | 4-6/10 | 6-7/10 | 7-8/10 |
+
+### Quality Score Targets
+- **Excellent:** 8-10/10 - Maintain these keywords
+- **Good:** 6-7/10 - Try to improve
+- **Poor:** 4-5/10 - Fix or pause
+- **Bad:** 1-3/10 - Pause immediately
+
+---
+
+## 🎄 EFFICIENCY TIPS FOR $15/DAY
+
+### Maximize Your Limited Budget
+
+**1. Be Ruthless with Keywords**
+- Only keep keywords with >5% CTR
+- Pause after 50 clicks if 0 conversions
+- Don't waste clicks on low-intent terms
+- Quality over quantity always
+
+**2. Use Negative Keywords Aggressively**
+- Add 20-30 negatives in first week
+- Review Search Terms Report 2x weekly
+- Block: DIY, cheap, free, funeral, wholesale
+- Stop waste immediately
+
+**3. Focus on High-Intent Terms**
+- "buy" keywords = best
+- Location + product keywords = good
+- Delivery keywords = good
+- Premium/luxury qualifiers = good
+- Generic terms = bad
+
+**4. Monitor Quality Scores**
+- Aim for 7+/10 on all keywords
+- Fix landing pages for low QS
+- Pause keywords stuck below 5/10
+- High QS = lower CPC = more clicks
+
+**5. Geographic Focus**
+- Start with Sydney & Melbourne
+- 75% of budget to top 2 cities
+- Expand only if performing well
+- Use location bid adjustments
+
+**6. Time-Based Optimization**
+- Identify peak conversion times
+- Add bid adjustments (+15-20%)
+- Don't waste budget at 3am
+- Weekends often perform better
+
+---
+
+## 🔗 HELPFUL GUIDES
+
+### In This Workspace
+
+**Implementation Guides:**
+- `docs/guides/increase-keyword-bids.md` - How to change bids in Google Ads
+- `docs/guides/setup-conversion-tracking.md` - CRITICAL - Install tracking
+- `docs/guides/create-multiple-ads.md` - Create 3 ad variations
+- `docs/guides/fix-landing-page-quality.md` - Improve Quality Score
+
+**Reference Documents:**
+- `docs/FIX-LOW-SEARCH-VOLUME.md` - Australian market keyword strategy
+- `docs/ACTION-CHECKLIST.md` - Alternative task list format
+- `DOCUMENT-STATUS.md` - Which documents are current vs outdated
+
+**Templates:**
+- `docs/WEEKLY-PERFORMANCE-TEMPLATE.md` - Track weekly progress
+
+---
+
+## 📞 NEXT STEPS WITH CLIENT
+
+### Information Confirmed
+✅ Budget: $15/day (no increase approved)  
+✅ Focus: 100% Christmas (All Year Products paused)  
+✅ Timeline: Oct 4 - Dec 15 (71 days)  
+✅ Expectations: 50-70 sales, $7,500-10,500 revenue  
+
+### Still Need
+- [ ] Conversion tracking implementation access
+- [ ] Website admin access (for tracking installation)
+- [ ] Average order value confirmation (assuming $150)
+- [ ] Product margins (for profit calculation)
+
+### Client Communication
+**Message to send:**
+> "We've optimized your Christmas campaign for the $15/day budget. Expected results: 50-70 wreath sales generating $7,500-10,500 revenue over the next 71 days (7-10x ROI).
+>
+> Critical next step: Install conversion tracking this weekend so we can measure which keywords drive sales and optimize accordingly. Without this, we're flying blind.
+>
+> I'll monitor daily and provide weekly updates on performance."
+
+---
+
+## ✅ IMPLEMENTATION CHECKLIST
+
+### Week 1 (Oct 4-11)
+**Day 1-2: Foundation**
+- [✅] Budget confirmed $15/day
+- [✅] Deleted irrelevant keywords
+- [✅] Added negative keywords
+- [ ] Increased bids on top 3 keywords
+- [ ] Verified Manual CPC bidding
+
+**Day 3-4: Critical Setup**
+- [ ] Set up conversion tracking ⚠️ PRIORITY #1
+- [ ] Test conversion tracking works
+- [ ] Export Search Terms Report
+- [ ] Add 5 more negative keywords
+
+**Day 5-7: Expansion**
+- [ ] Add 5 new phrase match keywords
+- [ ] Create 2 more ad variations (need 3 total)
+- [ ] First performance review
+- [ ] Document what's working
+
+### Week 2 (Oct 11-18)
+- [ ] Analyze Week 1 conversion data
+- [ ] Adjust bids based on performance
+- [ ] Add exact match versions of top 3 performers
+- [ ] Review Quality Scores, fix issues
+- [ ] Weekly client update
+
+### Week 3-4 (Oct 18-Nov 1)
+- [ ] Scale what's working (increase bids)
+- [ ] Pause what's not (0 conv after 50 clicks)
+- [ ] A/B test ad copy
+- [ ] Geographic performance review
+- [ ] Month 1 comprehensive review
+
+---
+
+## 💰 BUDGET BREAKDOWN
+
+### Investment Summary
+- **Daily:** $15
+- **Weekly:** $105
+- **Monthly:** ~$450
+- **Campaign Total:** $1,065 (71 days)
+
+### Expected Return
+- **Conservative:** $5,160 revenue (485% ROAS)
+- **Realistic:** $9,600 revenue (901% ROAS)
+- **Optimistic:** $15,300 revenue (1,437% ROAS)
+
+### Profit Projection (after ad spend)
+- **Conservative:** $4,095 profit
+- **Realistic:** $8,535 profit
+- **Optimistic:** $14,235 profit
+
+**Assumption:** 60% profit margin on wreaths
+
+---
+
+## 🎯 BOTTOM LINE
+
+**$15/day = $1,065 total = 50-70 sales = $7,500-10,500 revenue**
+
+### What Makes This Work:
+
+✅ **Focused Strategy** - 15 keywords, not 86  
+✅ **Proven Performers** - Scaling what already works (40% CTR!)  
+✅ **Conservative Bids** - $0.60-$1.20 range, not overpaying  
+✅ **Daily Monitoring** - Catching issues fast  
+✅ **Efficiency Focus** - Every dollar optimized  
+
+### Success Requirements:
+
+⚠️ **Conversion tracking** - Must install Week 1  
+⚠️ **Daily checks** - 5-10 min monitoring  
+⚠️ **Weekly optimization** - Search terms + bids  
+⚠️ **Discipline** - Stay focused on 15 keywords  
+
+**This is a realistic, achievable Christmas campaign!** 🎄
+
+---
+
+## 📝 NOTES & CONTEXT
+
+### Budget Decision History
+1. Sept 19-Oct 2: Campaign at ~$6/day, poor performance
+2. Oct 3: Increased to $15/day
+3. Oct 4: Analyzed, recommended $20/day
+4. Oct 4: **Client decided to stay at $15/day (FINAL)**
+
+### Why $15/Day Works
+- Still generates 700-900% ROAS
+- Requires efficiency & discipline
+- Focuses on proven winners
+- Realistic expectations (50-70 sales vs 70-90)
+- Profitable with proper execution
+
+### Documents Superseded by This Plan
+This document consolidates:
+- ✅ ACTION-PLAN.md (old structure)
+- ✅ REVISED-BUDGET-PLAN.md (strategy)
+- ✅ QUICK-WINS.md (immediate actions)
+- ✅ KEYWORD-RECOMMENDATIONS.md (keyword list)
+- ✅ IMPLEMENTATION-CHECKLIST.md (tasks)
+- ✅ FINAL-BUDGET-DECISION.md (budget context)
+
+**All information in ONE place!**
+
+---
+
+**Document Created:** October 4, 2025  
 **Last Updated:** October 4, 2025  
-**Next Review:** October 11, 2025
+**Next Review:** October 11, 2025 (Week 1 check-in)  
+**Version:** 1.0 (Consolidated)  
+**Status:** ACTIVE - This is your primary working document
