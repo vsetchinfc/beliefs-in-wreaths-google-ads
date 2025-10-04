@@ -1,10 +1,25 @@
 # Beliefs in Wreaths - Google Ads Optimization Action Plan
 # 🎄 CHRISTMAS SALES FOCUS - URGENT TIMELINE
 
+---
+## ⚠️ DOCUMENT STATUS: OUTDATED
+**This document contains budget recommendations for $40-50/day and $20-30/day.**
+
+**CLIENT DECISION (Oct 4, 2025):** Staying at $15/day (no increase approved)
+
+**USE INSTEAD:**
+- **REVISED-BUDGET-PLAN.md** - Complete $15/day Christmas strategy
+- **QUICK-WINS.md** - Immediate actions for $15/day
+- **IMPLEMENTATION-CHECKLIST.md** - Tracking tool
+
+**This document kept for historical reference only.**
+---
+
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
 **Analysis Date:** October 4, 2025  
 **Report Period:** Sep 19 - Oct 2, 2025  
 **Strategy:** 100% Christmas Campaign Focus (Client Directive)  
+**Budget:** ~~$40-50/day~~ **$15/day (CLIENT FINAL)**  
 **Timeline:** URGENT - Only 11 weeks until Christmas  
 **Analyst:** [Your Name]
 

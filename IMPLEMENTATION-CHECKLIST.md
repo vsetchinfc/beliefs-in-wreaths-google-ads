@@ -17,11 +17,11 @@
   - **Status:** ❌ REJECTED - Concentrate on Christmas Season
 
 - [✅] **Increase daily budget**
-  - Current: ~$6/day
-  - New: $15/day
+  - Current: $15/day (CLIENT APPROVED - NO INCREASE)
+  - Client Decision: Stay at $15/day for Christmas season
   - Location: Campaign Settings → Budget
-  - **Responsible:** _____________
-  - **Status:** ✅ **Complete**
+  - **Responsible:** Vlad
+  - **Status:** ✅ **Complete - $15/day confirmed**
 
 - [✅] **Get Google Ads account access**
   - Request admin or editor access
@@ -29,12 +29,12 @@
   - **Status:** ✅ Complete
 
 ### Day 2-3 - Keyword Cleanup
-- [⏳] **Delete irrelevant keywords (25 keywords)**
+- [✅] **Delete irrelevant keywords (25 keywords)**
   - Keywords > Select keywords from list
   - Remove: gift for, best present, birthday ideas, etc.
   - See KEYWORD-RECOMMENDATIONS.md for full list
-  - **Responsible:** _____________
-  - **Status:** ⏳ **In Progress** | ✅ Complete
+  - **Responsible:** Vlad
+  - **Status:** ✅ Complete
 
 - [✅] **Add negative keywords**
   - Tools & Settings → Negative keyword lists
@@ -45,10 +45,11 @@
   - **Status:** ✅ Complete
 
 ### Day 3-4 - Bid Optimization
-- [ ] **Increase bids on top 3 keywords**
-  - [ ] "luxury christmas wreath australia" → $1.50
-  - [ ] "christmas wreath" → $1.20
-  - [ ] "xmas wreaths for front door" → $1.00
+- [ ] **Increase bids on top 3 keywords (ADJUSTED FOR $15/DAY BUDGET)**
+  - [ ] "luxury christmas wreath australia" → $1.20 (reduced from $1.50)
+  - [ ] "christmas wreath" → $0.90 (reduced from $1.20)
+  - [ ] "xmas wreaths for front door" → $0.80 (reduced from $1.00)
+  - **Note:** Conservative bids due to $15/day budget limit
   - **Responsible:** _____________
   - **Status:** ⬜ Pending | ⏳ In Progress | ✅ Complete
 

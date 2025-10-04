@@ -139,8 +139,22 @@
   - Measure: Conversion rate, bounce rate, time on site
 
 ### Budget & Bidding
+- [ ] **Increase bids on top 3 performing keywords**
+  - **How to do it:**
+    1. Log into Google Ads → Click **"Keywords"** in left menu
+    2. Find your keyword in the table
+    3. Click on the **current bid amount** in "Max. CPC" column
+    4. Type new bid amount (no $ sign needed)
+    5. Press Enter ✓
+  - **Keywords to update:**
+    - [ ] "luxury christmas wreath australia" → Change bid to **$1.50**
+    - [ ] "christmas wreath" → Change bid to **$1.20**
+    - [ ] "xmas wreaths for front door" → Change bid to **$1.00**
+  - **Note:** Keep as Broad Match (they're performing well). Monitor Search Terms Report for irrelevant traffic.
+  - **If you can't edit bids:** Campaign may be on "Maximize Clicks" - Change to "Manual CPC" in Campaign Settings → Bidding
+
 - [ ] **Monitor budget pacing**
-  - New budget: $15/day
+  - Budget: $15/day (CLIENT APPROVED - FINAL)
   - Track: Daily spend, clicks, impressions
   - Adjust: If consistently hitting limit
 

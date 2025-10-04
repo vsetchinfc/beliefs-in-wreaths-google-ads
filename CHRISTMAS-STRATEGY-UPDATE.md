@@ -1,7 +1,23 @@
 # 🎄 CHRISTMAS STRATEGY UPDATE - SUMMARY
 
+---
+## ❌ DOCUMENT STATUS: OUTDATED - DO NOT USE
+**This strategy assumed year-round campaign with $20-30/day budget.**
+
+**CLIENT DECISIONS (Oct 4, 2025):**
+1. Christmas ONLY focus (not year-round) ✅
+2. Budget: $15/day (not $20-30/day) ✅
+3. All Year Products stays PAUSED ✅
+
+**USE INSTEAD:**
+- **REVISED-BUDGET-PLAN.md** - Complete $15/day Christmas-only strategy ✅
+- **FINAL-BUDGET-DECISION.md** - Client decision & expectations ✅
+
+**This document kept for historical reference only.**
+---
+
 **Date:** October 4, 2025  
-**Update:** Strategy pivoted to 100% Christmas focus per client directive  
+**Update:** ~~Strategy pivoted to 100% Christmas focus~~ SUPERSEDED by $15/day plan  
 
 ---
 

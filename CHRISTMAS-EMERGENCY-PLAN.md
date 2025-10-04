@@ -1,10 +1,25 @@
 # 🎄 CHRISTMAS SALES EMERGENCY PLAN
 ## Beliefs in Wreaths - Maximize Christmas Revenue NOW
 
+---
+## ❌ DOCUMENT STATUS: OUTDATED - DO NOT USE
+**This plan was based on $40-80/day budget (emergency/aggressive strategy).**
+
+**CLIENT DECISION (Oct 4, 2025):** Budget staying at $15/day (no increase approved)
+
+**USE INSTEAD:**
+- **REVISED-BUDGET-PLAN.md** - Complete $15/day Christmas strategy ✅
+- **FINAL-BUDGET-DECISION.md** - Client decision & realistic projections ✅
+- **QUICK-WINS.md** - Immediate actions for $15/day ✅
+
+**This document kept for historical reference only.**
+---
+
 **Date:** October 4, 2025  
 **Christmas Day:** December 25, 2025 (11 weeks away)  
 **Last Order Date:** ~December 15 (10 weeks away)  
-**Strategy:** 100% Focus on Christmas Products Campaign  
+**Strategy:** ~~$40-80/day Emergency Budget~~ **REJECTED by client**  
+**Actual:** $15/day budget approved  
 
 ---
 
