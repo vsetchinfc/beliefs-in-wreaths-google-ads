@@ -49,7 +49,7 @@
 
 #### Step 1.1: Export Current Conversion List
 - [ ] Go to: Tools & Settings → Conversions
-- [ ] Take screenshots of all conversion actions
+- [✅] Take screenshots of all conversion actions
 - [ ] Note which are PRIMARY vs SECONDARY
 - [ ] Document conversion counts for each
 
@@ -81,9 +81,9 @@ Currently you have 2 purchase tracking methods:
 - Higher value tracked
 
 **Action:**
-- [ ] Keep: Google Shopping App - Purchase (PRIMARY)
-- [ ] Change: GA4 purchase to SECONDARY or REMOVE
-- [ ] This prevents double-counting
+- [✅] COMPLETED - Keep: Google Shopping App - Purchase (PRIMARY)
+- [✅] REMOVED - Change: GA4 purchase to SECONDARY or REMOVE
+- [✅] This prevents double-counting
 
 ---
 
@@ -105,7 +105,7 @@ Currently you have 2 purchase tracking methods:
 **B. Handle GA4 Purchase Duplicate**
 Choose one option:
 
-**OPTION 1: Remove GA4 Purchase** (Recommended - simplest)
+**OPTION 1: Remove GA4 Purchase** (Recommended - simplest) ✅ REMOVED
 - [ ] Click: "Beliefs in Wreaths Site (web) purchase"
 - [ ] Click: "Remove" or "Edit"
 - [ ] Status: Change to "Removed"
@@ -116,6 +116,33 @@ Choose one option:
 - [ ] Action optimisation: Change to **SECONDARY**
 - [ ] This way it won't affect bid optimization
 - [ ] Note: You'll still see some double-counting in reports
+
+---
+
+🚨 Quick Diagnosis:
+Issue #1: Count Setting (Needs fixing but not the main problem)
+Current: "Every conversion"
+Should be: "One" for purchases
+Fix: Click Count → Select "One" → Save
+Issue #2: Conversion Tag Not Installed (Most Likely - 80%)
+The tag probably isn't on your order confirmation page. This is the #1 reason test purchases don't count.
+
+Quick Test:
+
+Install Google Tag Assistant (Chrome extension)
+Make a test purchase
+On thank-you page, check if Tag Assistant shows "Google Ads Conversion Tracking" tag
+If NO → Tag not installed (this is your problem!)
+Issue #3: Too Soon? (Possible - 15%)
+Question: How long ago did you make the test purchase?
+If <24 hours: Wait, conversions can take 3-24 hours to appear
+If >24 hours: Continue troubleshooting
+🎯 Do This RIGHT NOW:
+Answer: How many hours since your test purchase?
+Install: Google Tag Assistant extension
+Test: Do another purchase and check if tag fires
+Report: Does Tag Assistant show the conversion tag on confirmation page?
+Once you tell me what Tag Assistant shows, I can give you the exact fix! 🔍
 
 ---
 
