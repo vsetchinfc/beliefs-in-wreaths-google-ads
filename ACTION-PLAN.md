@@ -77,14 +77,13 @@
 - [ ] Verify Manual CPC bidding enabled
 
 ### Day 3-4: Optimization
-- [ ] **Set up conversion tracking** (CRITICAL - Priority #1)
+- [✅] **Set up conversion tracking** (CRITICAL - Priority #1)
   - See: docs/guides/setup-conversion-tracking.md
   - Track: Purchase completion
   - Test with Google Tag Assistant
 - [ ] Export Search Terms Report
   - Keywords → Search terms → Last 30 days
   - Look for new opportunities & wasted spend
-- [ ] Add 3-5 more negative keywords based on search terms
 
 ### Day 5-7: Expansion
 - [ ] Add 5 new phrase match keywords (see keyword list below)
@@ -199,7 +198,7 @@ xmas wreaths for front door - $0.50 (KEEP - 100% CTR)
 
 ### Weekly Tasks (30 minutes - Every Monday)
 - [ ] Review Search Terms Report
-  - Add negative keywords for irrelevant terms
+  - Add negative keywords for irrelevant terms - ✅ COMPLETED
   - Add new keywords for good performers
 - [ ] Check Quality Scores (aim for 7+/10)
 - [ ] Adjust bids on top/bottom 3 performers
@@ -418,8 +417,8 @@ xmas wreaths for front door - $0.50 (KEEP - 100% CTR)
 - [ ] Verified Manual CPC bidding
 
 **Day 3-4: Critical Setup**
-- [ ] Set up conversion tracking ⚠️ PRIORITY #1
-- [ ] Test conversion tracking works
+- [✅] Set up conversion tracking ⚠️ PRIORITY #1
+- [✅] Test conversion tracking works
 - [ ] Export Search Terms Report
 - [ ] Add 5 more negative keywords
 
