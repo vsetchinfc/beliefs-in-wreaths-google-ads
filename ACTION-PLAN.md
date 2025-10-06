@@ -81,10 +81,10 @@
   - See: docs/guides/setup-conversion-tracking.md
   - Track: Purchase completion
   - Test with Google Tag Assistant
-- [ ] Export Search Terms Report
+- [⏳] Export Search Terms Report
   - Keywords → Search terms → Last 30 days
   - Look for new opportunities & wasted spend
-
+ 
 ### Day 5-7: Expansion
 - [ ] Add 5 new phrase match keywords (see keyword list below)
 - [ ] Create 2 additional ad variations
@@ -110,45 +110,162 @@
 ✅ xmas wreaths for front door - Phrase - 100% CTR - Bid: $0.80
 ```
 
-### Tier 1: Top Priority (8 keywords) - 65% of budget
+### ✅ Completed - Tier 1: Top Priority (8 keywords) - 65% of budget
 **Exact Match - High Intent - Bids: $0.80-$1.20**
 ```
 [luxury christmas wreath australia] - $1.20 (our best!)
-[buy christmas wreath australia] - $0.90
+[buy christmas wreath australia] => [buy christmas wreath] - $0.90
 [christmas wreath delivery sydney] - $1.00
 [christmas wreath delivery melbourne] - $1.00
 [christmas door wreath australia] - $0.85
 [christmas wreaths sydney] - $0.80
 [christmas wreaths melbourne] - $0.80
-[designer christmas wreath australia] - $1.00
+[designer christmas wreath australia] => "designer christmas wreaths" - $1.00
 ```
 
-### Tier 2: Support Keywords (4 keywords) - 25% of budget
+---
+
+## 🔗 TIER 2: KEYWORD-TO-URL MAPPING & BID STRATEGY
+
+### Complete Keyword List with Landing Pages & Max CPC
+
+#### **Wreath-Specific Keywords → `https://beliefsinwreaths.com.au/collections/christmas-wreaths`**
+
+**Exact Match Keywords:**
+```
+✅ [luxury christmas wreath australia] - $1.20 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [buy christmas wreath] - $0.90 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [christmas door wreath australia] - $0.85 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+[christmas wreaths sydney] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths     TODO Add? 
+[christmas wreaths melbourne] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths  TODO Add?
+✅ [luxury christmas wreaths] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [christmas door wreaths] - $0.70 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [luxury wreaths] - $0.75 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [christmas wreath online] - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ [wreath for front door] - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+```
+
+**Phrase Match Keywords:**
+```
+✅ "christmas wreath delivery" - $1.00 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "designer christmas wreaths" - $1.00 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "christmas wreaths australia" - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "handmade christmas wreaths" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "luxury christmas wreath" - $0.75 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "luxury christmas wreaths australia" - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "premium christmas wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+```
+
+**Broad Match Keywords (High Performers Only):**
+```
+✅ luxury christmas wreath australia - $0.70 (40% CTR!) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ christmas wreath - $0.50 (8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ christmas wreath australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ festive wreaths - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ wreath christmas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ xmas wreaths for front door - $0.50 (100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+```
+
+#### **Table/Centerpiece Keywords → `https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces`**
+
+**Broad Match Keywords:**
+```
+christmas table decorations - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+christmas table - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+christmas centrepiece - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+christmas table centrepiece - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+```
+
+#### **General/Gift Keywords → `https://beliefsinwreaths.com.au/collections/christmas-collection`**
+
+**Phrase Match Keywords:**
+```
+"christmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+"xmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+"christmas decorations" - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
+"christmas decorations australia" - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
+"holiday christmas decorations" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+```
+
+**Broad Match Keywords:**
+```
+christmas gifts - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas gift ideas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+xmas gifts - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+xmas shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas online shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+holiday gift shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+seasonal decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+holiday decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas collections - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+home ornaments - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+xmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+festive decorations - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas items - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+xmas gift ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas flower arrangements - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+xmas accessories - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+luxury christmas decorations australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas wreath with lights - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
+christmas decor reindeer - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+```
+
+#### **Keywords to PAUSE (Low Performance, $0.01 bids, no URL):**
+```
+2024 xmas trends - PAUSE (no relevance, no data)
+```
+
+---
+
+### Budget Allocation by Landing Page
+
+**Primary Focus (70% budget):** `https://beliefsinwreaths.com.au/collections/christmas-wreaths`
+- All wreath-specific keywords
+- Highest bids ($0.60-$1.20)
+- Main revenue driver
+
+**Secondary Focus (15% budget):** `https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces`
+- Table decoration keywords
+- Medium bids ($0.30-$0.40)
+- Complementary sales
+
+**Supporting (15% budget):** `https://beliefsinwreaths.com.au/collections/christmas-collection`
+- General Christmas keywords
+- Lower bids ($0.25-$0.40)
+- Discovery & gift shoppers
+
+---
+
+## 🎯 TIER 3: Support Keywords (4 keywords) - 25% of budget
 **Phrase Match - Product Specific - Bids: $0.60-$0.65**
 ```
-"handmade christmas wreaths australia" - $0.65
-"christmas door wreaths" - $0.60
-"eucalyptus christmas wreath" - $0.60
-"designer christmas door wreath" - $0.65
+"handmade christmas wreaths australia" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+"christmas door wreaths" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+"eucalyptus christmas wreath" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+"designer christmas door wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ```
 
-### Tier 3: Volume Keywords (3 keywords) - 10% of budget
+### Tier 4: Volume Keywords (3 keywords) - 10% of budget
 **Broad Match - Proven Only - Bids: $0.50-$0.70**
 ```
-luxury christmas wreath australia - $0.70 (KEEP - 40% CTR)
-christmas wreath - $0.60 (KEEP - 8.33% CTR)
-xmas wreaths for front door - $0.50 (KEEP - 100% CTR)
+luxury christmas wreath australia - $0.70 (KEEP - 40% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+christmas wreath - $0.60 (KEEP - 8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+xmas wreaths for front door - $0.50 (KEEP - 100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ```
 
-**Total: 15 keywords (streamlined for $15/day)**
+**Total: 15 core keywords (streamlined for $15/day) + 30+ supporting keywords**
 
-### Keywords to DELETE
+**Note:** All keywords now mapped to specific landing pages for better Quality Score and ad relevance.
+
+### Keywords to DELETE - ✅ COMPLETED 
 **❌ Not eligible + Not Christmas-related = DELETE NOW**
 - Filter by "Not eligible" status
 - Review list - if not Christmas wreaths, delete them
 - Frees up account space & mental clarity
 
-### Negative Keywords (Already Added ✅)
+### Negative Keywords - ✅ COMPLETED
 ```
 -diy, -tutorial, -"how to make", -free, -cheap
 -funeral, -sympathy, -memorial, -condolence
@@ -191,10 +308,10 @@ xmas wreaths for front door - $0.50 (KEEP - 100% CTR)
 ## 🔧 ONGOING OPTIMIZATION
 
 ### Daily Tasks (5-10 minutes)
-- [ ] Check yesterday's spend (should be ~$15)
-- [ ] Review clicks and CTR
-- [ ] Check for any Google Ads alerts
-- [ ] Verify conversion tracking working
+- [✅] Check yesterday's spend (should be ~$15)
+- [✅] Review clicks and CTR
+- [✅] Check for any Google Ads alerts
+- [✅] Verify conversion tracking working
 
 ### Weekly Tasks (30 minutes - Every Monday)
 - [ ] Review Search Terms Report
