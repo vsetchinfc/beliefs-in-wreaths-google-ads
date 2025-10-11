@@ -38,16 +38,16 @@ Instead of exact match with "australia" in the keyword, use phrase match:
 
 **DON'T USE (Low volume):**
 ```
-[buy christmas wreath online australia] - Exact Match
-[christmas wreath delivery australia] - Exact Match
-[luxury christmas wreath australia] - Exact Match
+[buy christmas wreath online australia] - Bid: $1.00
+[christmas wreath delivery australia] - Bid: $1.00
+[luxury christmas wreath australia] - Bid: $0.90
 ```
 
 **USE INSTEAD (Has volume):**
 ```
-"buy christmas wreath" - Phrase Match - Bid: $1.00
-"christmas wreath delivery" - Phrase Match - Bid: $1.00
-"luxury christmas wreath" - Phrase Match - Bid: $0.90
+"buy christmas wreath" - Bid: $1.00
+"christmas wreath delivery" - Bid: $1.00
+"luxury christmas wreath" - Bid: $0.90
 ```
 
 **Then use location targeting to show only in Australia!**
@@ -57,9 +57,9 @@ Instead of exact match with "australia" in the keyword, use phrase match:
 ### Strategy 2: Focus on Keywords That ARE Working
 
 Looking at your current data, these keywords already have impressions:
-- ✅ **luxury christmas wreath australia** (Broad) - 5 impressions, 2 clicks, 40% CTR!
-- ✅ **christmas wreath** (Broad) - 24 impressions, 2 clicks, 8.33% CTR
-- ✅ **"xmas wreaths for front door"** (Phrase) - 1 impression, 1 click, 100% CTR!
+- ✅ **luxury christmas wreath australia** - 5 impressions, 2 clicks, 40% CTR!
+- ✅ **christmas wreath** - 24 impressions, 2 clicks, 8.33% CTR
+- ✅ **"xmas wreaths for front door"** - 1 impression, 1 click, 100% CTR!
 
 **Action:** Just increase bids on these proven performers:
 ```
@@ -74,14 +74,14 @@ christmas wreath → $1.00 (from $0.69)
 
 **These should have sufficient search volume:**
 ```
-christmas wreaths - Broad Match - Bid: $0.80
-christmas wreath online - Broad Match - Bid: $0.90
-buy christmas wreath - Broad Match - Bid: $1.00
-christmas door decoration - Broad Match - Bid: $0.70
-festive door wreath - Broad Match - Bid: $0.70
-xmas wreath - Broad Match - Bid: $0.80
-christmas wreath sydney - Broad Match - Bid: $0.90
-christmas wreath melbourne - Broad Match - Bid: $0.90
+christmas wreaths - Bid: $0.80
+christmas wreath online - Bid: $0.90
+buy christmas wreath - Bid: $1.00
+christmas door decoration - Bid: $0.70
+festive door wreath - Bid: $0.70
+xmas wreath - Bid: $0.80
+christmas wreath sydney - Bid: $0.90
+christmas wreath melbourne - Bid: $0.90
 ```
 
 **Use negative keywords to control broad match:**
@@ -111,11 +111,11 @@ christmas wreath melbourne - Broad Match - Bid: $0.90
 
 ### Step 3: Add These 5 Keywords (Proven Volume)
 ```
-christmas wreaths australia - Broad Match - Bid: $0.85
-buy christmas wreath - Broad Match - Bid: $0.95
-christmas wreath sydney - Broad Match - Bid: $0.90
-xmas wreath australia - Broad Match - Bid: $0.80
-"christmas door wreath" - Phrase Match - Bid: $0.85
+christmas wreaths australia - Bid: $0.85
+buy christmas wreath - Bid: $0.95
+christmas wreath sydney - Bid: $0.90
+xmas wreath australia - Bid: $0.80
+"christmas door wreath" - Bid: $0.85
 ```
 
 ### Step 4: Monitor Search Terms Daily
@@ -132,7 +132,7 @@ xmas wreath australia - Broad Match - Bid: $0.80
 ## 📊 Why This Approach Works
 
 **Your current best performer:**
-- "luxury christmas wreath australia" (Broad Match) = 40% CTR!
+- luxury christmas wreath australia = 40% CTR!
 
 **Lesson:** In the Australian market, broader match types with location targeting work better than hyper-specific exact match.
 

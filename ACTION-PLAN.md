@@ -103,24 +103,29 @@
 
 ## 🎯 KEYWORD STRATEGY - $15/DAY
 
+### Match Type Quick Reference
+- **[exact match]** = Square brackets = Most restrictive, highest control
+- **"phrase match"** = Quotation marks = Moderate control, word order matters  
+- **broad match** = No symbols = Least restrictive, use only for proven performers
+
 ### Current High Performers (KEEP & SCALE)
 ```
-✅ luxury christmas wreath australia - Broad - 40% CTR - Bid: $1.20
-✅ christmas wreath - Broad - 8.33% CTR - Bid: $0.90
-✅ xmas wreaths for front door - Phrase - 100% CTR - Bid: $0.80
+✅ luxury christmas wreath australia - 40% CTR - Bid: $1.20
+✅ christmas wreath - 8.33% CTR - Bid: $0.90
+✅ "xmas wreaths for front door" - 100% CTR - Bid: $0.80
 ```
 
 ### ✅ Completed - Tier 1: Top Priority (8 keywords) - 65% of budget
 **Exact Match - High Intent - Bids: $0.80-$1.20**
 ```
 [luxury christmas wreath australia] - $1.20 (our best!)
-[buy christmas wreath australia] => [buy christmas wreath] - $0.90
+[buy christmas wreath] - $0.90
 [christmas wreath delivery sydney] - $1.00
 [christmas wreath delivery melbourne] - $1.00
 [christmas door wreath australia] - $0.85
 [christmas wreaths sydney] - $0.80
 [christmas wreaths melbourne] - $0.80
-[designer christmas wreath australia] => "designer christmas wreaths" - $1.00
+"designer christmas wreaths" - $1.00
 ```
 
 ---
@@ -131,13 +136,13 @@
 
 #### **Wreath-Specific Keywords → `https://beliefsinwreaths.com.au/collections/christmas-wreaths`**
 
-**Exact Match Keywords:**
+**Exact Match:**
 ```
 ✅ [luxury christmas wreath australia] - $1.20 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ✅ [buy christmas wreath] - $0.90 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ✅ [christmas door wreath australia] - $0.85 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-[christmas wreaths sydney] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths     TODO Add? 
-[christmas wreaths melbourne] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths  TODO Add?
+❌ [christmas wreaths sydney] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths - REJECTED, will not add 
+❌ [christmas wreaths melbourne] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths - REJECTED, will not add
 ✅ [luxury christmas wreaths] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ✅ [christmas door wreaths] - $0.70 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ✅ [luxury wreaths] - $0.75 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
@@ -170,51 +175,51 @@
 
 **Broad Match Keywords:**
 ```
-christmas table decorations - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-christmas table - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-christmas centrepiece - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-christmas table centrepiece - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+✅ christmas table decorations - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+✅ christmas table - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+✅ christmas centrepiece - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
+✅ christmas table centrepiece - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
 ```
 
 #### **General/Gift Keywords → `https://beliefsinwreaths.com.au/collections/christmas-collection`**
 
 **Phrase Match Keywords:**
 ```
-"christmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-"xmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-"christmas decorations" - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
-"christmas decorations australia" - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
-"holiday christmas decorations" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ "christmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ "xmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ "christmas decorations" - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ "christmas decorations australia" - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ "holiday christmas decorations" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
 ```
 
 **Broad Match Keywords:**
 ```
-christmas gifts - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas gift ideas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-xmas gifts - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-xmas shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas online shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-holiday gift shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-seasonal decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-holiday decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas collections - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-home ornaments - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-xmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-festive decorations - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas items - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-xmas gift ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas flower arrangements - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-xmas accessories - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-luxury christmas decorations australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas wreath with lights - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
-christmas decor reindeer - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas gifts - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas gift ideas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ xmas gifts - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ xmas shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas online shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ holiday gift shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ seasonal decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ holiday decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas collections - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+❌ home ornaments - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection - DELETED and added to negative keywords
+✅ xmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ festive decorations - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas items - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ xmas gift ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas flower arrangements - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ xmas accessories - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ luxury christmas decorations australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas wreath with lights - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
+✅ christmas decor reindeer - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
 ```
 
 #### **Keywords to PAUSE (Low Performance, $0.01 bids, no URL):**
 ```
-2024 xmas trends - PAUSE (no relevance, no data)
+❌ 2024 xmas trends - PAUSE (no relevance, no data) - REJECTED, removed
 ```
 
 ---
@@ -241,18 +246,21 @@ christmas decor reindeer - $0.25 - https://beliefsinwreaths.com.au/collections/c
 ## 🎯 TIER 3: Support Keywords (4 keywords) - 25% of budget
 **Phrase Match - Product Specific - Bids: $0.60-$0.65**
 ```
-"handmade christmas wreaths australia" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-"christmas door wreaths" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-"eucalyptus christmas wreath" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-"designer christmas door wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+❌ "handmade christmas wreaths australia" - $0.65 - REMOVED (Low search volume, not eligible)
+✅ "christmas door wreaths" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "eucalyptus christmas wreath" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ "designer christmas door wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+"handmade christmas wreaths" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ```
 
+**Note:** The broader phrase match "handmade christmas wreaths" (line 175) will still capture this intent with better search volume.
+
 ### Tier 4: Volume Keywords (3 keywords) - 10% of budget
-**Broad Match - Proven Only - Bids: $0.50-$0.70**
+**Proven Performers Only - Bids: $0.50-$0.70**
 ```
-luxury christmas wreath australia - $0.70 (KEEP - 40% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-christmas wreath - $0.60 (KEEP - 8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-xmas wreaths for front door - $0.50 (KEEP - 100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ luxury christmas wreath australia - $0.70 (KEEP - 40% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ christmas wreath - $0.60 (KEEP - 8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+✅ xmas wreaths for front door - $0.50 (KEEP - 100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
 ```
 
 **Total: 15 core keywords (streamlined for $15/day) + 30+ supporting keywords**

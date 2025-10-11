@@ -189,9 +189,9 @@ See [`CHRISTMAS-EMERGENCY-PLAN.md`](CHRISTMAS-EMERGENCY-PLAN.md) for complete st
 - Conversions: 0 ❌ No tracking
 
 ### Top Performing Keywords
-1. **"luxury christmas wreath australia"** - 40% CTR
+1. **luxury christmas wreath australia** - 40% CTR
 2. **"xmas wreaths for front door"** - 100% CTR
-3. **"christmas wreath"** - 8.33% CTR
+3. **christmas wreath** - 8.33% CTR
 
 ### 30-Day Projection (With Optimization)
 - Impressions: 1,000+
