@@ -81,7 +81,7 @@
 
 ### Ad Improvements
 - [ ] **Fix ad copy issues**
-  - [ ] Fix typo: "All Year Collectoin" → "Collection"
+  - [✅] Fix typo: "All Year Collectoin" → "Collection"
   - [ ] Replace "Buy Now & Get Ready 4 Xmas" with professional CTA
   - [ ] Remove repetitive "Unforgettable" in description
   - [ ] Add unique selling propositions (handmade, Australian-made)

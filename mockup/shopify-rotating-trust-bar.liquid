@@ -1,0 +1,137 @@
+<!-- Rotating Trust Bar - Shopify Custom Liquid -->
+<style>
+  /* Rotating Trust Bar Styles */
+  .rotating-trust-bar {
+    width: 100%;
+    background: rgba(var(--color-base-accent-1), 1);
+    color: rgb(var(--color-base-text));
+    padding: 16px 0;
+    border-top: 1px solid rgba(var(--color-base-outline-button-labels), 0.2);
+    border-bottom: 1px solid rgba(var(--color-base-outline-button-labels), 0.2);
+    position: relative;
+    overflow: hidden;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .trust-message {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 1.65rem;
+    letter-spacing: 0.03em;
+    opacity: 0;
+    animation: fadeInOut 30s infinite;
+    padding: 0 20px;
+    text-align: center;
+  }
+
+  .trust-message .icon {
+    margin-right: 10px;
+    font-size: 2.1rem;
+  }
+
+  /* Stagger each message (10 messages, 3 seconds each = 30s total) */
+  .trust-message:nth-child(1) { animation-delay: 0s; }
+  .trust-message:nth-child(2) { animation-delay: 3s; }
+  .trust-message:nth-child(3) { animation-delay: 6s; }
+  .trust-message:nth-child(4) { animation-delay: 9s; }
+  .trust-message:nth-child(5) { animation-delay: 12s; }
+  .trust-message:nth-child(6) { animation-delay: 15s; }
+  .trust-message:nth-child(7) { animation-delay: 18s; }
+  .trust-message:nth-child(8) { animation-delay: 21s; }
+  .trust-message:nth-child(9) { animation-delay: 24s; }
+  .trust-message:nth-child(10) { animation-delay: 27s; }
+
+  /* Smooth fade in and out animation */
+  @keyframes fadeInOut {
+    0% { opacity: 0; transform: translateY(10px); }
+    5% { opacity: 1; transform: translateY(0); }
+    10% { opacity: 1; transform: translateY(0); }
+    13.33% { opacity: 0; transform: translateY(-10px); }
+    100% { opacity: 0; transform: translateY(-10px); }
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .trust-message {
+      font-size: 1.5rem;
+    }
+    
+    .rotating-trust-bar {
+      padding: 24px 0;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .trust-message {
+      font-size: 1.35rem;
+    }
+    
+    .trust-message .icon {
+      font-size: 1.65rem;
+      margin-right: 6px;
+    }
+    
+    .rotating-trust-bar {
+      padding: 28px 0;
+    }
+  }
+</style>
+
+<!-- Trust Bar HTML -->
+<div class="rotating-trust-bar">
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">⭐</span>
+    <span>"It Took My Breath Away — Absolutely Stunning & Perfect!" — Debbie</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">💎</span>
+    <span>"Better Than I Expected — Great Quality & Well Made" — Marcelle ⭐⭐⭐⭐⭐</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">🎨</span>
+    <span>"I Am Blown Away From Happiness — They Look Spectacular!"</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">✨</span>
+    <span>"PERFECTION! Exceptional Quality! This One Is PERFECTION!" ⭐⭐⭐⭐⭐</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">❤️</span>
+    <span>"I Will Definitely Be Telling Everyone About You Guys" — Happy Customer</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">🌟</span>
+    <span>"The Christmas Wreaths Have Changed Our Living Room!" — Fiona ⭐⭐⭐⭐⭐</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">💝</span>
+    <span>"OMG They Are Absolutely Gorgeous! Thank You for the Care in Shipping"</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">🎄</span>
+    <span>"Made with Passion & Love — I Totally Recommend as a Five Star!"</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">🌸</span>
+    <span>"Thank You For Making This Beautiful Sign — Lovely Card & Chocolates Too!"</span>
+  </div>
+  
+  <div class="trust-message">
+    <span class="icon" aria-hidden="true">🇦🇺</span>
+    <span>Australian Made & Handcrafted · Free Delivery Over $140 · Order by Dec 15</span>
+  </div>
+</div>

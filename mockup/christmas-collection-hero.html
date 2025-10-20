@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christmas Collection Hero - Mockup</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Playfair Display", Georgia, serif;
+            background-color: #f8f9fb;
+            color: #2e3a3f;
+        }
+
+        .hero-wrapper {
+            background: linear-gradient(135deg, #f0f4f8, #ffffff);
+            border-bottom: 1px solid #dfe5ea;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .hero-heading {
+            font-size: 2.4rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            margin: 0 0 16px;
+            line-height: 1.2;
+        }
+
+        .hero-subheading {
+            font-size: 1.4rem;
+            font-weight: 400;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: #8a7968;
+            margin: 0 0 36px;
+        }
+
+        .product-categories {
+            max-width: 900px;
+            margin: 0 auto 32px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 32px;
+            padding: 0 20px;
+        }
+
+        @media (max-width: 768px) {
+            .product-categories {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+        }
+
+        .category-card {
+            background: #ffffff;
+            border: 1px solid #dfe5ea;
+            border-radius: 8px;
+            padding: 28px 24px;
+            text-align: left;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .category-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .category-icon {
+            font-size: 2rem;
+            margin-bottom: 12px;
+        }
+
+        .category-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin: 0 0 8px;
+            color: #2e3a3f;
+        }
+
+        .category-description {
+            font-size: 1rem;
+            line-height: 1.5;
+            color: #5a6670;
+            margin: 0 0 12px;
+        }
+
+        .category-price {
+            font-size: 0.95rem;
+            color: #8a7968;
+            font-weight: 500;
+        }
+
+        .divider {
+            width: 100%;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #dfe5ea, transparent);
+            margin: 32px 0;
+        }
+
+        .hero-description {
+            max-width: 820px;
+            margin: 0 auto 28px;
+            font-size: 1.15rem;
+            line-height: 1.6;
+        }
+
+        .hero-description strong {
+            color: #b17f46;
+        }
+
+        .benefits-line {
+            font-size: 1rem;
+            color: #5a6670;
+            font-style: italic;
+            margin-top: -12px;
+        }
+
+        .trust-note {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background-color: #2e3a3f;
+            color: #ffffff;
+            font-size: 1rem;
+            padding: 12px 20px;
+            border-radius: 999px;
+            margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero-wrapper">
+        <h1 class="hero-heading">Bespoke Designer Christmas Collection</h1>
+        <p class="hero-subheading">Limited Edition</p>
+        
+        <!-- Product Categories Grid -->
+        <div class="product-categories">
+            <!-- Wreaths Category -->
+            <div class="category-card">
+                <div class="category-icon" aria-hidden="true">🎨</div>
+                <h3 class="category-title">Christmas Wreaths</h3>
+                <p class="category-description">
+                    One-of-a-kind designer wreaths for your door or wall. 
+                    Most designs: Only 1–2 pieces available.
+                </p>
+                <p class="category-price">Starting from $185 AUD</p>
+            </div>
+
+            <!-- Floral Arrangements Category -->
+            <div class="category-card">
+                <div class="category-icon" aria-hidden="true">💐</div>
+                <h3 class="category-title">Floral Arrangements</h3>
+                <p class="category-description">
+                    Elegant centrepieces and vase arrangements perfect for tables, 
+                    mantels & holiday entertaining.
+                </p>
+                <p class="category-price">Starting from $85 AUD</p>
+            </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Main Description -->
+        <p class="hero-description">
+            Each piece is lovingly designed and created in our Australian studio using 
+            <strong>premium real-touch artificial florals and greenery</strong> that last 
+            season after season. Most designs are available in <strong>very limited quantities 
+            (1–2 pieces only)</strong>, ensuring your holiday display is truly one of a kind.
+            <br><br>
+            Once a design is sold, it is gone forever. ✨
+        </p>
+
+        <p class="benefits-line">
+            🌿 High-quality artificial florals · No wilting, no maintenance · Enjoy for years to come
+        </p>
+
+        <div class="trust-note">
+            <span aria-hidden="true">⭐</span>
+            <span>"It looks even more beautiful in person!" — Verified Customer</span>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rotating Trust Bar - Mockup</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Playfair Display", Georgia, serif;
+            background-color: #f8f9fb;
+        }
+
+        /* Hero section (for context) */
+        .hero-wrapper {
+            background: linear-gradient(135deg, #f0f4f8, #ffffff);
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .hero-heading {
+            font-size: 2.4rem;
+            margin: 0 0 16px;
+            color: #2e3a3f;
+        }
+
+        .hero-subheading {
+            font-size: 1.4rem;
+            color: #8a7968;
+            margin: 0;
+        }
+
+        /* Rotating Trust Bar */
+        .trust-bar-wrapper {
+            width: 100%;
+            background: linear-gradient(90deg, #2e3a3f, #3d4a52);
+            color: #ffffff;
+            padding: 16px 0;
+            border-top: 1px solid #4a5861;
+            border-bottom: 1px solid #4a5861;
+            position: relative;
+            overflow: hidden;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .trust-message {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            font-size: 0.95rem;
+            letter-spacing: 0.03em;
+            opacity: 0;
+            animation: fadeInOut 18s infinite;
+        }
+
+        .trust-message .icon {
+            margin-right: 10px;
+            font-size: 1.2rem;
+        }
+
+        /* Stagger each message */
+        .trust-message:nth-child(1) { animation-delay: 0s; }
+        .trust-message:nth-child(2) { animation-delay: 3s; }
+        .trust-message:nth-child(3) { animation-delay: 6s; }
+        .trust-message:nth-child(4) { animation-delay: 9s; }
+        .trust-message:nth-child(5) { animation-delay: 12s; }
+        .trust-message:nth-child(6) { animation-delay: 15s; }
+
+        /* Fade in and out animation */
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: translateY(10px); }
+            5% { opacity: 1; transform: translateY(0); }
+            16.66% { opacity: 1; transform: translateY(0); }
+            22% { opacity: 0; transform: translateY(-10px); }
+            100% { opacity: 0; transform: translateY(-10px); }
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            .trust-message {
+                font-size: 0.85rem;
+                padding: 0 20px;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-wrapper">
+        <h1 class="hero-heading">Bespoke Designer Christmas Wreaths</h1>
+        <p class="hero-subheading">Limited Edition</p>
+    </section>
+
+    <!-- Rotating Trust Bar with Fade Effect -->
+    <div class="trust-bar-wrapper">
+        <div class="trust-message">
+            <span class="icon">🇦🇺</span>
+            <span>Australian Made & Handcrafted in Our Studio</span>
+        </div>
+        
+        <div class="trust-message">
+            <span class="icon">⭐</span>
+            <span>5-Star Rated by Our Customers</span>
+        </div>
+        
+        <div class="trust-message">
+            <span class="icon">🎨</span>
+            <span>One-of-a-Kind Designs · Most: Only 1-2 Pieces Available</span>
+        </div>
+        
+        <div class="trust-message">
+            <span class="icon">📦</span>
+            <span>Free Delivery Over $150 · Order by Dec 15 for Christmas</span>
+        </div>
+        
+        <div class="trust-message">
+            <span class="icon">✨</span>
+            <span>Limited Edition · Once Sold, Gone Forever</span>
+        </div>
+        
+        <div class="trust-message">
+            <span class="icon">💬</span>
+            <span>"It Looks Even More Beautiful in Person!" — Customer Favorite</span>
+        </div>
+    </div>
+
+    <!-- Products would go here -->
+    <div style="padding: 60px 20px; text-align: center; color: #8a7968;">
+        <p>↓ Your products display below ↓</p>
+    </div>
+</body>
+</html>
