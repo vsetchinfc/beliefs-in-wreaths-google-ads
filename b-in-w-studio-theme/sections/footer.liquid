@@ -292,6 +292,17 @@
                   {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
                 </li>
               {%- endfor -%}
+              {%- comment -%} Manual Afterpay logo {%- endcomment -%}
+              <li class="list-payment__item">
+                <img 
+                  src="{{ 'afterpay-badge.png' | asset_url }}" 
+                  alt="Afterpay" 
+                  class="icon icon--full-color"
+                  width="38"
+                  height="24"
+                  loading="lazy"
+                />
+              </li>
             </ul>
           </div>
         {%- endif -%}
