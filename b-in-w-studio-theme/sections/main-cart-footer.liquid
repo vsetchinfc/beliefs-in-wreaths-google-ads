@@ -104,6 +104,8 @@
                 </small>
               </div>
             {%- else -%}
+              {% render 'cart-afterpay-message' %}
+              
               <div class="cart__ctas" {{ block.shopify_attributes }}>
                 <button
                   type="submit"

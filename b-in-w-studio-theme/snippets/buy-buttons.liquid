@@ -60,6 +60,9 @@
           {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
         {%- endif -%}
 
+        {%- comment -%} Afterpay payment breakdown message {%- endcomment -%}
+        {% render 'product-afterpay-message' %}
+
         <div class="product-form__buttons">
           {%- liquid
             assign check_against_inventory = true
@@ -97,8 +100,10 @@
             {{ form | payment_button }}
           {%- endif -%}
         </div>
+        
       {%- endform -%}
     </product-form>
+    
   {%- else -%}
     <div class="product-form">
       <div class="product-form__buttons form">
