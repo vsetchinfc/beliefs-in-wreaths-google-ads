@@ -1,0 +1,16 @@
+# ----------------------------------------
+# Traffic acquisition: Session primary channel group (Default Channel Group)
+# Account: Beliefs in Wreaths
+# Property: Beliefs in Wreaths Site
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20251029
+# End date: 20251029
+Session primary channel group (Default Channel Group),Sessions,Engaged sessions,Engagement rate,Average engagement time per session,Events per session,Event count,Key events,Session key event rate,Total revenue
+Unassigned,13,0,0,25.76923076923077,4.3076923076923075,56,0,0,0
+Direct,11,1,0.09090909090909091,0.7272727272727273,3.8181818181818183,42,0,0,0
+Cross-network,8,1,0.125,12.625,5,40,0,0,0
+Organic Social,2,0,0,0,2.5,5,0,0,0
+Paid Search,2,1,0.5,14,4,8,0,0,0
+Organic Search,1,0,0,8,9,9,0,0,0

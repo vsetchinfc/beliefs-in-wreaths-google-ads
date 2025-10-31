@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Announcement Bar with Payment Logos - Preview</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    }
+
+    /* Announcement Bar Styles */
+    .announcement-bar-payment {
+      background-color: #f5f5f5;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 10px 20px;
+      font-size: 14px;
+    }
+
+    .announcement-bar-payment__container {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .announcement-bar-payment__message {
+      color: #333;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      flex: 1;
+    }
+
+    .announcement-bar-payment__logos {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .announcement-bar-payment__logo-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 5px 10px;
+      background: white;
+      border-radius: 4px;
+      border: 1px solid #e0e0e0;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    }
+
+    .announcement-bar-payment__logo-text {
+      font-size: 12px;
+      color: #666;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    .announcement-bar-payment__logo-img {
+      height: 20px;
+      width: auto;
+    }
+
+    /* Afterpay specific styling */
+    .announcement-bar-payment__afterpay {
+      background: #b2fce4;
+      border-color: #00d9a0;
+    }
+
+    .announcement-bar-payment__afterpay-logo {
+      height: 16px;
+      width: auto;
+    }
+
+    /* Mobile responsive */
+    @media (max-width: 768px) {
+      .announcement-bar-payment {
+        padding: 8px 15px;
+      }
+
+      .announcement-bar-payment__container {
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+      }
+
+      .announcement-bar-payment__message {
+        font-size: 12px;
+      }
+
+      .announcement-bar-payment__logos {
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .announcement-bar-payment__logo-wrapper {
+        padding: 4px 8px;
+      }
+
+      .announcement-bar-payment__logo-text {
+        font-size: 10px;
+      }
+
+      .announcement-bar-payment__logo-img {
+        height: 16px;
+      }
+
+      .announcement-bar-payment__afterpay-logo {
+        height: 14px;
+      }
+    }
+
+    /* Demo page styles */
+    .demo-content {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .demo-content h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    .demo-content p {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #666;
+      margin-bottom: 15px;
+    }
+
+    .demo-note {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 4px;
+      padding: 15px;
+      margin-top: 30px;
+    }
+
+    .demo-note h3 {
+      color: #856404;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+
+    .demo-note ul {
+      margin-left: 20px;
+      color: #856404;
+    }
+
+    .demo-note li {
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ANNOUNCEMENT BAR WITH PAYMENT LOGOS -->
+  <div class="announcement-bar-payment">
+    <div class="announcement-bar-payment__container">
+      <!-- Left side: Scarcity message -->
+      <div class="announcement-bar-payment__message">
+        MOST DESIGNS AVAILABLE IN ONLY 1-2 PIECES
+      </div>
+
+      <!-- Right side: Payment logos -->
+      <div class="announcement-bar-payment__logos">
+        <!-- Afterpay -->
+        <div class="announcement-bar-payment__logo-wrapper announcement-bar-payment__afterpay">
+          <span class="announcement-bar-payment__logo-text">Pay in 4 with</span>
+          <img 
+            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 24'%3E%3Cpath d='M8 6h3.2c1.6 0 2.8 1.2 2.8 2.8 0 1.6-1.2 2.8-2.8 2.8H9.6L8.8 14H6.4L8 6zm5.2 2.8c0-.8-.4-1.2-1.2-1.2H10l-.8 2.4h2c.8 0 1.2-.4 1.2-1.2zm3.6-2.8h2.4l-1.2 3.6h2.4c1.2 0 1.6.8 1.6 1.6 0 .8-.4 1.6-1.6 1.6h-2.4l-.4 1.2h-2.4L16.8 6zm8.8 0h3.2c1.6 0 2.8 1.2 2.8 2.8 0 1.6-1.2 2.8-2.8 2.8h-1.6l-.8 2.4h-2.4L25.6 6zm5.2 2.8c0-.8-.4-1.2-1.2-1.2h-2l-.8 2.4h2c.8 0 1.2-.4 1.2-1.2zm3.6-2.8h7.2l-.4 1.6h-2.4l-1.2 5.2h-2.4l1.2-5.2h-2.4l.4-1.6zm11.6 0h7.2l-.4 1.6h-4.8l-.4 1.2h4l-.4 1.6h-4l-.4 1.2h4.8l-.4 1.6h-7.2L46 6zm8.8 0h2.4l-1.2 4.8c-.4 1.2.4 2 1.6 2 .8 0 1.6-.4 2-.8l1.2-4.8h2.4l-1.2 4.8c-.8 2-2.8 3.2-5.2 3.2-2 0-3.6-1.2-3.2-3.2L54.8 6zm11.6 0h2.4l-1.6 6.8c0 .4.4.8.8.8.8 0 1.6-.8 2-1.6l1.6-6h2.4l-1.6 6.8c-.8 2-2.8 3.2-5.2 3.2-1.6 0-2.8-.8-2.8-2.4 0-.4 0-.8.4-1.2l1.6-6.4zm10.8 8c2 0 3.6-1.6 3.6-3.6s-1.6-3.6-3.6-3.6-3.6 1.6-3.6 3.6 1.6 3.6 3.6 3.6zm0-1.6c-.8 0-1.2-.8-1.2-2s.4-2 1.2-2 1.2.8 1.2 2-.4 2-1.2 2z' fill='%23000000'/%3E%3C/svg%3E"
+            alt="Afterpay"
+            class="announcement-bar-payment__afterpay-logo"
+          />
+        </div>
+
+        <!-- PayPal -->
+        <div class="announcement-bar-payment__logo-wrapper">
+          <img 
+            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 124 33'%3E%3Cpath fill='%23003087' d='M46.211 6.749h-6.839a.95.95 0 0 0-.939.802l-2.766 17.537a.57.57 0 0 0 .564.658h3.265a.95.95 0 0 0 .939-.803l.746-4.73a.95.95 0 0 1 .938-.803h2.165c4.505 0 7.105-2.18 7.784-6.5.306-1.89.013-3.375-.872-4.415-.972-1.142-2.696-1.746-4.985-1.746zM47 13.154c-.374 2.454-2.249 2.454-4.062 2.454h-1.032l.724-4.583a.57.57 0 0 1 .563-.481h.473c1.235 0 2.4 0 3.002.704.359.42.469 1.044.332 1.906zM66.654 13.075h-3.275a.57.57 0 0 0-.563.481l-.145.916-.229-.332c-.709-1.029-2.29-1.373-3.868-1.373-3.619 0-6.71 2.741-7.312 6.586-.313 1.918.132 3.752 1.22 5.031.998 1.176 2.426 1.666 4.125 1.666 2.916 0 4.533-1.875 4.533-1.875l-.146.91a.57.57 0 0 0 .562.66h2.95a.95.95 0 0 0 .939-.803l1.77-11.209a.568.568 0 0 0-.561-.658zm-4.565 6.374c-.316 1.871-1.801 3.127-3.695 3.127-.951 0-1.711-.305-2.199-.883-.484-.574-.668-1.391-.514-2.301.295-1.855 1.805-3.152 3.67-3.152.93 0 1.686.309 2.184.892.499.589.697 1.411.554 2.317z'/%3E%3Cpath fill='%23009cde' d='M94.992 6.749h-6.84a.95.95 0 0 0-.938.802l-2.766 17.537a.569.569 0 0 0 .562.658h3.51a.665.665 0 0 0 .656-.562l.785-4.971a.95.95 0 0 1 .938-.803h2.164c4.506 0 7.105-2.18 7.785-6.5.307-1.89.012-3.375-.873-4.415-.971-1.142-2.694-1.746-4.983-1.746zm.789 6.405c-.373 2.454-2.248 2.454-4.062 2.454h-1.031l.725-4.583a.568.568 0 0 1 .562-.481h.473c1.234 0 2.4 0 3.002.704.359.42.468 1.044.331 1.906zM115.434 13.075h-3.273a.567.567 0 0 0-.562.481l-.145.916-.23-.332c-.709-1.029-2.289-1.373-3.867-1.373-3.619 0-6.709 2.741-7.311 6.586-.312 1.918.131 3.752 1.219 5.031 1 1.176 2.426 1.666 4.125 1.666 2.916 0 4.533-1.875 4.533-1.875l-.146.91a.57.57 0 0 0 .564.66h2.949a.95.95 0 0 0 .938-.803l1.771-11.209a.571.571 0 0 0-.565-.658zm-4.565 6.374c-.314 1.871-1.801 3.127-3.695 3.127-.949 0-1.711-.305-2.199-.883-.484-.574-.666-1.391-.514-2.301.297-1.855 1.805-3.152 3.67-3.152.93 0 1.686.309 2.184.892.501.589.699 1.411.554 2.317z'/%3E%3Cpath fill='%23003087' d='M119.295 7.23l-2.807 17.858a.569.569 0 0 0 .562.658h2.822c.469 0 .867-.34.939-.803l2.768-17.536a.57.57 0 0 0-.562-.659h-3.16a.571.571 0 0 0-.562.482z'/%3E%3Cpath fill='%23009cde' d='M7.266 29.154l.523-3.322-1.165-.027H1.061L4.927 1.292a.316.316 0 0 1 .314-.268h9.38c3.114 0 5.263.648 6.385 1.927.526.6.861 1.227 1.023 1.917.17.724.173 1.589.007 2.644l-.012.077v.676l.526.298a3.69 3.69 0 0 1 1.065.812c.45.513.741 1.165.864 1.938.127.795.085 1.741-.123 2.812-.24 1.232-.628 2.305-1.152 3.183a6.547 6.547 0 0 1-1.825 2c-.696.494-1.523.869-2.458 1.109-.906.236-1.939.355-3.072.355h-.73c-.522 0-1.029.188-1.427.525a2.21 2.21 0 0 0-.744 1.328l-.055.299-.924 5.855-.042.215c-.011.068-.03.102-.058.125a.155.155 0 0 1-.096.035H7.266z'/%3E%3Cpath fill='%23012169' d='M23.048 7.667c-.028.179-.06.362-.096.55-1.237 6.351-5.469 8.545-10.874 8.545H9.326c-.661 0-1.218.48-1.321 1.132L6.596 26.83l-.399 2.533a.704.704 0 0 0 .695.814h4.881c.578 0 1.069-.42 1.16-.99l.048-.248.919-5.832.059-.32c.09-.572.582-.992 1.16-.992h.73c4.729 0 8.431-1.92 9.513-7.476.452-2.321.218-4.259-.978-5.622a4.667 4.667 0 0 0-1.336-1.03z'/%3E%3C/svg%3E"
+            alt="PayPal"
+            class="announcement-bar-payment__logo-img"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Demo content below -->
+  <div class="demo-content">
+    <h1>Beliefs in Wreaths</h1>
+    <p><strong>Floral Decor Studio</strong></p>
+    <p>Bespoke Designer Floral Decor for Any Occasion</p>
+    <p>Made With ♡ LOVE ♡ In Australia</p>
+
+    <div class="demo-note">
+      <h3>🎯 Implementation Instructions:</h3>
+      <ul>
+        <li><strong>Desktop:</strong> Message on left, payment logos on right</li>
+        <li><strong>Mobile:</strong> Stacks vertically, centered</li>
+        <li><strong>Afterpay:</strong> Mint green background (#b2fce4) with black text</li>
+        <li><strong>PayPal:</strong> White background with official PayPal logo colors</li>
+        <li><strong>Customizable:</strong> Edit announcement text, show/hide logos in Theme Editor</li>
+      </ul>
+    </div>
+  </div>
+
+</body>
+</html>
