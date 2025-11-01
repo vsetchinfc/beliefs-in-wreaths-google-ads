@@ -1,0 +1,84 @@
+Search keyword report
+31 October 2025 - 1 November 2025
+Keyword status,Keyword,Match type,Ad group,Status,Status reasons,Currency code,Max. CPC,Final URL,Impr.,Clicks,CTR,Cost,Conv. rate,Conversions,Cost / conv.
+Enabled,"""holiday christmas decorations""",Phrase Match,Christmas Products,Limited,below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas wreaths""",Phrase Match,Christmas Products,Eligible,,AUD,4.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""custom christmas wreath australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""bespoke christmas centrepiece australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,3.75,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury designer christmas wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""christmas decorations australia""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.40,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[luxury christmas wreath online],Exact Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,holiday decor,Broad Match,Christmas Products,Paused,Paused,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,wreath christmas,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas flower arrangements,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,christmas wreath australia,Broad Match,Christmas Products,Eligible,,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,181,14,7.73%,20.94,0.00%,0.00,0.00
+Enabled,"""designer christmas decor""",Phrase Match,Christmas Products,Eligible,,AUD,3.50,https://beliefsinwreaths.com.au/collections/christmas-collection,14,2,14.29%,6.94,0.00%,0.00,0.00
+Paused,[luxury christmas wreaths],Exact Match,Christmas Products,Paused,Paused; below first page bid,AUD,2.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""designer christmas wreaths""",Phrase Match,Christmas Products,Paused,Paused,AUD,1.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[wreath for front door],Exact Match,Christmas Products,Limited,below first page bid,AUD,0.60,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas table,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas table decorations,Broad Match,Christmas Products,Paused,Paused,AUD,2.00,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""premium christmas wreath""",Phrase Match,Christmas Products,Limited,below first page bid,AUD,0.65,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas centrepiece""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.50,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""handcrafted christmas centrepiece""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.00,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas decorations,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,xmas shopping,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury handcrafted christmas wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas centrepiece,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.35,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[buy luxury wreath],Exact Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""designer luxury christmas wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[christmas door wreath australia],Exact Match,Christmas Products,Limited,below first page bid,AUD,1.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[luxury door wreath],Exact Match,Christmas Products,Limited,below first page bid,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,[luxury christmas wreath australia],Exact Match,Christmas Products,Paused,Paused,AUD,2.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""premium luxury christmas wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""xmas gifts""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""designer christmas door wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,0.65,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,[luxury christmas wreath delivery],Exact Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""handcrafted christmas wreath australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,3.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas candle holder""",Phrase Match,Christmas Products,Eligible,,AUD,4.75,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[designer luxury christmas wreath],Exact Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,xmas gifts,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas door wreath""",Phrase Match,Christmas Products,Eligible,,AUD,3.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas table centrepiece,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.40,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Paused,luxury christmas decorations australia,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.40,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""premium christmas centrepieces""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.00,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Paused,holiday gift shopping,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[christmas wreath online],Exact Match,Christmas Products,Eligible,,AUD,0.60,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury handmade christmas wreath""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas wreath,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.20,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,[christmas door wreaths],Exact Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.70,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""bespoke christmas decorations""",Phrase Match,Christmas Products,Eligible,,AUD,3.25,https://beliefsinwreaths.com.au/collections/christmas-collection,4,0,0.00%,0.00,0.00%,0.00,0.00
+Enabled,"""handmade christmas wreaths""",Phrase Match,Christmas Products,Eligible,,AUD,3.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,7,0,0.00%,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas decor""",Phrase Match,Christmas Products,Eligible,,AUD,5.00,https://beliefsinwreaths.com.au/collections/christmas-collection,17,5,29.41%,20.20,0.00%,0.00,0.00
+Enabled,"""luxury christmas wreath""",Phrase Match,Christmas Products,Eligible,,AUD,5.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,13,4,30.77%,19.60,0.00%,0.00,0.00
+Paused,seasonal decor,Broad Match,Christmas Products,Paused,Paused,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,xmas accessories,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas gifts,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,[buy christmas wreath],Exact Match,Christmas Products,Paused,Paused,AUD,2.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""luxury artificial christmas wreaths""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""premium christmas decorations""",Phrase Match,Christmas Products,Eligible,,AUD,3.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""handcrafted christmas decorations""",Phrase Match,Christmas Products,Eligible,,AUD,3.25,https://beliefsinwreaths.com.au/collections/christmas-collection,3,0,0.00%,0.00,0.00%,0.00,0.00
+Paused,xmas decorations,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""bespoke christmas wreath""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,festive decorations,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas online shopping,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""eucalyptus christmas wreath""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.60,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""christmas wreaths australia""",Phrase Match,Christmas Products,Paused,Paused,AUD,1.20,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,[buy luxury christmas wreath],Exact Match,Christmas Products,Not eligible,rarely served,AUD,2.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas ideas,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas items,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""luxury christmas collection""",Phrase Match,Christmas Products,Limited,below first page bid,AUD,3.00,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,luxury christmas wreath australia,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.20,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""designer christmas wreaths australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""christmas door wreaths""",Phrase Match,Christmas Products,Paused,Paused,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,festive wreaths,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""premium christmas wreaths australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,1.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""designer christmas candle holder""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,4.25,https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas gift ideas,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,christmas decor reindeer,Broad Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.25,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,christmas wreath with lights,Broad Match,Christmas Products,Limited,below first page bid,AUD,0.35,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""christmas wreath delivery""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,1.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""high end christmas wreath""",Phrase Match,Christmas Products,Eligible,,AUD,5.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""luxury christmas wreaths australia""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,2.00,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Enabled,"""bespoke christmas wreath australia""",Phrase Match,Christmas Products,Not eligible,rarely served,AUD,3.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths,0,0, --,0.00,0.00%,0.00,0.00
+Paused,"""christmas gifts""",Phrase Match,Christmas Products,Paused,Paused; below first page bid,AUD,0.30,https://beliefsinwreaths.com.au/collections/christmas-collection,0,0, --,0.00,0.00%,0.00,0.00

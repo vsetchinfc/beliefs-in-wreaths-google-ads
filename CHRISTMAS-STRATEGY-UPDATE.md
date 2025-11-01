@@ -1,23 +1,27 @@
-# 🎄 CHRISTMAS STRATEGY UPDATE - SUMMARY
+# 🎄 CHRISTMAS STRATEGY UPDATE
 
 ---
 ## ❌ DOCUMENT STATUS: OUTDATED - DO NOT USE
-**This strategy assumed year-round campaign with $20-30/day budget.**
 
-**CLIENT DECISIONS (Oct 4, 2025):**
-1. Christmas ONLY focus (not year-round) ✅
-2. Budget: $15/day (not $20-30/day) ✅
-3. All Year Products stays PAUSED ✅
+**This document is from October 4, 2025 and references old budget strategies ($15-20/day).**
+
+**CURRENT APPROVED STRATEGY (Oct 30, 2025):**
+- **Budget:** $25/day for 46 days = $1,150 total
+- **Focus:** Luxury keywords only
+- **Expected:** 16-22 sales, $2,960-4,070 revenue
 
 **USE INSTEAD:**
-- **REVISED-BUDGET-PLAN.md** - Complete $15/day Christmas-only strategy ✅
-- **FINAL-BUDGET-DECISION.md** - Client decision & expectations ✅
+- **ACTION-PLAN.md** - Complete $25/day implementation guide
+- **CHRISTMAS-FINAL-STRATEGY-$25.md** - Quick one-page reference
+- **PROJECT-STATUS.md** - Current status and timeline
+- **PERFORMANCE-REALITY-CHECK.md** - Full 3-month analysis
 
 **This document kept for historical reference only.**
+
 ---
 
-**Date:** October 4, 2025  
-**Update:** ~~Strategy pivoted to 100% Christmas focus~~ SUPERSEDED by $15/day plan  
+**Original Date:** October 4, 2025  
+**Status:** SUPERSEDED by $25/day luxury strategy  
 
 ---
 

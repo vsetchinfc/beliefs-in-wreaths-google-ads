@@ -1,427 +1,494 @@
-# 🎄 BELIEFS IN WREATHS - GOOGLE ADS ACTION PLAN
-## Christmas Campaign Strategy - $15/Day Budget
+﻿# 🎄 BELIEFS IN WREATHS - GOOGLE ADS ACTION PLAN
+## Christmas Campaign Strategy - UPDATED BASED ON ACTUAL PERFORMANCE
 
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
 **Campaign:** B-in-W [Search | Sales]  
-**Budget:** $15/day (CLIENT APPROVED - FINAL)  
-**Timeline:** October 4 - December 15, 2025 (71 days)  
-**Focus:** 100% Christmas wreath sales  
-**Status:** All Year Products PAUSED per client decision
+**Budget:** $20-35/day (Client decision pending)
+**Timeline:** October 31 - December 15, 2025 (46 days remaining)  
+**Focus:** 100% Christmas wreath sales - LUXURY positioning
+**Status:** 🔴 CRITICAL PIVOT NEEDED - See analysis below
 
 ---
 
-## 📊 EXECUTIVE SUMMARY
+## 🚨 REALITY CHECK - 3 MONTH PERFORMANCE (Aug 1 - Oct 30)
 
-### Current Situation (Oct 4, 2025)
-- **Budget:** $15/day confirmed (was ~$6/day, increased to $15/day Oct 3)
-- **Performance:** 36 impressions in 2 weeks, 5 clicks, 13.89% CTR
-- **Issue:** Very low visibility, no conversion tracking
-- **Opportunity:** 71 days until Christmas = prime selling season
+### Actual Performance vs. Original Projections
 
-### Campaign Goals (Oct 4 - Dec 15, 71 days)
-- **Investment:** $1,065 total ($15/day × 71 days)
-- **Expected Sales:** 50-70 Christmas wreaths
-- **Expected Revenue:** $7,500-10,500
-- **Expected ROAS:** 700-900% (7-10x return)
-- **Expected Profit:** $6,400-9,400 (after ad spend)
+| Metric | Originally Projected | ACTUAL Reality | Variance |
+|--------|---------------------|----------------|----------|
+| **Total Spend** | $1,016 | ✅ $1,016 | On target |
+| **Conversions** | 40-60 | 🔴 **2** | **-95%** |
+| **Conversion Rate** | 2-3% | 🔴 **0.14%** | **-93%** |
+| **Cost/Conversion** | $27-54 | 🔴 **$508** | **+941%** |
+| **Revenue** | $7,400-10,800 | 🔴 **$278** | **-97%** |
+| **ROAS** | 600-800% | 🔴 **27%** | **-96%** |
 
-### Strategy
-✅ Focus on 12-15 high-performing keywords only  
-✅ Conservative bid strategy ($0.60-$1.20 range)  
-✅ Prioritize proven performers (40% CTR on luxury keywords)  
-✅ Daily monitoring essential with limited budget  
-✅ Conversion tracking setup CRITICAL  
+### THE BREAKTHROUGH DISCOVERY ✅
 
----
+**ONE keyword works phenomenally well:**
 
-## ⚡ IMMEDIATE ACTIONS (TODAY - Oct 4)
+**"luxury christmas wreath" (Phrase Match)**
+- 6 clicks → 2 conversions = **33.33% conversion rate!**
+- Cost: $12.27 → **Cost per conversion: $6.14**
+- **This is 83x better than campaign average!**
 
-### ✅ COMPLETED
-- [✅] Budget increased to $15/day
-- [✅] Deleted 15+ irrelevant keywords (gift, birthday terms)
-- [✅] Added negative keywords
-- [✅] All Year Products confirmed PAUSED
-
-### 🎯 DO NOW (Next 2 Hours)
-
-**1. Remove "Not Eligible" Keywords** - ✅ COMPLETED
-- Go to Keywords tab → Filter by "Not eligible"
-- **DELETE all non-Christmas keywords** (you confirmed they're not Christmas-related)
-- These won't show anyway + waste account space
-
-**2. Increase Bids on Top 3 Performers**
-```
-"luxury christmas wreath australia" → $1.20 (currently 40% CTR!)
-"christmas wreath" → $0.90 (currently 8.33% CTR)
-"xmas wreaths for front door" → $0.80 (currently 100% CTR)
-```
-
-**How to do it:**
-- Keywords tab → Click on bid amount → Type new bid → Enter
-- See: docs/guides/increase-keyword-bids.md for detailed steps
-
-**3. Verify Bidding Strategy**
-- Campaign Settings → Bidding
-- Should be: **Manual CPC** (not "Maximize Clicks") - ✅ COMPLETED, switched to Manual CPC
-- If Maximize Clicks, change to Manual CPC to control individual bids
+**Problem:** Only 6 clicks in 3 months (0.04% of total traffic)
+**Solution:** Focus 90% of budget on THIS keyword + similar luxury variations
 
 ---
 
-## 📅 WEEK 1 PLAN (Oct 4-11)
+## 📊 UPDATED EXECUTIVE SUMMARY (Nov 1, 2025)
 
-### Day 1-2: Foundation ✅ MOSTLY DONE
-- [✅] Budget set to $15/day
-- [✅] Irrelevant keywords deleted
-- [✅] Negative keywords added
-- [ ] Bids increased on top 3 keywords
-- [ ] Verify Manual CPC bidding enabled
+### Current Situation (Oct 29-31 Performance)
+- **Recent Performance:** 573 imps, 55 clicks, 9.60% CTR, $109.93 spend, 0 conversions
+- **Critical Issue:** 🔴 **Search Lost IS (budget): 86.22%** - losing 6x impressions to budget caps
+- **Impression Share:** <10% (all metrics) - barely visible in auctions
+- **Days Remaining:** 45 days until Christmas cutoff (Dec 15)
+- **Landing Pages:** ✅ Excellent (CTR 9.6%, 70% engagement rate confirms quality)
+- **Tracking:** ✅ Working (GA4 linked, conversions importing since Oct 29)
+- **Key Discovery:** Centrepieces RSA outperforming (10.7% CTR, $1.92 CPC vs wreaths 8.85%, $2.09)
 
-### Day 3-4: Optimization
-- [✅] **Set up conversion tracking** (CRITICAL - Priority #1)
-  - See: docs/guides/setup-conversion-tracking.md
-  - Track: Purchase completion
-  - Test with Google Tag Assistant
-- [⏳] Export Search Terms Report
-  - Keywords → Search terms → Last 30 days
-  - Look for new opportunities & wasted spend
- 
-### Day 5-7: Expansion
-- [ ] Add 5 new phrase match keywords (see keyword list below)
-- [ ] Create 2 additional ad variations
-  - Need 3 ads minimum per ad group
-  - See: docs/guides/create-multiple-ads.md
-- [ ] Monitor daily performance (5-10 min/day)
+### REVISED Campaign Goals (Nov 1 - Dec 15, 45 days remaining)
 
-### Week 1 Success Metrics
-- 🎯 Impressions: 900+ (up from 18/week)
-- 🎯 Clicks: 110-140
-- 🎯 CTR: Maintain >8%
-- 🎯 Conversions: 3-6 (if tracking installed)
-- 🎯 Spend: $105
+**✅ CURRENT BUDGET: $25-35/day** (recent reports show ~$36/day average spend)
 
----
+**Campaign Strategy - UPDATED NOV 1:**
+- **Focus:** 6-8 hero luxury keywords only (budget too constrained for broad discovery)
+- **Key Winners:** "luxury christmas wreath" (10% CTR, $5.25 CPC), "luxury christmas decor" (50% CTR!), "handmade christmas wreaths" (5.88% CTR)
+- **Surprise Star:** Centrepieces outperforming wreaths (10.7% CTR, $1.92 CPC) - less competitive niche
+- **Pause:** All generic broad terms EXCEPT optionally "christmas wreath australia" with strict negatives (cap bid $1.50-1.80)
+- **Critical Fix:** Raise bids on luxury terms by $0.25-0.75 to compete (currently losing 86% impressions to budget)
+- **Expected Sales:** 12-18 Christmas products (wreaths + centrepieces)
+- **Expected Revenue:** $2,220-3,330
+- **Expected ROAS:** 200-300% (2-3:1) - conservative given budget constraints
 
-## 🎯 KEYWORD STRATEGY - $15/DAY
+**Success Requirements:**
+✅ Conversion tracking verified and working (completed Oct 29)
+✅ GA4 linked to Google Ads (completed Oct 29)
+✅ Landing pages optimized (9.6% CTR confirms quality)
+✅ Focus on luxury positioning only
+✅ Daily monitoring - especially Search Terms for negative adds
+✅ Bid increases on hero terms to win auctions (86% Lost IS must improve)
 
-### Match Type Quick Reference
-- **[exact match]** = Square brackets = Most restrictive, highest control
-- **"phrase match"** = Quotation marks = Moderate control, word order matters  
-- **broad match** = No symbols = Least restrictive, use only for proven performers
-
-### Current High Performers (KEEP & SCALE)
-```
-✅ luxury christmas wreath australia - 40% CTR - Bid: $1.20
-✅ christmas wreath - 8.33% CTR - Bid: $0.90
-✅ "xmas wreaths for front door" - 100% CTR - Bid: $0.80
-```
-
-### ✅ Completed - Tier 1: Top Priority (8 keywords) - 65% of budget
-**Exact Match - High Intent - Bids: $0.80-$1.20**
-```
-[luxury christmas wreath australia] - $1.20 (our best!)
-[buy christmas wreath] - $0.90
-[christmas wreath delivery sydney] - $1.00
-[christmas wreath delivery melbourne] - $1.00
-[christmas door wreath australia] - $0.85
-[christmas wreaths sydney] - $0.80
-[christmas wreaths melbourne] - $0.80
-"designer christmas wreaths" - $1.00
-```
+### NEW Strategy (Based on Oct 29-31 Analysis)
+🎯 **Budget throttling is the #1 issue** - 86% Lost IS (budget), <10% overall IS
+🎯 **Hero keywords (6-8 only):** luxury wreath, luxury wreaths, handmade wreaths, luxury decor, luxury centrepieces, luxury candle holder
+🎯 **Re-enable winner:** "high end christmas wreath" (20% CTR, $3.95 CPC - was mistakenly paused!)
+🎯 **Raise bids immediately:** luxury terms need $4.50-5.75 range to win auctions
+🎯 **Centrepieces opportunity:** 10.7% CTR at $1.92 CPC - less competitive than wreaths, consider 40% budget allocation
+🎯 **Generic broad paused:** ✅ "christmas table decorations" (23 clicks, $46, 0 conv) and "christmas wreath" (8 clicks, $9.65, 0 conv) already paused
+🎯 **Ad-group negatives critical:** Wreaths triggering for table searches (add: centrepiece, candle, table, holder)
+🎯 **Daily Search Terms review:** 2-3x/day for first week to catch waste immediately  
 
 ---
 
-## 🔗 TIER 2: KEYWORD-TO-URL MAPPING & BID STRATEGY
+## ⚡ IMMEDIATE ACTIONS (WEEK OF NOV 1 - NOV 7)
 
-### Complete Keyword List with Landing Pages & Max CPC
+### ✅ COMPLETED (Oct 31)
+- [✅] GA4 conversion tracking reviewed and updated
+- [✅] Google Ads conversion tracking linked to GA4
+- [✅] Conversion goals verified
+- [✅] Generic broad keywords paused (christmas table decorations, christmas wreath)
+- [✅] Performance analysis completed (Oct 29-31 reports)
 
-#### **Wreath-Specific Keywords → `https://beliefsinwreaths.com.au/collections/christmas-wreaths`**
+### 🔴 TODAY PRIORITIES (Nov 1)
 
-**Exact Match:**
-```
-✅ [luxury christmas wreath australia] - $1.20 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [buy christmas wreath] - $0.90 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [christmas door wreath australia] - $0.85 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-❌ [christmas wreaths sydney] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths - REJECTED, will not add 
-❌ [christmas wreaths melbourne] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths - REJECTED, will not add
-✅ [luxury christmas wreaths] - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [christmas door wreaths] - $0.70 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [luxury wreaths] - $0.75 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [christmas wreath online] - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ [wreath for front door] - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-```
+**Morning (Do First):**
+- [✅] **RE-ENABLE "high end christmas wreath" Phrase Match** - 20% CTR, mistakenly paused!
+  - Set bid: $5
+  - Landing page: /christmas-wreaths
+  
+- [✅] **Raise bids on 6 hero keywords** (current → new):
+  - "luxury christmas wreath" (Phrase): $5.00 → **$5.50** ✅
+  - "luxury christmas wreaths" (Phrase): $3.50 → **$4.50** ✅
+  - "luxury christmas decor" (Phrase): $4.50 → **$5.00** (50% CTR!) ✅
+  - "handmade christmas wreaths" (Phrase): $2.50 → **$3.50** ✅
+  - "luxury christmas centrepieces" (Phrase): $4.50 → **$4.75** ✅
+  - "luxury christmas candle holder" (Phrase): $4.25 → **$4.75** ✅
 
-**Phrase Match Keywords:**
-```
-✅ "christmas wreath delivery" - $1.00 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "designer christmas wreaths" - $1.00 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "christmas wreaths australia" - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "handmade christmas wreaths" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "luxury christmas wreath" - $0.75 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "luxury christmas wreaths australia" - $0.80 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "premium christmas wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-```
+- [✅] **Add campaign-level negative keywords** (copy from list below)
+  - cheap, cheapest, budget, affordable, under 50, diy, free, kmart, target, amazon, etsy, etc.
 
-**Broad Match Keywords (High Performers Only):**
-```
-✅ luxury christmas wreath australia - $0.70 (40% CTR!) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ christmas wreath - $0.50 (8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ christmas wreath australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ festive wreaths - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ wreath christmas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ xmas wreaths for front door - $0.50 (100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-```
+**Midday Check (11am-1pm):**
+- [ ] **Review Search Terms Report** - look for waste/irrelevant queries
+- [ ] Add any new negatives immediately
+- [ ] Check Impression Share on hero keywords (goal: lift from <10% toward 20%+)
 
-#### **Table/Centerpiece Keywords → `https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces`**
+**Afternoon:**
+- [ ] **Add ad-group level negatives:**
+  - Wreaths ad group: centrepiece, centerpiece, candle, holder, table, arrangement
+  - Centrepieces ad group: wreath, door, "front door", entryway
+  
+- [ ] **Optional - if one broad stays active:** Cap "christmas wreath australia" bid at $1.50-1.80 max
 
-**Broad Match Keywords:**
-```
-✅ christmas table decorations - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-✅ christmas table - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-✅ christmas centrepiece - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-✅ christmas table centrepiece - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces
-```
-
-#### **General/Gift Keywords → `https://beliefsinwreaths.com.au/collections/christmas-collection`**
-
-**Phrase Match Keywords:**
-```
-✅ "christmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ "xmas gifts" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ "christmas decorations" - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ "christmas decorations australia" - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ "holiday christmas decorations" - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-```
-
-**Broad Match Keywords:**
-```
-✅ christmas gifts - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas gift ideas - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ xmas gifts - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ xmas shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas online shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ holiday gift shopping - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ seasonal decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ holiday decor - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas collections - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-❌ home ornaments - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection - DELETED and added to negative keywords
-✅ xmas decorations - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ festive decorations - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas items - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ xmas gift ideas - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas flower arrangements - $0.30 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ xmas accessories - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ luxury christmas decorations australia - $0.40 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas wreath with lights - $0.35 - https://beliefsinwreaths.com.au/collections/christmas-collection
-✅ christmas decor reindeer - $0.25 - https://beliefsinwreaths.com.au/collections/christmas-collection
-```
-
-#### **Keywords to PAUSE (Low Performance, $0.01 bids, no URL):**
-```
-❌ 2024 xmas trends - PAUSE (no relevance, no data) - REJECTED, removed
-```
+**End of Day (5-6pm):**
+- [ ] Review Search Terms again
+- [ ] Check GA4: any add_to_cart or begin_checkout events from Paid Search?
+- [ ] Document in minutes/2025-11-01.md
 
 ---
 
-### Budget Allocation by Landing Page
+### 📋 WEEKEND (Nov 2-3): Monitor & Adjust
 
-**Primary Focus (70% budget):** `https://beliefsinwreaths.com.au/collections/christmas-wreaths`
-- All wreath-specific keywords
-- Highest bids ($0.60-$1.20)
-- Main revenue driver
-
-**Secondary Focus (15% budget):** `https://beliefsinwreaths.com.au/collections/christmas-candle-holders-centrepieces`
-- Table decoration keywords
-- Medium bids ($0.30-$0.40)
-- Complementary sales
-
-**Supporting (15% budget):** `https://beliefsinwreaths.com.au/collections/christmas-collection`
-- General Christmas keywords
-- Lower bids ($0.25-$0.40)
-- Discovery & gift shoppers
+- [ ] **Check Impression Share Saturday morning**
+  - If hero keywords still <20% IS: raise bids another $0.25
+  - If 20-40% IS: hold and monitor
+  
+- [ ] **Search Terms review 1x/day**
+  - Add negatives as needed
+  
+- [ ] **GA4 engagement check**
+  - Sessions, engagement rate, add_to_cart signals
+  - If 0 ATC after 100+ paid clicks: flag for LP review
 
 ---
 
-## 🎯 TIER 3: Support Keywords (4 keywords) - 25% of budget
-**Phrase Match - Product Specific - Bids: $0.60-$0.65**
+### 🗓️ WEEK 1 REVIEW (Nov 4-5)
+
+- [ ] **Compare metrics: Oct 29-31 vs Nov 1-3**
+  - Impression Share improvement?
+  - CTR holding above 9%?
+  - Avg CPC increase acceptable? (expect $3-4)
+  - Any conversions/add-to-cart events?
+  
+- [ ] **Keyword performance analysis**
+  - Which luxury terms getting clicks?
+  - Any "Not eligible" terms now serving?
+  - Quality Scores improving?
+  
+- [ ] **Budget pacing check**
+  - Daily spend trend
+  - Lost IS (budget) improving or worsening?
+  
+- [ ] **Decision point:**
+  - Scale winners (raise bids further)?
+  - Pause underperformers?
+  - Test new luxury variants?
+  - Increase budget to $40-45/day?
+
+---
+
+## 📋 CONVERSION TRACKING VERIFICATION CHECKLIST
+
+**Since you updated tracking on Oct 29, let's verify it's working correctly:**
+
+### Google Ads Side - What I Need to See:
+
+1. **Conversions > Summary** (screenshot or data)
+   - [ ] Is there a conversion action called "Purchase" or "Order"?
+   - [ ] What's the source? (Should say "Website" or "Google Analytics 4")
+   - [ ] Status should be "Recording conversions"
+   - [ ] Last conversion date shown?
+
+2. **Conversions > Conversion Action Details**
+   - [ ] Count: "One" (only count unique purchases)
+   - [ ] Conversion window: 30 days click, 1 day view
+   - [ ] Attribution model: Data-driven or Last click
+   - [ ] Value: Are you tracking actual order value or using a default?
+
+3. **Campaign Performance**
+   - [ ] In your main campaign, does the "Conversions" column show data?
+   - [ ] Do you see any conversions since Oct 29?
+   - [ ] Is conversion tracking column visible in Keywords tab?
+
+### GA4 Side - What I Need to See:
+
+1. **Admin > Data Display > Data Collection**
+   - [ ] Google Signals status: Active?
+   - [ ] Google Ads linking: Connected?
+
+2. **Admin > Events**
+   - [ ] Is there a "purchase" event?
+   - [ ] Is it marked as a "Key Event" (conversion)?
+   - [ ] Event count > 0 in last 30 days?
+
+3. **Reports > Monetization > Ecommerce Purchases**
+   - [ ] Do you see any purchase events recorded?
+   - [ ] Are they coming from "Paid Search" traffic source?
+   - [ ] Does revenue amount match your Shopify orders?
+
+4. **Admin > Integrations > Google Ads Links**
+   - [ ] Link status: Active?
+   - [ ] "Import conversions to Google Ads": Enabled?
+   - [ ] Which key events are being imported?
+
+### Shopify Side - What I Need to Verify:
+
+1. **Online Store > Preferences > Google & YouTube**
+   - [ ] Google Analytics 4 measurement ID present?
+   - [ ] Format: G-XXXXXXXXXX
+
+2. **Settings > Checkout > Order Status Page**
+   - [ ] Is there additional Google Analytics code?
+   - [ ] Enhanced ecommerce enabled?
+
+### Test the Setup:
+
+**Option A: Real Test Order**
+- [ ] Place real order on your site
+- [ ] Use coupon code if you have one to minimize cost
+- [ ] Wait 24-48 hours
+- [ ] Check if conversion appears in both GA4 and Google Ads
+
+**Option B: Google Tag Assistant**
+- [ ] Install Google Tag Assistant Chrome extension
+- [ ] Visit your website from a Google Ad (use preview)
+- [ ] Go through checkout process
+- [ ] Tag Assistant should show "purchase" event firing
+
+---
+
+## 🔴 PRIORITY 1: RE-ENABLE WINNING KEYWORD + RAISE BIDS (15 minutes)
+
+### URGENT: Re-enable mistakenly paused winner
+**"high end christmas wreath" (Phrase Match)**
+- Status: Currently PAUSED (mistake!)
+- Past performance: 10 imps, 2 clicks, **20% CTR**, $7.89 cost, $3.95 CPC
+- Action: **Re-enable NOW** with bid of **$4.75**
+- Landing page: https://beliefsinwreaths.com.au/collections/christmas-wreaths
+
+### Hero Keywords - Raise Bids Immediately
+
+**Why:** Currently losing 86% of impressions to budget caps. Need to win more auctions.
+
+| Keyword | Current Bid | NEW Bid | Reason |
+|---------|-------------|---------|--------|
+| "luxury christmas wreath" | $5.00 | **$5.50** | 10% CTR, proven converter |
+| "luxury christmas wreaths" | $3.50 | **$4.50** | Plural variant, eligible |
+| "luxury christmas decor" | $4.50 | **$5.00** | 50% CTR!! (3 clicks from 6 imps) |
+| "handmade christmas wreaths" | $2.50 | **$3.50** | 34 imps, 5.88% CTR, good engagement |
+| "luxury christmas centrepieces" | $4.50 | **$4.75** | Centrepieces = less competitive |
+| "luxury christmas candle holder" | $4.25 | **$4.75** | Centrepieces category winner |
+
+**Expected outcome:**
+- Impression Share lift from <10% to 20-40%
+- Avg CPC increase to $3-4 (acceptable for luxury positioning)
+- More visibility in premium positions
+- Daily spend may hit $35-40 (normal with higher bids)
+
+**How to update bids:**
+1. Keywords tab
+2. Filter/search for each keyword
+3. Click pencil icon next to Max CPC
+4. Enter new bid
+5. Save
+
+---
+
+## � PRIORITY 2: ADD NEGATIVE KEYWORDS (20 minutes)
+
+### Campaign-Level Negatives (Add to Campaign, not Ad Group)
+
+**Copy this list and add all at once:**
+
 ```
-❌ "handmade christmas wreaths australia" - $0.65 - REMOVED (Low search volume, not eligible)
-✅ "christmas door wreaths" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "eucalyptus christmas wreath" - $0.60 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ "designer christmas door wreath" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-"handmade christmas wreaths" - $0.65 - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+cheap
+cheapest
+budget
+affordable
+under 50
+under 100
+$20
+$30
+$40
+$50
+free
+diy
+homemade
+"how to"
+"how to make"
+tutorial
+tutorials
+ideas
+printable
+printables
+template
+templates
+pattern
+patterns
+crochet
+crocheting
+knitting
+paper
+cardboard
+fabric
+svg
+pdf
+clipart
+clip art
+kmart
+target
+"big w"
+bunnings
+spotlight
+ikea
+amazon
+ebay
+etsy
+gumtree
+marketplace
+facebook
+pinterest
+instagram
+hire
+hiring
+rental
+rent
+lease
+wholesale
+bulk
+commercial
+resale
+funeral
+memorial
+sympathy
+condolence
 ```
 
-**Note:** The broader phrase match "handmade christmas wreaths" (line 175) will still capture this intent with better search volume.
+**How to add (Option A - Fastest):**
+1. Keywords tab → Negative keywords (left menu)
+2. Click blue "+" button
+3. Select "Campaign" level
+4. Paste entire list above
+5. Save
 
-### Tier 4: Volume Keywords (3 keywords) - 10% of budget
-**Proven Performers Only - Bids: $0.50-$0.70**
+---
+
+### Ad-Group Level Negatives (Keep intent separated)
+
+**For "Christmas Products" ad group pointing to WREATHS:**
 ```
-✅ luxury christmas wreath australia - $0.70 (KEEP - 40% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ christmas wreath - $0.60 (KEEP - 8.33% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
-✅ xmas wreaths for front door - $0.50 (KEEP - 100% CTR) - https://beliefsinwreaths.com.au/collections/christmas-wreaths
+Add these negatives:
+centrepiece
+centerpiece
+candle
+candles
+holder
+holders
+table
+tables
+arrangement
+arrangements
+setting
+place setting
 ```
 
-**Total: 15 core keywords (streamlined for $15/day) + 30+ supporting keywords**
-
-**Note:** All keywords now mapped to specific landing pages for better Quality Score and ad relevance.
-
-### Keywords to DELETE - ✅ COMPLETED 
-**❌ Not eligible + Not Christmas-related = DELETE NOW**
-- Filter by "Not eligible" status
-- Review list - if not Christmas wreaths, delete them
-- Frees up account space & mental clarity
-
-### Negative Keywords - ✅ COMPLETED
+**Create separate ad group for CENTREPIECES if not done yet:**
 ```
--diy, -tutorial, -"how to make", -free, -cheap
--funeral, -sympathy, -memorial, -condolence
--wholesale, -bulk, -rental, -hire
--birthday, -gift (general)
+Add these negatives:
+wreath
+wreaths
+door
+"front door"
+entryway
+entrance
 ```
 
----
-
-## 📈 MONTHLY PERFORMANCE TARGETS
-
-### October (Oct 4-31): $420 budget (28 days)
-- **Clicks:** 600-660
-- **Conversions:** 15-20
-- **Revenue:** $2,250-3,600
-- **ROAS:** ~650%
-
-### November (Nov 1-30): $450 budget (30 days)
-- **Clicks:** 675-720
-- **Conversions:** 22-29
-- **Revenue:** $3,300-5,220
-- **ROAS:** ~900%
-
-### December (Dec 1-15): $225 budget (15 days)
-- **Clicks:** 325-360
-- **Conversions:** 13-17
-- **Revenue:** $1,950-3,060
-- **ROAS:** ~1000%+
-
-### Campaign Total (71 days)
-- **Budget:** $1,065
-- **Clicks:** ~1,600
-- **Conversions:** 50-70
-- **Revenue:** $7,500-10,500
-- **ROAS:** 704-986%
-- **Profit:** $6,400-9,400
+**Why this matters:**
+- Oct 29-31: "christmas table decorations" got 235 imps, 23 clicks, $46 spend (wrong intent for wreaths)
+- Need to protect wreaths budget from centrepiece searches and vice versa
+- Keeps ad relevance high for Quality Score
 
 ---
 
-## 🔧 ONGOING OPTIMIZATION
+## 🟢 PRIORITY 3: MONITORING & OPTIMIZATION (Ongoing)
 
-### Daily Tasks (5-10 minutes)
-- [✅] Check yesterday's spend (should be ~$15)
-- [✅] Review clicks and CTR
-- [✅] Check for any Google Ads alerts
-- [✅] Verify conversion tracking working
+### Search Terms Report - Check 2-3x Daily (First Week)
 
-### Weekly Tasks (30 minutes - Every Monday)
-- [ ] Review Search Terms Report
-  - Add negative keywords for irrelevant terms - ✅ COMPLETED
-  - Add new keywords for good performers
-- [ ] Check Quality Scores (aim for 7+/10)
-- [ ] Adjust bids on top/bottom 3 performers
-- [ ] Review conversion data (which keywords = sales?)
+**When to check:** Morning (9am), Midday (1pm), Evening (6pm)
 
-### Bi-Weekly Tasks (1 hour - Every other Friday)
-- [ ] Analyze conversion data deeply
-- [ ] Test new ad copy variations
-- [ ] Review geographic performance
-- [ ] Adjust bids by location if needed
-- [ ] Update client on progress
+**What to look for:**
+1. **Irrelevant searches** triggering ads
+   - DIY/craft terms ("how to make wreath")
+   - Marketplace searches ("etsy christmas wreath")
+   - Wrong product category ("christmas tree", "ornaments")
+   - Budget/cheap intent ("cheap wreaths", "under $50")
+   
+2. **Geographic leakage** (if any)
+   - Searches from regions you're not targeting
+   - Suburb names appearing (add as negatives if not converting)
+   
+3. **Good searches to note**
+   - High-intent queries getting clicks
+   - New luxury variations to potentially add as keywords
+   - Seasonal trending terms
 
----
-
-## 🚨 CRITICAL SUCCESS FACTORS
-
-### Must-Have Items
-
-**1. Conversion Tracking (Week 1)**
-- WITHOUT this: Can't measure ROI, can't optimize effectively
-- Install on thank-you/order confirmation page
-- Test to ensure working
-- **Priority #1 - Do this weekend!**
-
-**2. Daily Monitoring**
-- With only $15/day, every dollar counts
-- Check daily spend rate
-- Watch for budget hitting limit early
-- Pause non-performers quickly
-
-**3. Keyword Discipline**
-- Stick to 15 keywords maximum
-- Don't add low-intent keywords
-- Pause anything with 0 conversions after 50 clicks
-- Focus beats breadth with limited budget
-
-**4. Search Terms Review**
-- Weekly minimum
-- Add negatives aggressively
-- Block: DIY, cheap, free, funeral, wholesale
-- Stop wasted spend immediately
+**How to check:**
+1. Keywords tab → Search terms (top)
+2. Date range: Last 7 days
+3. Sort by Clicks (descending)
+4. Add negatives immediately for wasteful terms
+5. Export weekly for documentation
 
 ---
 
-## ⚠️ WARNING SIGNS & FIXES
+### Impression Share Monitoring
 
-### Red Flags to Watch (Week 1)
+**Goal:** Lift from <10% to 20-40% within 3-5 days after bid increases
 
-**❌ Budget hitting limit before 6pm daily**
-- **Fix:** Lower all bids by 10-15%
-- **Why:** Budget exhausting too fast
+**Check daily at:**
+- Keywords tab → Columns → Modify columns → Competitive metrics
+- Add: Search impr. share, Search lost IS (rank), Search lost IS (budget)
 
-**❌ CTR drops below 5%**
-- **Fix:** Pause low CTR keywords, improve ad copy
-- **Why:** Poor relevance = wasted clicks
+**Red flags:**
+- 🔴 Lost IS (budget) still >70% = Need budget increase OR pause more keywords
+- 🔴 Lost IS (rank) >30% = Bids still too low, increase by $0.25
+- ✅ Overall IS 20-40% = Sweet spot for budget-constrained campaign
 
-**❌ No conversions after 100 clicks**
-- **Fix:** Check conversion tracking, review landing page
-- **Why:** Either tracking broken or landing page issue
-
-**❌ CPC above $1.50**
-- **Fix:** Lower bids or improve Quality Score
-- **Why:** Overpaying per click
-
-**❌ Impression share <20%**
-- **Fix:** Increase bids on top 3 keywords only
-- **Why:** Not visible enough
+**Actions based on data:**
+- If hero keyword IS <10% after 2 days: +$0.25 bid
+- If IS 20-40%: hold steady
+- If IS >60%: consider lowering bid slightly (may be overpaying)
 
 ---
 
-## 📱 CAMPAIGN SETTINGS
+### GA4 Engagement Tracking
 
-### Budget & Bidding
-- **Daily budget:** $15
-- **Bidding strategy:** Manual CPC with Enhanced CPC enabled
-- **Delivery method:** Standard (evenly throughout day)
+**Daily check (5-10 minutes):**
 
-### Schedule
-- **Days:** All days (Christmas shopping = every day)
-- **Hours:** All hours (no restrictions)
-- **Bid adjustments:**
-  - 6pm-11pm: +15% (peak browsing time)
-  - Weekends: +10% (more browsing)
-  - Mobile: Monitor performance, adjust if needed
+1. **GA4 → Reports → Acquisition → Traffic acquisition**
+   - Filter: Session primary channel = Paid Search
+   - Check: Sessions, Engaged sessions, Engagement rate
+   - Goal: Maintain 60-70%+ engagement rate
 
-### Location Targeting
-- **Primary:** Sydney, Melbourne (75% of budget focus)
-- **Secondary:** Brisbane (20%)
-- **Tertiary:** Perth, Adelaide (5%)
-- **Method:** People in or searching for your targeted locations
+2. **GA4 → Reports → Engagement → Events**
+   - Filter: Event name = add_to_cart OR begin_checkout
+   - Filter: Traffic source = Paid Search
+   - **Critical milestone:** First add_to_cart from Paid Search
+   - If 0 after 100+ clicks: LP review needed
 
-### Ad Rotation
-- **Setting:** Optimize (let Google show best performers)
-- **Minimum:** 3 ads per ad group
+3. **GA4 → Reports → Monetization → Ecommerce purchases**
+   - Filter: First user source/medium = google / cpc
+   - Track: Purchase events, Revenue
+   - **Critical milestone:** First conversion (expected after 50-150 clicks at 2-5% conv rate)
+
+**Red flags:**
+- 🔴 Engagement rate drops below 50% = Ad/LP mismatch
+- 🔴 Zero add_to_cart after 100 clicks = Value prop / price issue
+- 🔴 Add_to_cart but no purchase = Checkout friction (shipping, trust)
 
 ---
 
-## 📊 SUCCESS METRICS TO TRACK
+### Quality Score Monitoring (Weekly)
+
+**Check every Monday:**
+
+1. Keywords tab → Columns → Quality Score
+2. Add columns: Quality Score, Landing page exp, Ad relevance, Expected CTR
+3. Sort by Quality Score (ascending) to find problems
+
+**Quality Score guide:**
+- **8-10:** Excellent - maintain
+- **6-7:** Good - monitor
+- **4-5:** Poor - investigate and fix
+- **1-3:** Bad - pause or major overhaul needed
+
+**Common fixes:**
+- Low landing page exp: Check page load speed, mobile experience
+- Low ad relevance: Add keywords to ad headlines, tighten match types
+- Low expected CTR: Improve ad copy, add promotions/offers
+
+---
 
 ### Key Performance Indicators
 
@@ -444,206 +511,159 @@
 
 ---
 
-## 🎄 EFFICIENCY TIPS FOR $15/DAY
+---
 
-### Maximize Your Limited Budget
+## 📊 SUCCESS METRICS & MONITORING
+
+### Key Performance Indicators (Updated Nov 1)
+
+| Metric | Oct 29-31 Actual | Week 1 Goal (Nov 1-7) | Month 1 Goal (Nov) |
+|--------|------------------|------------------------|---------------------|
+| **Impressions/day** | 191 | 300-400 | 400-600 |
+| **Clicks/day** | 18.3 | 20-30 | 25-35 |
+| **CTR** | 9.60% | 8-11% | 8-11% |
+| **Avg CPC** | $2.00 | $3.00-4.00 | $3.00-3.50 |
+| **Search IS** | <10% | 20-40% | 30-50% |
+| **Lost IS (budget)** | 86.22% | 50-70% | 40-60% |
+| **Conversions/week** | 0 | 1-3 | 4-8 |
+| **Conv Rate** | 0% | 2-5% | 3-5% |
+| **Cost/Conv** | N/A | $30-60 | $25-50 |
+| **ROAS** | N/A | 300-500% | 400-600% |
+
+### Daily Monitoring Checklist
+
+**Every Morning (9-10am):**
+- [ ] Check overnight spend vs budget pace (should be 20-30% by 10am)
+- [ ] Review Search Terms for waste
+- [ ] Add negatives if needed
+- [ ] Check GA4 engagement from yesterday
+
+**Midday (12-2pm):**
+- [ ] Budget pacing check (should be 50-60% by 2pm)
+- [ ] Impression Share spot check on hero keywords
+- [ ] Search Terms review again
+
+**Evening (5-7pm):**
+- [ ] Final Search Terms review
+- [ ] Check for any conversions/add_to_cart events
+- [ ] Note any keywords hitting "Limited by budget" status
+- [ ] Plan next day adjustments if needed
+
+### Weekly Review (Every Monday)
+
+**Performance vs Goals:**
+- [ ] Total impressions vs target (2,100-2,800/week)
+- [ ] Total clicks vs target (140-210/week)
+- [ ] CTR maintaining 8-11%
+- [ ] Avg CPC trend (should stabilize at $3-4)
+- [ ] Impression Share improving (goal: 20-40%)
+- [ ] Conversions (expecting 1-3/week minimum)
+
+**Keyword Health:**
+- [ ] Quality Scores (goal: 6-8 average)
+- [ ] Which keywords getting >80% of clicks?
+- [ ] Any "Not eligible" keywords now serving?
+- [ ] Any keywords needing bid adjustments?
+
+### Quality Score Targets
+- **8-10/10:** Excellent - maintain
+- **6-7/10:** Good - monitor
+- **4-5/10:** Poor - investigate/fix
+- **1-3/10:** Bad - pause immediately
+
+---
+
+## 🎄 EFFICIENCY TIPS FOR BUDGET-CONSTRAINED CAMPAIGNS
+
+### Maximize Impact with $25-35/Day
 
 **1. Be Ruthless with Keywords**
-- Only keep keywords with >5% CTR
-- Pause after 50 clicks if 0 conversions
-- Don't waste clicks on low-intent terms
-- Quality over quantity always
+- Only keep keywords with proven CTR >7%
+- Pause after 50 clicks if 0 conversions AND 0 add_to_cart
+- Quality over quantity - 6-8 hero keywords better than 50 mediocre ones
+- "Not eligible" luxury terms OK to keep (catch longtail searches)
 
 **2. Use Negative Keywords Aggressively**
-- Add 20-30 negatives in first week
-- Review Search Terms Report 2x weekly
-- Block: DIY, cheap, free, funeral, wholesale
-- Stop waste immediately
+- Add 30-50 negatives in first week
+- Review Search Terms 2-3x daily first week, then daily
+- Block: DIY, cheap, free, marketplaces (etsy/amazon), funeral/sympathy
+- Ad-group negatives critical (wreaths ≠ centrepieces)
 
-**3. Focus on High-Intent Terms**
-- "buy" keywords = best
-- Location + product keywords = good
-- Delivery keywords = good
-- Premium/luxury qualifiers = good
-- Generic terms = bad
+**3. Focus on High-Intent Only**
+- Luxury/premium/handcrafted modifiers = best
+- Generic broad = pause (unless "christmas wreath australia" with strict negatives)
+- Geographic + product = good
+- Avoid: informational ("ideas"), DIY, price-focused
 
-**4. Monitor Quality Scores**
-- Aim for 7+/10 on all keywords
-- Fix landing pages for low QS
-- Pause keywords stuck below 5/10
-- High QS = lower CPC = more clicks
+**4. Monitor Impression Share Daily**
+- Target: 20-40% IS (realistic for budget)
+- If <10%: raise bids $0.25
+- If >60%: may be overpaying (test lowering $0.25)
+- Lost IS (budget) 50-70% = acceptable with constraints
 
-**5. Geographic Focus**
-- Start with Sydney & Melbourne
-- 75% of budget to top 2 cities
-- Expand only if performing well
-- Use location bid adjustments
+**5. Separate Wreaths from Centrepieces**
+- Different ad groups OR strong ad-group negatives
+- Centrepieces showing 10.7% CTR, $1.92 CPC (less competitive!)
+- Consider 40% budget to centrepieces if trend continues
+- Prevents wrong-intent clicks (table shoppers ≠ door wreath buyers)
 
-**6. Time-Based Optimization**
-- Identify peak conversion times
-- Add bid adjustments (+15-20%)
-- Don't waste budget at 3am
-- Weekends often perform better
+**6. GA4 Micro-Conversions Matter**
+- Track add_to_cart and begin_checkout separately
+- Zero ATC after 100 clicks = LP/value issue (not keyword problem)
+- 70% engagement rate = good (audience quality confirmed)
+- 33s avg engagement = visitors are browsing (positive signal)
 
----
-
-## 🔗 HELPFUL GUIDES
-
-### In This Workspace
-
-**Implementation Guides:**
-- `docs/guides/increase-keyword-bids.md` - How to change bids in Google Ads
-- `docs/guides/setup-conversion-tracking.md` - CRITICAL - Install tracking
-- `docs/guides/create-multiple-ads.md` - Create 3 ad variations
-- `docs/guides/fix-landing-page-quality.md` - Improve Quality Score
-
-**Reference Documents:**
-- `docs/FIX-LOW-SEARCH-VOLUME.md` - Australian market keyword strategy
-- `docs/ACTION-CHECKLIST.md` - Alternative task list format
-- `DOCUMENT-STATUS.md` - Which documents are current vs outdated
-
-**Templates:**
-- `docs/WEEKLY-PERFORMANCE-TEMPLATE.md` - Track weekly progress
+**7. Time-Based Optimization (Week 2+)**
+- After 7-10 days, check hour-of-day performance
+- Add bid adjustments +15-20% for peak hours
+- Consider -30% for 12am-6am if no conversions overnight
+- Weekends may perform differently (browsing vs buying)
 
 ---
 
-## 📞 NEXT STEPS WITH CLIENT
+## 📝 NOTES & UPDATES
 
-### Information Confirmed
-✅ Budget: $15/day (no increase approved)  
-✅ Focus: 100% Christmas (All Year Products paused)  
-✅ Timeline: Oct 4 - Dec 15 (71 days)  
-✅ Expectations: 50-70 sales, $7,500-10,500 revenue  
+### Recent Updates (Nov 1, 2025)
+- ✅ Analyzed Oct 29-31 performance reports (full 3-day period)
+- ✅ Identified budget throttling as #1 issue (86% Lost IS budget, <10% overall IS)
+- ✅ Confirmed CTR strong (9.60%) - ad/LP relevance working
+- ✅ Discovered centrepieces outperforming wreaths (10.7% vs 8.85% CTR, lower CPC)
+- ✅ Identified mistakenly paused winner: "high end christmas wreath" (20% CTR)
+- ✅ Updated bid recommendations for 6 hero keywords ($4.50-5.75 range)
+- ✅ Created comprehensive negative keywords list (50+ terms)
+- ✅ Established daily monitoring cadence (2-3x Search Terms review)
+- ✅ Updated minutes/2025-10-31.md with EOD summary
+- ✅ Created minutes/2025-11-01.md with today's action plan
 
-### Still Need
-- [ ] Conversion tracking implementation access
-- [ ] Website admin access (for tracking installation)
-- [ ] Average order value confirmation (assuming $150)
-- [ ] Product margins (for profit calculation)
+### Previous Updates (Oct 30, 2025)
+- ✅ Analyzed 3-month performance data (Aug 1-Oct 30)
+- ✅ Identified winning keyword: "luxury christmas wreath" (33% conv rate, $6.14 cost/conv)
+- ✅ Calculated budget waste: $243 on 9 non-converting keywords (since paused)
+- ✅ Updated strategy to $25/day luxury-only focus
+- ✅ Created tracking verification guide (TRACKING-VERIFICATION-GUIDE.md)
+- ✅ Updated PROJECT-STATUS.md with realistic expectations
 
-### Client Communication
-**Message to send:**
-> "We've optimized your Christmas campaign for the $15/day budget. Expected results: 50-70 wreath sales generating $7,500-10,500 revenue over the next 71 days (7-10x ROI).
->
-> Critical next step: Install conversion tracking this weekend so we can measure which keywords drive sales and optimize accordingly. Without this, we're flying blind.
->
-> I'll monitor daily and provide weekly updates on performance."
+### Current Status (Nov 1)
+**Active Budget:** $25-35/day (recent average ~$36/day with overdelivery)
+**Main Issue:** Budget throttling (86% Lost IS budget) - need to win more auctions with existing budget
+**Strategy:** Concentrate on 6-8 hero luxury keywords, raise bids, aggressive negatives
+**Days Remaining:** 45 days until Christmas cutoff (Dec 15)
 
----
-
-## ✅ IMPLEMENTATION CHECKLIST
-
-### Week 1 (Oct 4-11)
-**Day 1-2: Foundation**
-- [✅] Budget confirmed $15/day
-- [✅] Deleted irrelevant keywords
-- [✅] Added negative keywords
-- [ ] Increased bids on top 3 keywords
-- [ ] Verified Manual CPC bidding
-
-**Day 3-4: Critical Setup**
-- [✅] Set up conversion tracking ⚠️ PRIORITY #1
-- [✅] Test conversion tracking works
-- [ ] Export Search Terms Report
-- [ ] Add 5 more negative keywords
-
-**Day 5-7: Expansion**
-- [ ] Add 5 new phrase match keywords
-- [ ] Create 2 more ad variations (need 3 total)
-- [ ] First performance review
-- [ ] Document what's working
-
-### Week 2 (Oct 11-18)
-- [ ] Analyze Week 1 conversion data
-- [ ] Adjust bids based on performance
-- [ ] Add exact match versions of top 3 performers
-- [ ] Review Quality Scores, fix issues
-- [ ] Weekly client update
-
-### Week 3-4 (Oct 18-Nov 1)
-- [ ] Scale what's working (increase bids)
-- [ ] Pause what's not (0 conv after 50 clicks)
-- [ ] A/B test ad copy
-- [ ] Geographic performance review
-- [ ] Month 1 comprehensive review
-
----
-
-## 💰 BUDGET BREAKDOWN
-
-### Investment Summary
-- **Daily:** $15
-- **Weekly:** $105
-- **Monthly:** ~$450
-- **Campaign Total:** $1,065 (71 days)
-
-### Expected Return
-- **Conservative:** $5,160 revenue (485% ROAS)
-- **Realistic:** $9,600 revenue (901% ROAS)
-- **Optimistic:** $15,300 revenue (1,437% ROAS)
-
-### Profit Projection (after ad spend)
-- **Conservative:** $4,095 profit
-- **Realistic:** $8,535 profit
-- **Optimistic:** $14,235 profit
-
-**Assumption:** 60% profit margin on wreaths
-
----
-
-## 🎯 BOTTOM LINE
-
-**$15/day = $1,065 total = 50-70 sales = $7,500-10,500 revenue**
-
-### What Makes This Work:
-
-✅ **Focused Strategy** - 15 keywords, not 86  
-✅ **Proven Performers** - Scaling what already works (40% CTR!)  
-✅ **Conservative Bids** - $0.60-$1.20 range, not overpaying  
-✅ **Daily Monitoring** - Catching issues fast  
-✅ **Efficiency Focus** - Every dollar optimized  
-
-### Success Requirements:
-
-⚠️ **Conversion tracking** - Must install Week 1  
-⚠️ **Daily checks** - 5-10 min monitoring  
-⚠️ **Weekly optimization** - Search terms + bids  
-⚠️ **Discipline** - Stay focused on 15 keywords  
-
-**This is a realistic, achievable Christmas campaign!** 🎄
-
----
-
-## 📝 NOTES & CONTEXT
-
-### Budget Decision History
-1. Sept 19-Oct 2: Campaign at ~$6/day, poor performance
-2. Oct 3: Increased to $15/day
-3. Oct 4: Analyzed, recommended $20/day
-4. Oct 4: **Client decided to stay at $15/day (FINAL)**
-
-### Why $15/Day Works
-- Still generates 700-900% ROAS
-- Requires efficiency & discipline
-- Focuses on proven winners
-- Realistic expectations (50-70 sales vs 70-90)
-- Profitable with proper execution
-
-### Documents Superseded by This Plan
-This document consolidates:
-- ✅ ACTION-PLAN.md (old structure)
-- ✅ REVISED-BUDGET-PLAN.md (strategy)
-- ✅ QUICK-WINS.md (immediate actions)
-- ✅ KEYWORD-RECOMMENDATIONS.md (keyword list)
-- ✅ IMPLEMENTATION-CHECKLIST.md (tasks)
-- ✅ FINAL-BUDGET-DECISION.md (budget context)
-
-**All information in ONE place!**
+### Reference Documents
+- **minutes/2025-10-31.md** - EOD summary with Oct 29-31 metrics
+- **minutes/2025-11-01.md** - Today's action plan and KPIs
+- **AI-CONTEXT.md** - Quick context for future sessions
+- **TRACKING-VERIFICATION-GUIDE.md** - Conversion tracking checklist
+- **PROJECT-STATUS.md** - High-level timeline and expectations
+- **data/new-luxury-keywords-import 2.csv** - Keyword import file (wreaths)
+- **data/new-centrepieces-keywords-import.csv** - Centrepieces keywords
+- **data/new-collection-keywords-import.csv** - Collection page keywords
 
 ---
 
 **Document Created:** October 4, 2025  
-**Last Updated:** October 4, 2025  
-**Next Review:** October 11, 2025 (Week 1 check-in)  
-**Version:** 1.0 (Consolidated)  
-**Status:** ACTIVE - This is your primary working document
+**Last Updated:** November 1, 2025  
+**Next Review:** November 4, 2025 (Week 1 check-in)  
+**Version:** 3.0 (Updated with Oct 29-31 analysis and Nov 1 recommendations)  
+**Status:** ACTIVE - Primary working document
+
