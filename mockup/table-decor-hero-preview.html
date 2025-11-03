@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Décor Hero Section Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #f5f5f4;
+            padding: 20px;
+        }
+
+        .preview-controls {
+            max-width: 1200px;
+            margin: 0 auto 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .preview-controls h2 {
+            margin-bottom: 15px;
+            color: #292524;
+        }
+
+        .viewport-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .viewport-btn {
+            padding: 8px 16px;
+            background: #e7e5e4;
+            border: 2px solid #d6d3d1;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        .viewport-btn:hover {
+            background: #d6d3d1;
+        }
+
+        .viewport-btn.active {
+            background: #292524;
+            color: white;
+            border-color: #292524;
+        }
+
+        .preview-frame {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: max-width 0.3s ease;
+        }
+
+        .preview-frame.mobile {
+            max-width: 375px;
+        }
+
+        .preview-frame.tablet {
+            max-width: 768px;
+        }
+
+        /* Hero Section Styles */
+        .table-decor-hero {
+            padding: 60px 20px;
+            text-align: center;
+            background: linear-gradient(to bottom, #fafaf9 0%, #ffffff 100%);
+            border-bottom: 1px solid #e5e5e4;
+        }
+
+        .table-decor-hero__inner {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .table-decor-hero__badge {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 500;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: #78716c;
+            margin-bottom: 16px;
+            padding: 6px 16px;
+            border: 1px solid #d6d3d1;
+            border-radius: 20px;
+            background: white;
+        }
+
+        .table-decor-hero__title {
+            font-size: 42px;
+            font-weight: 300;
+            letter-spacing: -0.5px;
+            color: #292524;
+            margin: 0 0 20px 0;
+            line-height: 1.2;
+        }
+
+        .table-decor-hero__description {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #57534e;
+            margin: 0 0 32px 0;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .table-decor-hero__features {
+            display: flex;
+            justify-content: center;
+            gap: 32px;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+        }
+
+        .table-decor-hero__feature {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            color: #78716c;
+        }
+
+        .table-decor-hero__feature svg {
+            width: 18px;
+            height: 18px;
+            flex-shrink: 0;
+        }
+
+        .table-decor-hero__afterpay {
+            background: #f0fdf9;
+            border: 2px solid #b2fce4;
+            border-radius: 8px;
+            padding: 14px 24px;
+            margin: 0 auto 28px auto;
+            max-width: 400px;
+        }
+
+        .table-decor-hero__afterpay p {
+            margin: 0;
+            font-size: 14px;
+            color: #065f46;
+            font-weight: 500;
+        }
+
+        .table-decor-hero__cta {
+            display: inline-block;
+            background: #292524;
+            color: white;
+            padding: 14px 40px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+            transition: all 0.2s ease;
+        }
+
+        .table-decor-hero__cta:hover {
+            background: #44403c;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Product grid mockup */
+        .product-grid-mockup {
+            padding: 40px 20px;
+            background: white;
+        }
+
+        .product-grid-mockup h3 {
+            text-align: center;
+            color: #78716c;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        @media (max-width: 768px) {
+            .table-decor-hero {
+                padding: 40px 16px;
+            }
+
+            .table-decor-hero__title {
+                font-size: 32px;
+            }
+
+            .table-decor-hero__description {
+                font-size: 15px;
+            }
+
+            .table-decor-hero__features {
+                gap: 20px;
+            }
+
+            .table-decor-hero__feature {
+                font-size: 13px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="preview-controls">
+        <h2>Table Décor Hero Section Preview</h2>
+        <div class="viewport-buttons">
+            <button class="viewport-btn active" onclick="setViewport('desktop')">Desktop</button>
+            <button class="viewport-btn" onclick="setViewport('tablet')">Tablet (768px)</button>
+            <button class="viewport-btn" onclick="setViewport('mobile')">Mobile (375px)</button>
+        </div>
+        <p style="color: #78716c; font-size: 14px;">
+            <strong>Collection:</strong> christmas-candle-holders-centrepieces<br>
+            <strong>Style:</strong> Elegant, centered, matches your existing premium hero sections<br>
+            <strong>Features:</strong> Badge, features list, Afterpay message, single CTA
+        </p>
+    </div>
+
+    <div class="preview-frame" id="previewFrame">
+        <!-- Hero Section -->
+        <div class="table-decor-hero">
+            <div class="table-decor-hero__inner">
+                
+                <span class="table-decor-hero__badge">Handcrafted in Studio</span>
+                
+                <h1 class="table-decor-hero__title">
+                    Table Arrangements, Centerpieces, Teardrop Swags, Candle Holders
+                </h1>
+                
+                <p class="table-decor-hero__description">
+                    Transform your dining space with our artisan-crafted Christmas table arrangements. Each centerpiece and teardrop swag is thoughtfully designed to bring warmth and elegance to your festive gatherings.
+                </p>
+
+                <div class="table-decor-hero__features">
+                    <div class="table-decor-hero__feature">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        <span>Premium Materials</span>
+                    </div>
+                    <div class="table-decor-hero__feature">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        <span>Hand-Assembled</span>
+                    </div>
+                    <div class="table-decor-hero__feature">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        <span>Limited Edition</span>
+                    </div>
+                </div>
+
+                <div class="table-decor-hero__afterpay">
+                    <p>or 4 interest-free payments from $37.50 with <strong>Afterpay</strong></p>
+                </div>
+
+                <a href="#products" class="table-decor-hero__cta">Shop Collection</a>
+
+            </div>
+        </div>
+
+        <!-- Product Grid Placeholder -->
+        <div class="product-grid-mockup" id="products">
+            <h3>↓ Your Product Grid Appears Below ↓</h3>
+        </div>
+    </div>
+
+    <script>
+        function setViewport(size) {
+            const frame = document.getElementById('previewFrame');
+            const buttons = document.querySelectorAll('.viewport-btn');
+            
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            frame.className = 'preview-frame';
+            if (size !== 'desktop') {
+                frame.classList.add(size);
+            }
+        }
+    </script>
+</body>
+</html>

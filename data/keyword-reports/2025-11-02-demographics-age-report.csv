@@ -1,0 +1,17 @@
+Age,Ad group,Status,Bid adj.,Clicks,Impr.,CTR,Avg. CPC,Cost,Conv. rate,Conversions,Cost / conv.
+18 - 24,All Year Products,Excluded from ad group, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+18 - 24,Christmas Products,Excluded from ad group, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+25 - 34,All Year Products,Excluded from ad group, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+25 - 34,Christmas Products,Excluded from ad group, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+35 - 44,All Year Products,Ad group paused, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+35 - 44,Christmas Products,Excluded from ad group, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+45 - 54,All Year Products,Ad group paused, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+45 - 54,Christmas Products,Eligible, --,214,7375,2.90%,$1.01,$215.40,0.47%,1.00,$215.40
+55 - 64,All Year Products,Ad group paused,+5%,0,0, --, --,$0.00,0.00%,0.00,$0.00
+55 - 64,Christmas Products,Eligible,+5%,400,10837,3.69%,$0.87,$346.38,0.00%,0.00,$0.00
+65+,All Year Products,Ad group paused, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+65+,Christmas Products,Eligible, --,321,10658,3.01%,$0.74,$237.71,0.00%,0.00,$0.00
+Unknown,All Year Products,Ad group paused, --,0,0, --, --,$0.00,0.00%,0.00,$0.00
+Unknown,Christmas Products,Eligible, --,484,31803,1.52%,$0.67,$325.68,0.21%,1.00,$325.68
+Total: Ages, --, --, --,1419,60673,2.34%,$0.79,$1125.17,0.14%,2.00,$562.58
+Total: Campaign, --, --, --,1419,60673,2.34%,$0.79,$1125.17,0.14%,2.00,$562.58
