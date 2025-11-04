@@ -205,6 +205,25 @@ product-info {
   }
 }
 
+/* Mobile button optimization for conversion */
+@media screen and (max-width: 749px) {
+  .product-form__submit {
+    height: 56px !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    padding: 16px 24px !important;
+    background-color: #1a4d4a !important;
+    color: #ffffff !important;
+    border: none !important;
+    min-width: 100% !important;
+  }
+  
+  /* Ensure button stands out with solid background */
+  .product-form__submit[aria-disabled='true'] {
+    background-color: rgba(var(--color-button), 0.5) !important;
+  }
+}
+
 /* Overrides */
 .shopify-payment-button__more-options {
   color: rgb(var(--color-foreground));
