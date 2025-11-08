@@ -43,8 +43,70 @@ class CartNotification extends HTMLElement {
       );
     });
 
+    // Update free shipping progress bar - fetch fresh cart data
+    this.updateFreeShippingProgress();
+
     if (this.header) this.header.reveal();
     this.open();
+  }
+
+  async updateFreeShippingProgress() {
+    const freeShippingThreshold = 14000; // $140 in cents
+    
+    // Fetch fresh cart data
+    let cartTotal = 0;
+    try {
+      const response = await fetch('/cart.js');
+      const cart = await response.json();
+      cartTotal = cart.total_price || 0;
+    } catch (error) {
+      console.error('Error fetching cart:', error);
+      return;
+    }
+    
+    const remaining = freeShippingThreshold - cartTotal;
+    
+    const shippingContainer = document.getElementById('cart-notification-shipping');
+    const shippingMessage = document.getElementById('shipping-message');
+    const shippingProgress = document.getElementById('shipping-progress');
+    const progressBar = document.getElementById('shipping-progress-bar');
+    const progressText = document.getElementById('shipping-progress-text');
+    
+    if (!shippingContainer || !shippingMessage) return;
+    
+    // Format currency
+    const formatMoney = (cents) => {
+      return '$' + (cents / 100).toFixed(2);
+    };
+    
+    if (remaining <= 0) {
+      // Free shipping achieved!
+      shippingContainer.style.background = '#d4edda';
+      shippingContainer.style.borderColor = '#c3e6cb';
+      shippingMessage.style.color = '#155724';
+      shippingMessage.innerHTML = '✓ You\'ve earned <strong>FREE SHIPPING</strong>! 🚚';
+      
+      // Add subtitle
+      const subtitle = document.createElement('div');
+      subtitle.style.cssText = 'text-align: center; color: #155724; font-size: 12px; margin-top: 4px;';
+      subtitle.textContent = 'Orders $140+ ship free across Australia';
+      shippingMessage.appendChild(subtitle);
+      
+      if (shippingProgress) shippingProgress.style.display = 'none';
+    } else {
+      // Show progress toward free shipping
+      shippingContainer.style.background = '#fff3cd';
+      shippingContainer.style.borderColor = '#ffeaa7';
+      shippingMessage.style.color = '#856404';
+      shippingMessage.innerHTML = `🚚 Add <strong>${formatMoney(remaining)}</strong> more for FREE SHIPPING!`;
+      
+      if (shippingProgress && progressBar && progressText) {
+        shippingProgress.style.display = 'block';
+        const percentage = Math.min((cartTotal / freeShippingThreshold) * 100, 100);
+        progressBar.style.width = percentage + '%';
+        progressText.textContent = `${formatMoney(cartTotal)} / $140.00`;
+      }
+    }
   }
 
   getSectionsToRender() {
