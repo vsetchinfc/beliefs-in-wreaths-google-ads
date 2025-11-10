@@ -1,283 +1,266 @@
 ﻿# 🎄 BELIEFS IN WREATHS - GOOGLE ADS ACTION PLAN
-## Christmas Campaign Strategy - UPDATED BASED ON ACTUAL PERFORMANCE
+## Christmas Campaign Strategy - $30/DAY FOCUSED OPTIMIZATION
 
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
 **Campaign:** B-in-W [Search | Sales]  
-**Budget:** $20-35/day (Client decision pending)
-**Timeline:** October 31 - December 15, 2025 (46 days remaining)  
-**Focus:** 100% Christmas wreath sales - LUXURY positioning
-**Status:** 🔴 CRITICAL PIVOT NEEDED - See analysis below
+**Budget:** $30/day (Reduced from $84/day - Nov 10, 2025)
+**Timeline:** November 10 - December 15, 2025 (35 days remaining)  
+**Focus:** Single hero keyword - "stylish christmas wreaths"
+**Status:** � FIRST SALE ACHIEVED - OPTIMIZING FOR PROFITABILITY
 
 ---
 
-## 🚨 REALITY CHECK - 3 MONTH PERFORMANCE (Aug 1 - Oct 30)
+## 🎉 BREAKTHROUGH - FIRST GOOGLE ADS SALE (November 10, 2025)
 
-### Actual Performance vs. Original Projections
+### Monday Nov 10 Performance - THE WINNER IDENTIFIED
 
-| Metric | Originally Projected | ACTUAL Reality | Variance |
-|--------|---------------------|----------------|----------|
-| **Total Spend** | $1,016 | ✅ $1,016 | On target |
-| **Conversions** | 40-60 | 🔴 **2** | **-95%** |
-| **Conversion Rate** | 2-3% | 🔴 **0.14%** | **-93%** |
-| **Cost/Conversion** | $27-54 | 🔴 **$508** | **+941%** |
-| **Revenue** | $7,400-10,800 | 🔴 **$278** | **-97%** |
-| **ROAS** | 600-800% | 🔴 **27%** | **-96%** |
+**"stylish christmas wreaths" = PROVEN CONVERTER** 🎯
 
-### THE BREAKTHROUGH DISCOVERY ✅
+| Metric | Performance |
+|--------|-------------|
+| **Impressions** | 71 |
+| **Clicks** | 13 |
+| **CTR** | 18.31% |
+| **Spend** | $50.98 |
+| **Conversions** | 2 (1 actual sale) |
+| **Conversion Rate** | 15.38% |
+| **Cost/Conversion** | $25.49 |
+| **Sale Revenue** | $185 (Ribbon & Berries Bliss Christmas Wreath) |
+| **Profit** | $102.68 (55% margin) ✅ |
 
-**ONE keyword works phenomenally well:**
+**Key Insight:** 2 Google Ads conversions = 2 sessions leading to 1 purchase = Profitable at $82.32/day spend!
 
-**"luxury christmas wreath" (Phrase Match)**
-- 6 clicks → 2 conversions = **33.33% conversion rate!**
-- Cost: $12.27 → **Cost per conversion: $6.14**
-- **This is 83x better than campaign average!**
+### Other Keywords Monday (No Conversions)
+- "luxury christmas decor" - 18 imps, 4 clicks, $17.97 (wasted)
+- "handcrafted christmas decorations" - 11 imps, 3 clicks, $9.00 (wasted)
+- "luxury christmas wreath" - 1 imp, 1 click, $4.37 (wasted)
+- **Total waste:** $31.34/day on non-converting keywords
 
-**Problem:** Only 6 clicks in 3 months (0.04% of total traffic)
-**Solution:** Focus 90% of budget on THIS keyword + similar luxury variations
-
----
-
-## 📊 UPDATED EXECUTIVE SUMMARY (Nov 3, 2025)
-
-### Current Situation (Aug 1 - Nov 2 Performance)
-- **Overall Performance:** 1,419 clicks, 60,673 imps, 2.34% CTR, $1,125.17 spend, **2 conversions**
-- **Critical Breakthrough:** � **"luxury christmas wreath" = 50% conversion rate** (2 conversions from 4 clicks!)
-- **Audience Quality:** ✅ 45-65+ affluent demographic = 66% of clicks, perfect targeting
-- **Device Insight:** 🔥 **84% mobile traffic, 100% conversions from mobile** (both conversions)
-- **Critical Issue:** ⚠️ **Mobile landing page = 0.17% conv rate** (should be 1-2%) - LP problem, not targeting
-- **Days Remaining:** 43 days until Christmas cutoff (Dec 15)
-- **Budget Optimization:** ✅ Nov 2: Paused "christmas wreath australia" drainer, lowered bids, $25/day budget set
-- **Lost IS (budget):** 89.78% (Nov 2) - budget constraint reality, but quality over quantity working
-
-### REVISED Campaign Goals (Nov 3 - Dec 15, 43 days remaining)
-
-**✅ CURRENT BUDGET: $25/day** (optimized Nov 2)
-
-**Campaign Strategy - UPDATED NOV 3 (Post-Audience Analysis):**
-- **Focus:** 6 hero luxury keywords only (quality over quantity proven)
-- **Key Winners:** "luxury christmas wreath" (31.25% CTR, **50% conv rate**!), "luxury christmas decor" (27.59% CTR), "bespoke christmas decorations" (20% CTR)
-- **Hero Performance:** 31-40% CTR on luxury terms = exceptional intent match, targeting validated ✅
-- **Audience Quality:** ✅ 7.5/10 - Perfect age (45-65+), perfect intent (luxury queries), mobile buyers identified
-- **Critical Fix #1:** **Mobile landing page optimization** (84% traffic, 0.17% conv rate = 10x improvement potential)
-- **Critical Fix #2:** Add negative keywords (waste: lights, DIY, cheap, "big w", etsy = $5-10/day savings)
-- **Expected Sales:** 8-15 Christmas products (mobile LP improvements key)
-- **Expected Revenue:** $1,480-2,775 (conservative until mobile LP fixed)
-- **Expected ROAS:** 150-250% (1.5-2.5:1) - will jump to 400-600% after mobile LP optimization
-
-**Success Requirements:**
-✅ Conversion tracking verified and working (completed Oct 29)
-✅ GA4 linked to Google Ads (completed Oct 29)
-✅ Landing pages optimized (9.6% CTR confirms quality)
-✅ Focus on luxury positioning only
-✅ Daily monitoring - especially Search Terms for negative adds
-✅ Bid increases on hero terms to win auctions (86% Lost IS must improve)
-### NEW Strategy (Based on Nov 2 Audience Quality Analysis)
-🎯 **Mobile LP optimization is #1 priority** - 84% mobile, 100% conversions from mobile, but only 0.17% conv rate = 10x improvement potential
-🎯 **Targeting validated:** 45-65+ affluent demographic (66% clicks), 31-50% CTR on luxury terms = perfect audience ✅
-🎯 **Hero keywords proven:** "luxury christmas wreath" 50% conv rate (2 from 4 clicks), "luxury christmas decor" 27.59% CTR
-🎯 **Active keywords (6 only):** luxury wreath ($4.50), luxury wreaths ($4.00), luxury decor ($4.50), bespoke ($3.00), handcrafted ($3.00), premium ($3.00)
-🎯 **Budget drainer eliminated:** ✅ "christmas wreath australia" (Broad) paused Nov 2 - was eating 22% budget with 7% CTR
-🎯 **$25/day budget set:** ✅ Nov 2 optimization complete, expect 8-10 clicks/day at 15-25% CTR
-🎯 **Waste terms identified:** lights, DIY, cheap, "big w", etsy, ferrero = need negative keywords immediately
-🎯 **Missing data:** Need State/City locations (wealthy suburbs?), Household Income report (Top 10-20% earners?)repiece, candle, table, holder)
-🎯 **Daily Search Terms review:** 2-3x/day for first week to catch waste immediately  
+### Financial Reality Check
+- **Weekend (Nov 9-10):** No sales, spent budget on testing
+- **Monday Nov 10:** 1 sale, $82.32 spent, $102.68 profit
+- **Conclusion:** Cannot sustain $84/day budget without consistent daily sales
+- **Solution:** Reduce to $30/day, focus 100% on proven winner
 
 ---
 
-## ⚡ IMMEDIATE ACTIONS (WEEK OF NOV 3 - NOV 9)
+## 📊 CURRENT STRATEGY - $30/DAY SINGLE KEYWORD FOCUS (Nov 10, 2025)
 
-### ✅ COMPLETED (Nov 2)
-- [✅] $25/day budget optimization executed
-- [✅] Paused budget drainer: "christmas wreath australia" (Broad) - 22% of spend, 7% CTR
-- [✅] Lowered hero keyword bids by $0.50: luxury wreath/decor to $4.50, bespoke/handcrafted to $3.00
-- [✅] Campaign budget changed: $35 → $25/day
-- [✅] Only 6 luxury keywords active (quality over quantity)
-- [✅] Audience quality analysis completed (age, device, search terms, landing pages)
-- [✅] Identified critical issue: Mobile LP optimization needed (84% traffic, 0.17% conv rate)
+### Hero Keyword Performance (Proven Converter)
 
-### 🔴 PRIORITY 1: ADD NEGATIVE KEYWORDS (Do Today - 15 min)
+**"stylish christmas wreaths" (Phrase Match)**
+- **Current bid:** $7.00
+- **Monday performance:** 71 imps, 13 clicks, 18.31% CTR, 15.38% conv rate
+- **Cost per conversion:** $25.49
+- **Actual CPA for 1 sale:** $82.32 (includes weekend testing spend)
+- **Revenue per sale:** $185 average
+- **Profit margin:** 55% ($102.68 profit on Monday)
+- **Status:** ✅ KEEP ACTIVE - Only keyword that converts
 
-**Critical waste terms identified from Nov 2 analysis:**
+### Device Performance (Critical)
+- **Mobile:** 100% of conversions (both sessions came from mobile)
+- **Desktop/Tablet:** 0 conversions, waste of budget
+- **Action:** Set mobile bid adjustment to +20%
 
-**Campaign-level negatives (add all at once):** ✅
-```
-lights
-lighting
-led
-solar
-battery
-powered
-ferrero
-lolly
-candy
-chocolate
-sweets
-diy
-make
-making
-homemade
-craft
-crafts
-tutorial
-"big w"
-bigw
-kmart
-target
-spotlight
-bunnings
-etsy
-ebay
-amazon
-marketplace
-"pillow talk"
-### 🗓️ WEEK 1 REVIEW (Nov 9-10)
+### Budget Allocation Strategy
 
-**Compare metrics: Aug 1-Nov 2 vs Nov 3-9 (post-optimization)**
+**At $30/day budget:**
+- "stylish christmas wreaths" gets 100% of budget ($30/day)
+- Expect: 5-6 clicks/day at $7.00 bid
+- Potential: 1 conversion every 7-8 clicks (15% conv rate)
+- Goal: 1 sale every 2-3 days = 10-15 sales before Christmas
+- Revenue target: $1,850-2,775 (10-15 sales × $185 avg)
+- Expected profit: $900-1,425 (after $1,050 total ad spend)
 
-- [ ] **Budget optimization validation:**
-  - Daily spend: $36/day → $20-25/day? ✅
-  - Hero keywords still serving at $4.50 bids?
-  - "christmas wreath australia" pause saved ~$8/day?
-  - Lost IS (budget): 89.78% → 80-85%? (expected to stay high)
+### Keywords to PAUSE (Wasting Budget)
+- "luxury christmas decor" ($4.50) - 4 clicks Monday, $17.97, 0 conversions
+- "handcrafted christmas decorations" ($3.00) - 3 clicks, $9.00, 0 conversions
+- "luxury christmas wreath" ($4.50) - 1 click, $4.37, 0 conversions
+- "luxury christmas wreaths" ($4.50) - 0 clicks Monday
+- "premium christmas decorations" ($4.00) - 0 clicks Monday
+- "bespoke christmas decorations" ($3.00) - 0 clicks Monday
+- "custom christmas decorations" ($3.50) - 0 clicks Monday
+- ALL other enabled keywords with 0 conversions
+
+### Negative Keywords (Already Added)
+✅ placemat, ceiling, plug in, bauble
+✅ kmart, target, "big w", spotlight, etsy, ebay
+✅ lights, led, battery, solar
+✅ diy, homemade, craft, tutorial  
+
+---
+
+## ⚡ IMMEDIATE ACTIONS - $30/DAY IMPLEMENTATION (November 10, 2025)
+
+### ✅ COMPLETED (Nov 10, 2025)
+- [✅] First Google Ads sale achieved - $185 Ribbon & Berries Bliss Christmas Wreath
+- [✅] Identified hero keyword: "stylish christmas wreaths" (15.38% conv rate, $25.49 CPA)
+- [✅] Added negative keywords per recommendation (placemat, ceiling, plug in, bauble, brands)
+- [✅] Analyzed Monday-only performance (114 imps, 21 clicks, $82.32, 1 sale)
+- [✅] Calculated profitability: $102.68 profit on Monday (55% margin)
+- [✅] Decision made: Reduce budget from $84 to $30/day for sustainability
+
+### 🔴 PRIORITY 1: IMPLEMENT $30/DAY BUDGET (Do Today - 5 min)
+
+**In Google Ads Interface:**
+
+1. **Navigate to Campaign Settings:**
+   - Click "Campaigns" in left menu
+   - Click on "B-in-W [Search | Sales]" campaign name
+   - Click "Settings" at top
+
+2. **Change Daily Budget:**
+   - Find "Budget" section
+   - Click pencil/edit icon
+   - Change from $84.00 to **$30.00**
+   - Click "Save"
+
+**Expected result:** Campaign will spend $30/day instead of $84/day, focusing budget on proven winner.
+
+---
+
+### 🔴 PRIORITY 2: PAUSE NON-CONVERTING KEYWORDS (Do Today - 10 min)
+
+**Pause these keywords (they wasted $31.34 on Monday with 0 conversions):**
+
+1. Navigate to: Keywords tab
+2. Search for each keyword below and pause:
+
+**PAUSE LIST:**
+- "luxury christmas decor" ($4.50 bid)
+- "handcrafted christmas decorations" ($3.00 bid)
+- "luxury christmas wreath" ($4.50 bid)
+- "luxury christmas wreaths" ($4.50 bid)
+- "premium christmas decorations" ($4.00 bid)
+- "premium christmas wreath" ($4.00 bid)
+- "bespoke christmas decorations" ($3.00 bid)
+- "custom christmas decorations" ($3.50 bid)
+- "handmade christmas wreaths" ($3.50 bid)
+- "expensive christmas decor" ($4.50 bid)
+- "luxury christmas collection" ($4.00 bid)
+- "christmas door wreaths" ($1.50 bid)
+- "christmas wreath delivery" ($2.50 bid)
+- "luxury christmas door wreath" ($3.50 bid)
+- ALL other enabled keywords except "stylish christmas wreaths"
+
+**KEEP ACTIVE (Only 1):**
+- ✅ "stylish christmas wreaths" ($7.00 bid) - THE WINNER
+
+**How to pause multiple keywords quickly:**
+- Select checkboxes next to keywords
+- Click "Edit" dropdown at top
+- Select "Pause"
+- Confirm
+
+**Expected result:** 100% of $30/day budget goes to proven converter, no waste on non-performers.
+### � PRIORITY 3: SET MOBILE BID ADJUSTMENT +20% (Do Today - 5 min)
+
+**Why:** 100% of conversions came from mobile phones on Monday.
+
+**Steps in Google Ads:**
+
+1. **Navigate to Devices:**
+   - Click "Campaigns" in left menu
+   - Click on "B-in-W [Search | Sales]" campaign
+   - Click "Devices" in left submenu
+
+2. **Set Mobile Bid Adjustment:**
+   - Find "Mobile phones" row
+   - Click the pencil/edit icon in "Bid adj." column
+   - Select "Increase by" from dropdown
+   - Enter **20** (for +20%)
+   - Click "Save"
+
+3. **Verify Desktop/Tablet (Optional):**
+   - Can set Desktop to -20% or -30% to save budget (since 0 conversions)
+   - Can set Tablets to -20% (since 0 conversions)
+   - Or leave neutral and let mobile preference dominate
+
+**Expected result:** Mobile searches get higher bids (20% more), desktop/tablet get less budget, focusing spend on converting device.
+
+---
+
+### 🟡 PRIORITY 4: MONITOR PERFORMANCE (Daily - First Week)
+
+**Every morning (first 7 days):**
+
+- [ ] **Daily spend check:**
+  - Goal: $25-30/day (not exceeding $35)
+  - If over $35: Lower "stylish christmas wreaths" bid by $0.50
   
-- [ ] **CTR and quality improvements:**
-  - CTR maintaining 15-25%? (luxury-only should be higher than 11.08% baseline)
-  - Avg CPC: $2.94 → $2.50-3.00? (lower bids should reduce slightly)
-  - Clicks/day: 12 → 8-10? (fewer but higher quality)
+- [ ] **"stylish christmas wreaths" performance:**
+  - Getting impressions? (expect 60-80/day)
+  - Getting clicks? (expect 5-7/day at 18% CTR)
+  - CTR maintaining 15-20%?
   
-- [ ] **Negative keywords impact:**
-  - Waste terms blocked? (no more "lights", "big w", DIY searches)
-  - Search Terms clean? (only luxury/premium queries)
-  - Savings visible? (~$5-10/day)
+- [ ] **Search Terms review:**
+  - Any waste terms appearing? (misspellings, wrong intent)
+  - Add negatives immediately if needed
+  - Confirm "christmas reef" (misspelling) still converting
   
-- [ ] **Mobile LP optimization progress:**
-  - Implementation started?
-  - Mobile page speed improved?
-  - Trust signals above fold?
-  - Any add_to_cart increase?
-  
-- [ ] **Decision point:**
-  - Mobile LP ready? (if yes, expect 10x conv rate improvement)
-  - Expand hero keywords? (add more luxury variations at $4.50)
-  - Geographic targeting? (if State/City report shows wealthy suburbs)
-  - Hold budget at $25/day or increase to $30-35/day after mobile LP fixed?ockup (mockup/luxury-homepage-mockup.html):**
-
-1. **Price anchoring at top (mobile hero section):**
-   - Show price range immediately: "From $150" or "$150-300 Collection"
-   - Prevents price shock after click
-   
-2. **Trust signals above fold (mobile viewport):**
-   - "Handmade in Australia" badge
-   - "Luxury Artisan Wreaths" positioning
-   - "100% Aesthetic Pleasure Guarantee" badge
-   
-3. **Afterpay logo visible (mobile hero):**
-   - "4 payments of $37.50" messaging
-   - Makes $150 feel like $37.50
-   
-4. **Technical optimizations:**
-   - Compress hero images for mobile (target <200KB)
-   - Lazy load below-fold images
-   - Test mobile page speed (goal: <3s load time)
-   
-5. **Mobile-specific CTAs:**
-   - Larger "Shop Now" buttons (44px min height)
-   - "Tap to WhatsApp" button for luxury service
-   - Sticky add-to-cart on product pages
-
-**Expected impact:** 0.17% → 1.5-2% conv rate = **10x more conversions** with same budget
-
-**Timeline:** Implement within 7 days for maximum Christmas season impact
-
----
-
-### 🟡 PRIORITY 3: PULL MISSING AUDIENCE REPORTS (This Week)
-
-**Need these reports to complete audience quality assessment:**
-
-1. **State/City Location Report:**
-   - Google Ads → Locations (left sidebar)
-   - Change view to "Where people were" (not "Interest")
-   - Export last 90 days
-   - **Goal:** Identify if reaching wealthy suburbs (Sydney Eastern, Melbourne Toorak)
-   
-2. **Household Income Report:**
-   - Google Ads → Audiences → Demographics → "Household Income" tab
-   - Export last 90 days
-   - **Goal:** Confirm Top 10-20% earners (affluent luxury buyers)
-   
-3. **GA4 Landing Page + Conversions:**
-   - GA4 → Reports → Engagement → Landing page
-   - Filter: Session source/medium = google / cpc
-   - Add column: Conversions
-   - **Goal:** Which LP got the 2 conversions? (christmas-wreaths or collection?)
-
-**Actions after reports:**
-- If wealthy suburbs identified: +30% bid adjustments
-- If Top 10% income confirmed: audience validated ✅
-- If specific LP converting: allocate 70% budget there
-
----
-
-### 📋 MONITORING (Daily - 5 min)
-
-**Every morning (check overnight performance):**
-- [ ] Daily spend check (goal: $20-25, not over $30)
-- [ ] Hero keywords still serving? (luxury wreath/decor at $4.50 bids)
-- [ ] Any new waste terms in Search Terms? (add negatives immediately)
-- [ ] GA4: Any new add_to_cart or conversions?
-
-**Every evening (end-of-day check):**
-- [ ] Total clicks for day (expect 8-10)
-- [ ] CTR maintaining 15-25%? (luxury-only should be higher)
-- [ ] Avg CPC trend (expect $2.50-3.00 with lower bids)
-- [ ] Any "Limited by budget" warnings?
+- [ ] **Conversion tracking:**
+  - Any new conversions in Google Ads?
+  - GA4 showing add_to_cart events?
+  - Shopify orders matching Google Ads data?
 
 **Red flags:**
-- 🔴 Spending >$30/day = bids still too high, lower by $0.25
-- 🔴 Hero keywords stopped serving = bids too low, raise by $0.25
-- 🔴 CTR drops below 10% = waste terms creeping in, add negatives
-- 🔴 New waste terms appearing = competitors, DIY, marketplaces
+- 🔴 Daily spend over $40 = Lower bid immediately
+- 🔴 Zero impressions on hero keyword = Budget depleted or bid too low
+- 🔴 CTR drops below 10% = Waste terms or ad fatigue
+- 🔴 3+ days with no conversions = May need to test other keywords
 
 ---
 
-### 📋 WEEKEND (Nov 2-3): Monitor & Adjust
+### � PRIORITY 5: WEEKEND STRATEGY (Nov 16-17)
 
-- [ ] **Check Impression Share Saturday morning**
-  - If hero keywords still <20% IS: raise bids another $0.25
-  - If 20-40% IS: hold and monitor
-  
-- [ ] **Search Terms review 1x/day**
-  - Add negatives as needed
-  
-- [ ] **GA4 engagement check**
-  - Sessions, engagement rate, add_to_cart signals
-  - If 0 ATC after 100+ paid clicks: flag for LP review
+**After running single-keyword strategy for 5-7 days:**
 
----
-
-### 🗓️ WEEK 1 REVIEW (Nov 4-5)
-
-- [ ] **Compare metrics: Oct 29-31 vs Nov 1-3**
-  - Impression Share improvement?
-  - CTR holding above 9%?
-  - Avg CPC increase acceptable? (expect $3-4)
-  - Any conversions/add-to-cart events?
-  
-- [ ] **Keyword performance analysis**
-  - Which luxury terms getting clicks?
-  - Any "Not eligible" terms now serving?
-  - Quality Scores improving?
-  
-- [ ] **Budget pacing check**
-  - Daily spend trend
-  - Lost IS (budget) improving or worsening?
+- [ ] **Performance review (Nov 15-16):**
+  - Total spend for week (goal: $180-210 for 6 days)
+  - "stylish christmas wreaths" CTR still 15-20%?
+  - Conversions achieved (goal: 1-2 sales)
+  - Profitability check (revenue vs spend)
   
 - [ ] **Decision point:**
-  - Scale winners (raise bids further)?
-  - Pause underperformers?
-  - Test new luxury variants?
-  - Increase budget to $40-45/day?
+  - If profitable (1+ sales/week): Continue at $30/day
+  - If breaking even: Hold at $30/day, monitor another week
+  - If losing money (0 sales): Consider pausing or lowering to $20/day
+  - If very profitable (3+ sales/week): Consider increasing to $40/day
+
+- [ ] **Potential optimizations:**
+  - Test adding back "luxury christmas wreath" at $4.50 (singular, had historical conversions)
+  - Test new ad copy variations for "stylish christmas wreaths"
+  - Add "christmas reef" as exact match keyword (misspelling converted)
+  - Consider time-of-day bid adjustments based on Monday performance
+
+---
+
+### 🗓️ CHRISTMAS COUNTDOWN STRATEGY (Nov 17 - Dec 15)
+
+**Timeline:** 28 days remaining after Nov 17
+
+**Scaling scenarios:**
+
+**If hitting 1 sale every 2-3 days ($30/day):**
+- Week 3 (Nov 17-23): Continue $30/day, expect 2-3 sales
+- Week 4 (Nov 24-30): Increase to $40/day, expect 4-5 sales
+- Week 5 (Dec 1-7): Increase to $50/day, expect 5-6 sales
+- Final week (Dec 8-15): Push to $60/day, expect 6-8 sales
+- **Total Christmas sales:** 17-22 sales = $3,145-4,070 revenue
+
+**If barely breaking even ($30/day):**
+- Hold at $30/day entire period
+- Focus on improving conversion rate through LP optimization
+- Expected: 12-15 sales = $2,220-2,775 revenue
+
+**If not profitable:**
+- Reduce to $20/day or pause campaign
+- Focus resources elsewhere (organic social, email marketing)
+
+**Budget caps:**
+- Maximum sustainable: $50/day (only if consistently profitable)
+- Conservative: $30/day (current plan)
+- Survival mode: $20/day or pause
 
 ---
 
@@ -558,22 +541,29 @@ entrance
    - Wrong product category ("christmas tree", "ornaments")
    - Budget/cheap intent ("cheap wreaths", "under $50")
    
-### Key Performance Indicators (Updated Nov 3)
+### Key Performance Indicators (Updated Nov 10, 2025)
 
-| Metric | Aug 1-Nov 2 Actual | Week 1 Goal (Nov 3-9) | After Mobile LP Fix |
-|--------|--------------------|-----------------------|---------------------|
-| **Daily Spend** | $36.29 | **$20-25** ✅ | $25 |
-| **Clicks/day** | 12 (avg) | **8-10** | 10-15 |
-| **CTR** | 11.08% (2.34% overall) | **15-25%** | 20-30% |
-| **Avg CPC** | $2.94 | **$2.50-3.00** | $2.50-3.00 |
-| **Lost IS (budget)** | 89.78% | 80-85% | 80-85% |
-| **Conversions/week** | 0.67 (2 in 3 months) | **1-2** | **5-8** 🚀 |
-| **Conv Rate** | 0.14% (0.17% mobile) | **0.5-1%** | **1.5-2%** 🚀 |
-| **Cost/Conv** | $562.58 | $150-250 | **$75-150** 🚀 |
-| **ROAS** | 27% | 100-200% | **400-600%** 🚀 |
+| Metric | Monday Nov 10 Actual | Week 1 Goal (Nov 10-16) | Month Goal (Nov 10-Dec 15) |
+|--------|----------------------|-------------------------|----------------------------|
+| **Daily Spend** | $82.32 | **$28-32** | **$30** |
+| **Clicks/day** | 21 | **5-7** | **5-7** |
+| **CTR** | 18.42% | **15-20%** | **15-20%** |
+| **Avg CPC** | $3.92 | **$4.00-5.00** | **$4.00-5.00** |
+| **Impressions/day** | 114 | **60-80** | **60-80** |
+| **Conversions/week** | 2 (1 sale) | **2-3 (1-2 sales)** | **8-12 (4-6 sales)** |
+| **Conv Rate** | 9.52% (sessions) | **10-15%** | **10-15%** |
+| **Sales Conv Rate** | 4.76% (actual) | **5-8%** | **5-8%** |
+| **Cost/Sale** | $82.32 | **$60-90** | **$60-90** |
+| **Revenue/Sale** | $185 | **$185** | **$185** |
+| **Profit/Sale** | $102.68 | **$95-125** | **$95-125** |
+| **ROAS** | 225% | **200-300%** | **200-300%** |
 
-**Note:** Mobile LP optimization expected to drive 10x conv rate improvement (0.17% → 1.5-2%)l terms
-5. Export weekly for documentation
+**Key Changes from Previous Strategy:**
+- Single keyword focus ("stylish christmas wreaths" only)
+- Budget reduced from $84 to $30/day (64% reduction)
+- Mobile bid adjustment +20% (100% conversions from mobile)
+- All non-converting keywords paused
+- Expected: 1 sale every 2-3 days = 10-15 sales before Christmas
 
 ---
 
@@ -742,43 +732,50 @@ entrance
 - Add 30-50 negatives in first week
 ## 📝 NOTES & UPDATES
 
-### Recent Updates (Nov 3, 2025)
-- ✅ Completed audience quality analysis (Aug 1-Nov 2 full period)
-- ✅ **Critical breakthrough**: "luxury christmas wreath" 50% conv rate, $10.90 CPA (83x better than average!)
-- ✅ Validated demographics: 45-65+ affluent = 66% clicks, perfect targeting
-- ✅ Identified mobile opportunity: 84% traffic, 100% conversions from mobile, but only 0.17% conv rate
-- ✅ **Mobile LP optimization = #1 priority** (10x conv rate improvement potential)
-- ✅ Waste terms catalogued: lights, DIY, cheap, competitors = need negatives immediately
-- ✅ Geographic blind spot: Need State/City report for wealthy suburb targeting
-- ✅ Desktop underperforming: 111 clicks, $118, 0 conversions = mobile-only buyers
-- ✅ Created minutes/2025-11-02-audience-quality-analysis.md (comprehensive report)
-- ✅ Updated AI-CONTEXT.md with Nov 2 optimizations and Google Ads new UI note
+### Recent Updates (Nov 10, 2025) - BREAKTHROUGH SALE! 🎉
+- ✅ **FIRST GOOGLE ADS SALE ACHIEVED:** $185 Ribbon & Berries Bliss Christmas Wreath
+- ✅ Hero keyword identified: "stylish christmas wreaths" (15.38% conv rate, $25.49 CPA)
+- ✅ Monday Nov 10 performance: 114 imps, 21 clicks, $82.32 spend, 1 sale, $102.68 profit (55% margin)
+- ✅ Device insight: 100% conversions from mobile phones (2 sessions = 1 purchase)
+- ✅ Negative keywords added: placemat, ceiling, plug in, bauble, brand names
+- ✅ Financial decision: Reduce budget from $84 to $30/day for sustainability
+- ✅ Strategy pivot: Single keyword focus, pause all non-converters
+- ✅ Mobile bid adjustment recommended: +20%
+- ✅ All-time report analyzed: 10 total conversions since June 2024
+- ✅ Timeline clarified: Weekend (Nov 9-10) = testing/no sales, Monday Nov 10 = breakthrough sale
+- ✅ Wasted budget identified: $31.34/day on keywords with 0 conversions Monday
+- ✅ Saved reports: 2025-11-10-ALL-TIME-keyword-report.csv, 2025-11-10-MONDAY-ONLY-keyword-report.csv
+- ✅ Updated ACTION-PLAN.md with $30/day implementation strategy
 
-### Recent Updates (Nov 2, 2025)
-- ✅ Executed $25/day budget optimization
-### Current Status (Nov 3)
-**Active Budget:** $25/day (optimized Nov 2)
-**Main Issue:** Mobile landing page optimization (84% traffic, 0.17% conv rate = 10x improvement potential)
-**Strategy:** 6 luxury keywords only, mobile LP optimization priority, add negative keywords, monitor daily
-**Days Remaining:** 43 days until Christmas cutoff (Dec 15)
-**Hero Keyword:** "luxury christmas wreath" = 50% conv rate, $10.90 CPA ✅
+### Current Status (Nov 10, 2025)
+**Active Budget:** $30/day (reducing from $84/day)
+**Hero Keyword:** "stylish christmas wreaths" ($7.00 bid) - ONLY active keyword
+**Main Strategy:** 100% budget focus on proven converter, mobile bid +20%
+**Performance:** 1 sale achieved, $102.68 profit, 55% margin
+**Days Remaining:** 35 days until Christmas cutoff (Dec 15)
+**Expected Sales:** 10-15 sales before Christmas at $30/day budget
+**Expected Revenue:** $1,850-2,775 total
+
+### Implementation Checklist (To Be Completed Today)
+- [ ] Change campaign budget: $84 → $30/day
+- [ ] Pause all keywords except "stylish christmas wreaths"
+- [ ] Set mobile bid adjustment to +20%
+- [ ] Monitor performance daily for first week
+- [ ] Review after 5-7 days for scaling decision
 
 ### Reference Documents
-- **minutes/2025-11-02-audience-quality-analysis.md** - Comprehensive audience analysis (age, device, search terms, landing pages)
-- **minutes/2025-11-02.md** - $25/day optimization plan and execution
-- **minutes/2025-10-31.md** - EOD summary with Oct 29-31 metrics
-- **minutes/2025-11-01.md** - Nov 1 action plan and KPIs
-- **AI-CONTEXT.md** - Quick context for future sessions (updated Nov 2)
-- **mockup/luxury-homepage-mockup.html** - Mobile LP optimization blueprint
-- **mockup/about-section-luxury.html** - "Why Choose Us" luxury positioning
-- **data/keyword-reports/2025-11-02-*.csv** - Performance reports (campaign, ad, keywords, GA4)
-- **TRACKING-VERIFICATION-GUIDE.md** - Conversion tracking checklist
+- **minutes/2025-11-10-FIRST-SALES-breakthrough.md** - First sale documentation
+- **data/keyword-reports/2025-11-10-ALL-TIME-keyword-report.csv** - All-time keyword performance (June 2024 - Nov 10, 2025)
+- **data/keyword-reports/2025-11-10-MONDAY-ONLY-keyword-report.csv** - Monday Nov 10 performance (breakthrough day)
+- **data/keyword-reports/2025-11-09-to-10-*-COMPLETE.csv** - Complete weekend+Monday reports
+- **AI-CONTEXT.md** - Quick context for future sessions
 - **PROJECT-STATUS.md** - High-level timeline and expectations
+
 **Document Created:** October 4, 2025  
-**Last Updated:** November 3, 2025  
-**Next Review:** November 9, 2025 (Week 1 post-optimization check-in)  
-**Version:** 4.0 (Updated with Nov 2 audience quality analysis and mobile LP optimization priority)  
-**Status:** ACTIVE - Primary working documenty confirmed)
+**Last Updated:** November 10, 2025  
+**Next Review:** November 16, 2025 (Week 1 performance review after $30/day implementation)  
+**Version:** 5.0 (Updated with first sale breakthrough and $30/day single-keyword strategy)  
+**Status:** ✅ ACTIVE - First sale achieved, optimizing for profitability
 - 33s avg engagement = visitors are browsing (positive signal)
 
 **7. Time-Based Optimization (Week 2+)**
