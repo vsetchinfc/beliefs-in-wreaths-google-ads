@@ -1,0 +1,8 @@
+Device report
+11 November 2025 - 11 November 2025
+Device,Level,Campaign,Ad group,Bid adj.,Ad group bid adj.,Clicks,Impr.,CTR,Currency code,Avg. CPC,Cost,Conv. rate,Conversions,Cost / conv.
+Computers,Campaign,B-in-W [Search | Sales], --,-70%,None,0,2,0.00%,AUD,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,B-in-W [Search | Sales], --,-70%,None,2,1,200.00%,AUD,4.20,8.40,0.00%,0.00,0.00
+TV screens,Campaign,B-in-W [Search | Sales], --, --,None,0,0, --,AUD,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,B-in-W [Search | Sales], --, +20%,None,3,13,23.08%,AUD,7.51,22.52,0.00%,0.00,0.00
+,,,,Total: Campaign,,5,16,31.25%,AUD,6.18,30.92,0.00%,0.00,0.00

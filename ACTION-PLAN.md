@@ -1,54 +1,72 @@
 ﻿# 🎄 BELIEFS IN WREATHS - GOOGLE ADS ACTION PLAN
-## Christmas Campaign Strategy - $30/DAY FOCUSED OPTIMIZATION
+## Christmas Campaign Strategy - $30/DAY SUSTAINABLE OPTIMIZATION
 
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
 **Campaign:** B-in-W [Search | Sales]  
-**Budget:** $30/day (Reduced from $84/day - Nov 10, 2025)
-**Timeline:** November 10 - December 15, 2025 (35 days remaining)  
-**Focus:** Single hero keyword - "stylish christmas wreaths"
-**Status:** � FIRST SALE ACHIEVED - OPTIMIZING FOR PROFITABILITY
+**Budget:** $30/day (Reduced from $84/day - Nov 12, 2025)
+**Timeline:** November 12 - December 15, 2025 (34 days remaining)  
+**Focus:** 2 proven converter keywords
+**Status:** ✅ 2 SALES ACHIEVED ($470 revenue, ~$250 spend) - SUSTAINABLE PROFITABILITY MODE
 
 ---
 
-## 🎉 BREAKTHROUGH - FIRST GOOGLE ADS SALE (November 10, 2025)
+## 🎉 BREAKTHROUGH - 2 SALES ACHIEVED (November 10-11, 2025)
 
-### Monday Nov 10 Performance - THE WINNER IDENTIFIED
+### Two-Day Performance Summary
 
-**"stylish christmas wreaths" = PROVEN CONVERTER** 🎯
+**Total Results:**
+- **Revenue:** $470 ($185 + $285)
+- **Spend:** ~$248 ($165 + $83)
+- **Profit:** ~$222 (90% ROI)
+- **Conversions:** 2 sales in 2 days
+- **Average Order Value:** $235
 
-| Metric | Performance |
-|--------|-------------|
-| **Impressions** | 71 |
-| **Clicks** | 13 |
-| **CTR** | 18.31% |
-| **Spend** | $50.98 |
-| **Conversions** | 2 (1 actual sale) |
-| **Conversion Rate** | 15.38% |
-| **Cost/Conversion** | $25.49 |
-| **Sale Revenue** | $185 (Ribbon & Berries Bliss Christmas Wreath) |
-| **Profit** | $102.68 (55% margin) ✅ |
+### Sale #1 - Monday Nov 10
+**Keyword:** "stylish christmas wreaths" ($7.00 bid)
+- **Order:** $185 - Ribbon & Berries Bliss Christmas Wreath
+- **Performance:** 71 imps, 13 clicks, $50.98 spent on this keyword
+- **CPA:** $25.49 for the converting keyword
+- **Profit:** $102.68
 
-**Key Insight:** 2 Google Ads conversions = 2 sessions leading to 1 purchase = Profitable at $82.32/day spend!
+### Sale #2 - Tuesday Nov 11  
+**Keyword:** "luxury christmas decor" ($4.50 bid)
+- **Order:** $285 (5 items) placed 7:16 AM
+- **Customer Journey:** Nov 9 ad click → Nov 11 purchase (2-day consideration)
+- **Performance:** 13 imps, 2 clicks, $10.50 spent on this keyword
+- **Total Day Spend:** $82.91
+- **Profit:** $202.09
 
-### Other Keywords Monday (No Conversions)
-- "luxury christmas decor" - 18 imps, 4 clicks, $17.97 (wasted)
-- "handcrafted christmas decorations" - 11 imps, 3 clicks, $9.00 (wasted)
-- "luxury christmas wreath" - 1 imp, 1 click, $4.37 (wasted)
-- **Total waste:** $31.34/day on non-converting keywords
+### Key Learnings
+1. **2 Proven Converters Identified:**
+   - "stylish christmas wreaths" - Monday converter
+   - "luxury christmas decor" - Tuesday converter
+2. **Multi-session journeys common** - 2 days from ad click to purchase
+3. **High waste at $84/day** - 77.5% of Tuesday budget went to wrong searches
+4. **Low search volume** - Only 78 impressions Tuesday despite $83 spend
+5. **Mobile = 100% conversions** - All sales from mobile devices
 
 ### Financial Reality Check
-- **Weekend (Nov 9-10):** No sales, spent budget on testing
-- **Monday Nov 10:** 1 sale, $82.32 spent, $102.68 profit
-- **Conclusion:** Cannot sustain $84/day budget without consistent daily sales
-- **Solution:** Reduce to $30/day, focus 100% on proven winner
+- **Cannot sustain $84/day** - 77.5% waste, limited volume
+- **Single sale days are breakeven** - Need multiple sales to justify $84
+- **$30/day is sustainable** - Focus on 2 proven keywords only
+- **Solution:** Reduce to $30/day, eliminate waste, target 1 sale per 2-3 days
 
 ---
 
-## 📊 CURRENT STRATEGY - $30/DAY SINGLE KEYWORD FOCUS (Nov 10, 2025)
+## 📊 CURRENT STRATEGY - $30/DAY DUAL KEYWORD FOCUS (Nov 12, 2025)
 
-### Hero Keyword Performance (Proven Converter)
+### Active Keywords (2 Proven Converters)
 
-**"stylish christmas wreaths" (Phrase Match)**
+**1. "stylish christmas wreaths" (Phrase Match) - $7.00 bid**
+- Monday Nov 10 converter: $185 sale
+- Performance: 71 imps, 13 clicks, 15.38% conv rate
+- Status: ACTIVE - Primary keyword
+
+**2. "luxury christmas decor" (Phrase Match) - $4.50 bid**
+- Tuesday Nov 11 converter: $285 sale
+- Performance: 13 imps, 2 clicks (after re-enabling)
+- Customer journey: 2-day consideration window
+- Status: ACTIVE - Secondary keyword
 - **Current bid:** $7.00
 - **Monday performance:** 71 imps, 13 clicks, 18.31% CTR, 15.38% conv rate
 - **Cost per conversion:** $25.49
@@ -57,79 +75,103 @@
 - **Profit margin:** 55% ($102.68 profit on Monday)
 - **Status:** ✅ KEEP ACTIVE - Only keyword that converts
 
-### Device Performance (Critical)
-- **Mobile:** 100% of conversions (both sessions came from mobile)
-- **Desktop/Tablet:** 0 conversions, waste of budget
-- **Action:** Set mobile bid adjustment to +20%
+### Device Bid Adjustments (Optimized Nov 11)
+- **Mobile:** +20% (100% of conversions from mobile devices)
+- **Desktop:** -70% (0 conversions, minimize waste)
+- **Tablet:** -70% (0 conversions, $8.40 wasted Tuesday)
+- **Result:** 73%+ of budget now goes to mobile (converting device)
 
-### Budget Allocation Strategy
+### Budget Allocation Strategy ($30/day)
 
-**At $30/day budget:**
-- "stylish christmas wreaths" gets 100% of budget ($30/day)
-- Expect: 5-6 clicks/day at $7.00 bid
-- Potential: 1 conversion every 7-8 clicks (15% conv rate)
-- Goal: 1 sale every 2-3 days = 10-15 sales before Christmas
-- Revenue target: $1,850-2,775 (10-15 sales × $185 avg)
-- Expected profit: $900-1,425 (after $1,050 total ad spend)
+**Split between 2 proven keywords:**
+- "stylish christmas wreaths" ($7.00 bid) - Primary, ~60-70% of budget
+- "luxury christmas decor" ($4.50 bid) - Secondary, ~30-40% of budget
 
-### Keywords to PAUSE (Wasting Budget)
-- "luxury christmas decor" ($4.50) - 4 clicks Monday, $17.97, 0 conversions
-- "handcrafted christmas decorations" ($3.00) - 3 clicks, $9.00, 0 conversions
-- "luxury christmas wreath" ($4.50) - 1 click, $4.37, 0 conversions
-- "luxury christmas wreaths" ($4.50) - 0 clicks Monday
-- "premium christmas decorations" ($4.00) - 0 clicks Monday
-- "bespoke christmas decorations" ($3.00) - 0 clicks Monday
-- "custom christmas decorations" ($3.50) - 0 clicks Monday
-- ALL other enabled keywords with 0 conversions
+**Expected Daily Performance:**
+- 25-35 impressions/day (limited volume)
+- 5-7 clicks/day
+- $30 daily spend (consistent)
+- 1 sale every 2-3 days target
 
-### Negative Keywords (Already Added)
-✅ placemat, ceiling, plug in, bauble
-✅ kmart, target, "big w", spotlight, etsy, ebay
-✅ lights, led, battery, solar
-✅ diy, homemade, craft, tutorial  
+**34-Day Projection (Nov 12 - Dec 15):**
+- Total budget: $1,020 (34 days × $30)
+- Target sales: 10-12 conversions
+- Expected revenue: $2,000-2,400 (10-12 × $200 avg)
+- Projected profit: $1,000-1,400 after ad spend
+- Required: 1 sale every 2.8-3.4 days to hit goal
+
+### Paused Keywords (Low Volume/Not Converting)
+- ❌ "luxury christmas wreath" (singular) - $4.50 - 0 impressions Tuesday, PAUSED
+- ❌ "luxury christmas wreaths" (plural) - $4.50 - 0 impressions Tuesday, PAUSED
+- ❌ All other previously tested keywords with 0 conversions
+
+**Reasoning:** Focus budget on 2 proven converters only. Eliminate keywords with insufficient search volume or poor performance.
+
+### Negative Keywords Added (Nov 10-11)
+
+**Initial List (39 keywords):**
+✅ Brands: morgan, finch, "morgan and finch", "royal albert", "robert gordon", aldi, habitania, "jolly and joy", "the inge glas", "royal doulton", wedgwood, wohlers, martha, "martha stewart"
+✅ Wrong products: bauble, baubles, light, lights, lit, illuminated, lantern, lanterns
+✅ Wrong style: nightmare, gothic, paper, coastal
+✅ Wrong audience: dachshund, pet, dog, cat
+✅ Wrong size/location: native, natives, mini, small, giant, 60cm, outdoor, outdoors, uk, traditional, "lands end", blue
+
+**Additional Exact Match Negatives (Nov 11 Evening - Block Waste):**
+✅ [christmas door wreath], [door wreath], [christmas reef], [christmas reefs]
+✅ [xmas wreath], [xmas wreaths]
+✅ [white christmas wreath], [pink christmas wreath], [grinch wreath]
+✅ [christmas wreath for fireplace], [bradford exchange christmas]
+
+**Why Exact Match:** Prevents blocking our own phrase match keywords while stopping specific waste searches.  
 
 ---
 
-## ⚡ IMMEDIATE ACTIONS - $30/DAY IMPLEMENTATION (November 10, 2025)
+## ⚡ IMPLEMENTATION STATUS
 
-### ✅ COMPLETED (Nov 10, 2025)
+### ✅ COMPLETED (Nov 10-11, 2025)
+
+**Nov 10:**
 - [✅] First Google Ads sale achieved - $185 Ribbon & Berries Bliss Christmas Wreath
-- [✅] Identified hero keyword: "stylish christmas wreaths" (15.38% conv rate, $25.49 CPA)
-- [✅] Added negative keywords per recommendation (placemat, ceiling, plug in, bauble, brands)
+- [✅] Identified converter #1: "stylish christmas wreaths" (15.38% conv rate, $25.49 CPA)
+- [✅] Added initial negative keywords (39 total - brands, wrong products, wrong styles)
 - [✅] Analyzed Monday-only performance (114 imps, 21 clicks, $82.32, 1 sale)
-- [✅] Calculated profitability: $102.68 profit on Monday (55% margin)
-- [✅] Decision made: Reduce budget from $84 to $30/day for sustainability
 
-### 🔴 PRIORITY 1: IMPLEMENT $30/DAY BUDGET (Do Today - 5 min)
+**Nov 11:**
+- [✅] Second sale achieved - $285 (5 items) placed 7:16 AM
+- [✅] Identified converter #2: "luxury christmas decor" (2-day customer journey)
+- [✅] Re-enabled "luxury christmas decor" keyword after discovering it drove $285 sale
+- [✅] Updated device bid adjustments: Mobile +20%, Desktop/Tablet -70%
+- [✅] Added exact match negative keywords (11 total - waste terms like [christmas door wreath], [xmas wreath])
+- [✅] Paused "luxury christmas wreath" (singular) - 0 impressions
+- [✅] Paused "luxury christmas wreaths" (plural) - 0 impressions
+- [✅] Analyzed EOD performance: $82.91 spent, 77.5% waste, 1 sale
+- [✅] Decision: Reduce to $30/day starting Nov 12
 
-**In Google Ads Interface:**
+### 🔴 ACTIONS FOR TOMORROW (Nov 12, 2025)
 
-1. **Navigate to Campaign Settings:**
-   - Click "Campaigns" in left menu
-   - Click on "B-in-W [Search | Sales]" campaign name
-   - Click "Settings" at top
+**Before Campaign Starts (9 AM):**
 
-2. **Change Daily Budget:**
-   - Find "Budget" section
-   - Click pencil/edit icon
-   - Change from $84.00 to **$30.00**
-   - Click "Save"
+1. **Reduce daily budget to $30.00** ⏰
+   - Settings → Budget → Change $84 to $30
+   - Verify save successful
 
-**Expected result:** Campaign will spend $30/day instead of $84/day, focusing budget on proven winner.
+2. **Verify keyword setup** ⏰
+   - Active: "stylish christmas wreaths" ($7.00), "luxury christmas decor" ($4.50)
+   - Paused: "luxury christmas wreath", "luxury christmas wreaths", all others
 
----
+3. **Confirm negative keywords active** ⏰
+   - 50 total negative keywords applied
+   - Exact match negatives blocking waste terms
 
-### 🔴 PRIORITY 2: PAUSE NON-CONVERTING KEYWORDS (Do Today - 10 min)
+4. **Check device bid adjustments** ⏰
+   - Mobile: +20%
+   - Desktop: -70%
+   - Tablet: -70%
 
-**Pause these keywords (they wasted $31.34 on Monday with 0 conversions):**
-
-1. Navigate to: Keywords tab
-2. Search for each keyword below and pause:
-
-**PAUSE LIST:**
-- "luxury christmas decor" ($4.50 bid)
-- "handcrafted christmas decorations" ($3.00 bid)
-- "luxury christmas wreath" ($4.50 bid)
+**Monitoring Schedule:**
+- 9-10 AM: Morning check (ads serving, early performance)
+- 12-1 PM: Mid-day review (waste clicks, budget pacing)
+- 6-8 PM: Evening review (conversions, full day assessment)
 - "luxury christmas wreaths" ($4.50 bid)
 - "premium christmas decorations" ($4.00 bid)
 - "premium christmas wreath" ($4.00 bid)
