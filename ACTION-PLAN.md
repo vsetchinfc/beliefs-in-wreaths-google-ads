@@ -62,11 +62,12 @@
 - Performance: 71 imps, 13 clicks, 15.38% conv rate
 - Status: ACTIVE - Primary keyword
 
-**2. "luxury christmas decor" (Phrase Match) - $4.50 bid**
+**2. "luxury christmas decor" (Phrase Match) - $6.00 bid**
 - Tuesday Nov 11 converter: $285 sale
 - Performance: 13 imps, 2 clicks (after re-enabling)
 - Customer journey: 2-day consideration window
 - Status: ACTIVE - Secondary keyword
+- **Bid raised:** $4.50 → $6.00 (Nov 12 evening - to increase impression share)
 - **Current bid:** $7.00
 - **Monday performance:** 71 imps, 13 clicks, 18.31% CTR, 15.38% conv rate
 - **Cost per conversion:** $25.49
@@ -128,7 +129,7 @@
 
 ## ⚡ IMPLEMENTATION STATUS
 
-### ✅ COMPLETED (Nov 10-11, 2025)
+### ✅ COMPLETED (Nov 10-12, 2025)
 
 **Nov 10:**
 - [✅] First Google Ads sale achieved - $185 Ribbon & Berries Bliss Christmas Wreath
@@ -147,31 +148,43 @@
 - [✅] Analyzed EOD performance: $82.91 spent, 77.5% waste, 1 sale
 - [✅] Decision: Reduce to $30/day starting Nov 12
 
-### 🔴 ACTIONS FOR TOMORROW (Nov 12, 2025)
+**Nov 12:**
+- [✅] Budget reduced to $30/day implemented
+- [✅] First day at reduced budget: $16.55 spent, 4 imps, 2 clicks, 0% waste
+- [✅] High-quality search terms only: "unique christmas wreaths", "provincial christmas wreath"
+- [✅] Device targeting working: 100% mobile spend
+- [✅] Verified location targeting settings (Australia-only confirmed)
+- [✅] Raised "luxury christmas decor" bid: $4.50 → $6.00 (increase impression share)
+- [✅] Created minute file: 2025-11-12-wednesday-budget-reduction-day.md
 
-**Before Campaign Starts (9 AM):**
+### 🔴 ACTIONS FOR TOMORROW (Nov 13, 2025)
 
-1. **Reduce daily budget to $30.00** ⏰
-   - Settings → Budget → Change $84 to $30
-   - Verify save successful
+**Morning Check (9-10 AM):**
 
-2. **Verify keyword setup** ⏰
-   - Active: "stylish christmas wreaths" ($7.00), "luxury christmas decor" ($4.50)
-   - Paused: "luxury christmas wreath", "luxury christmas wreaths", all others
+1. **Monitor "luxury christmas decor" after bid increase** ⏰
+   - Check if getting impressions now (was 0 on Nov 12)
+   - Bid raised to $6.00 last night
+   - Goal: At least 2-4 impressions/day
 
-3. **Confirm negative keywords active** ⏰
-   - 50 total negative keywords applied
-   - Exact match negatives blocking waste terms
+2. **Verify both keywords serving** ⏰
+   - "stylish christmas wreaths" ($7.00) - was getting 4 imps/day
+   - "luxury christmas decor" ($6.00) - should now get impressions
+   - Check Search Terms for quality
 
-4. **Check device bid adjustments** ⏰
-   - Mobile: +20%
-   - Desktop: -70%
-   - Tablet: -70%
+3. **Budget pacing check** ⏰
+   - $30/day budget
+   - Monitor if fully spending or limited by low volume
+   - Yesterday: only $16.55 spent (55%)
 
-**Monitoring Schedule:**
-- 9-10 AM: Morning check (ads serving, early performance)
-- 12-1 PM: Mid-day review (waste clicks, budget pacing)
-- 6-8 PM: Evening review (conversions, full day assessment)
+**Mid-Day Review (12-1 PM):**
+- Search Terms review (add negatives if waste appears)
+- Impressions trending up after bid increase?
+- Clicks quality check
+
+**Evening Review (6-8 PM):**
+- Full day spend vs budget
+- Attribution check (any conversions appearing in GA4?)
+- Document performance for 3-day trend analysis
 - "luxury christmas wreaths" ($4.50 bid)
 - "premium christmas decorations" ($4.00 bid)
 - "premium christmas wreath" ($4.00 bid)
