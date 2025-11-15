@@ -4,9 +4,9 @@
 **Client:** Beliefs in Wreaths (beliefsinwreaths.com.au)  
 **Campaign:** B-in-W [Search | Sales]  
 **Budget:** $30/day (Reduced from $84/day - Nov 12, 2025)
-**Timeline:** November 12 - December 15, 2025 (34 days remaining)  
+**Timeline:** November 12 - December 15, 2025 (32 days remaining)  
 **Focus:** 2 proven converter keywords
-**Status:** ✅ 2 SALES ACHIEVED ($470 revenue, ~$250 spend) - SUSTAINABLE PROFITABILITY MODE
+**Status:** ✅ 2 SALES ACHIEVED ($470 revenue, ~$280 spend) - OPTIMIZING FOR DUAL-KEYWORD STRATEGY
 
 ---
 
@@ -60,14 +60,15 @@
 **1. "stylish christmas wreaths" (Phrase Match) - $7.00 bid**
 - Monday Nov 10 converter: $185 sale
 - Performance: 71 imps, 13 clicks, 15.38% conv rate
-- Status: ACTIVE - Primary keyword
+- Status: ✅ ACTIVE - Primary keyword (serving consistently)
 
-**2. "luxury christmas decor" (Phrase Match) - $6.00 bid**
-- Tuesday Nov 11 converter: $285 sale
-- Performance: 13 imps, 2 clicks (after re-enabling)
-- Customer journey: 2-day consideration window
-- Status: ACTIVE - Secondary keyword
-- **Bid raised:** $4.50 → $6.00 (Nov 12 evening - to increase impression share)
+**2. "luxury christmas wreaths" (plural) (Phrase Match) - $7.50 bid** 🆕
+- **CRITICAL CHANGE (Nov 14):** Swapped from "luxury christmas decor"
+- Reason: Ad/keyword mismatch was preventing impressions
+- All ads say "wreaths" but old keyword said "decor" = Quality Score issue
+- Status: ✅ ACTIVE - Just enabled (Nov 14 evening)
+- Expected: Start serving within 2-4 hours
+- Should restore dual-keyword strategy and recover 20-30 impressions/day
 - **Current bid:** $7.00
 - **Monday performance:** 71 imps, 13 clicks, 18.31% CTR, 15.38% conv rate
 - **Cost per conversion:** $25.49
@@ -85,28 +86,42 @@
 ### Budget Allocation Strategy ($30/day)
 
 **Split between 2 proven keywords:**
-- "stylish christmas wreaths" ($7.00 bid) - Primary, ~60-70% of budget
-- "luxury christmas decor" ($4.50 bid) - Secondary, ~30-40% of budget
+- "stylish christmas wreaths" ($7.00 bid) - Primary, currently 100% of budget (only one serving)
+- "luxury christmas decor" ($7.50 bid) - Secondary, expected 40-50% after bid increase
+
+**Current Reality (Nov 12-13):**
+- Only "stylish" serving ("luxury decor" got 0 impressions despite $6.00 bid)
+- Bid raised to $7.50 on Nov 13 evening to activate dual-keyword strategy
 
 **Expected Daily Performance:**
-- 25-35 impressions/day (limited volume)
-- 5-7 clicks/day
+- 40-50 impressions/day (achieved Nov 13: 44 imps)
+- 6-8 clicks/day (achieved Nov 13: 6 clicks)
 - $30 daily spend (consistent)
 - 1 sale every 2-3 days target
+- Waste target: <10% (Nov 13: 45% waste due to insufficient negatives)
 
-**34-Day Projection (Nov 12 - Dec 15):**
-- Total budget: $1,020 (34 days × $30)
-- Target sales: 10-12 conversions
-- Expected revenue: $2,000-2,400 (10-12 × $200 avg)
-- Projected profit: $1,000-1,400 after ad spend
+**32-Day Projection (Nov 14 - Dec 15):**
+- Total budget: $960 (32 days × $30)
+- Spent so far: $65 (Nov 12-13)
+- Target sales remaining: 8-10 conversions (need 1 per 3-4 days)
+- Expected revenue: $1,600-2,000 (8-10 × $200 avg)
+- Projected profit: $900-1,300 after ad spend
 - Required: 1 sale every 2.8-3.4 days to hit goal
 
 ### Paused Keywords (Low Volume/Not Converting)
-- ❌ "luxury christmas wreath" (singular) - $4.50 - 0 impressions Tuesday, PAUSED
-- ❌ "luxury christmas wreaths" (plural) - $4.50 - 0 impressions Tuesday, PAUSED
+
+**Recently Paused (Nov 14):**
+- ❌ **"luxury christmas decor"** - $7.50 bid - PAUSED (Nov 14) 🔴
+  - **Reason:** Ad/keyword relevance mismatch (Quality Score issue)
+  - **History:** 0 impressions for 4 consecutive days (Nov 11-14) despite bid increases ($4.50 → $6.00 → $7.50)
+  - **Root cause:** Keyword says "decor" (broad) but all ads say "wreaths" (specific) = Google won't show ad
+  - **Replaced by:** "luxury christmas wreaths" (plural) - perfect ad match
+
+**Previously Paused:**
+- ❌ "luxury christmas wreath" (singular) - $4.50 - Low search volume
 - ❌ All other previously tested keywords with 0 conversions
 
-**Reasoning:** Focus budget on 2 proven converters only. Eliminate keywords with insufficient search volume or poor performance.
+**Reasoning:** Focus budget on 2 proven converters only. Eliminate keywords with insufficient search volume, poor performance, or Quality Score issues.
 
 ### Negative Keywords Added (Nov 10-11)
 
@@ -122,6 +137,23 @@
 ✅ [xmas wreath], [xmas wreaths]
 ✅ [white christmas wreath], [pink christmas wreath], [grinch wreath]
 ✅ [christmas wreath for fireplace], [bradford exchange christmas]
+
+**Brand & Waste Negatives (Nov 13 Evening - After 45% Waste Day):**
+✅ tk maxx, "tk maxx" (discount retailer competitor)
+✅ zara (fast fashion brand)
+✅ "laura ashley" (mid-market brand)
+✅ tablecloth, tablecloths (wrong product)
+✅ kitsch (wrong style - opposite of luxury)
+✅ perth (geographic - not wealthy target area)
+✅ big, large, "very large" (size-focused not quality-focused)
+
+**New Negatives to Add (Nov 15 Morning):**
+✅ burlap (rustic/budget style)
+✅ "beach themed" (coastal style)
+✅ nativity (religious theme, wrong product)
+✅ "34th and pine" (luxury brand competitor)
+
+**Total Negative Keywords:** 888 (877 original + 11 added Nov 13) + 4 pending = **892 total**
 
 **Why Exact Match:** Prevents blocking our own phrase match keywords while stopping specific waste searches.  
 
@@ -150,41 +182,79 @@
 
 **Nov 12:**
 - [✅] Budget reduced to $30/day implemented
-- [✅] First day at reduced budget: $16.55 spent, 4 imps, 2 clicks, 0% waste
+- [✅] First day at reduced budget: $34.19 spent (EOD), 16 imps, 5 clicks, 0% waste
 - [✅] High-quality search terms only: "unique christmas wreaths", "provincial christmas wreath"
 - [✅] Device targeting working: 100% mobile spend
 - [✅] Verified location targeting settings (Australia-only confirmed)
 - [✅] Raised "luxury christmas decor" bid: $4.50 → $6.00 (increase impression share)
 - [✅] Created minute file: 2025-11-12-wednesday-budget-reduction-day.md
+- [✅] GA4 attribution working: 100% engagement rate, 5 key events from Paid Search
 
-### 🔴 ACTIONS FOR TOMORROW (Nov 13, 2025)
+**Nov 13:**
+- [✅] Volume increased: 44 impressions, 6 clicks, $30.86 spent (103% of budget)
+- [⚠️] Waste returned: ~45% due to brand searches (tk maxx, zara, laura ashley) and wrong products
+- [⚠️] "Luxury christmas decor" still 0 impressions (3rd day at $6.00 bid - bid insufficient)
+- [✅] Some excellent searches: "designer xmas wreaths", "split wreath for double doors"
+- [⚠️] GA4 Paid Search engagement dropped to 0% (traffic quality declined with waste)
+- [✅] Added 11 negative keywords: tk maxx, zara, laura ashley, tablecloth, kitsch, perth, big, large
+- [✅] Raised "luxury christmas decor" bid: $6.00 → $7.50 (finally competitive)
+- [✅] Created minute file: 2025-11-13-thursday-volume-increase.md
 
-**Morning Check (9-10 AM):**
+**Nov 14:**
+- [🔴] Volume COLLAPSED 70%: 13 impressions (down from 44), 3 clicks, $25.61 spent (85% of budget)
+- [🔴] "Luxury christmas decor" STILL 0 impressions (4th consecutive day despite $7.50 bid)
+- [✅] ROOT CAUSE IDENTIFIED: Ad/keyword relevance mismatch (ads say "wreaths", keyword says "decor")
+- [✅] Reviewed 4 ad preview links - confirmed all ads focus on "wreaths" with only 1 "decor" mention
+- [✅] SOLUTION IMPLEMENTED: Swapped "luxury christmas decor" → "luxury christmas wreaths" (plural)
+- [✅] New keyword perfect match with wreath-focused ad copy, set at $7.50 bid
+- [✅] GA4 engagement recovered: 0% → 67% (Nov 13 negatives working)
+- [✅] Identified 4 new waste terms: burlap, beach themed, nativity, "34th and pine"
+- [✅] CPC increased to $8.54 (up 66%) due to single keyword dependency
+- [✅] Created minute file: 2025-11-14-friday-keyword-swap-breakthrough.md
 
-1. **Monitor "luxury christmas decor" after bid increase** ⏰
-   - Check if getting impressions now (was 0 on Nov 12)
-   - Bid raised to $6.00 last night
-   - Goal: At least 2-4 impressions/day
+### 🔴 ACTIONS FOR TOMORROW (Nov 15 Saturday) - KEYWORD SWAP VERIFICATION
 
-2. **Verify both keywords serving** ⏰
-   - "stylish christmas wreaths" ($7.00) - was getting 4 imps/day
-   - "luxury christmas decor" ($6.00) - should now get impressions
-   - Check Search Terms for quality
+**Critical Morning Check (9-10 AM):** ⏰ HIGHEST PRIORITY
 
-3. **Budget pacing check** ⏰
-   - $30/day budget
-   - Monitor if fully spending or limited by low volume
-   - Yesterday: only $16.55 spent (55%)
+1. **"Luxury Christmas Wreaths" Serving Verification** 🚨 CRITICAL
+   - Check Keywords tab: Did "luxury christmas wreaths" (plural) get impressions overnight?
+   - Expected: 10-20 impressions if Quality Score is good
+   - **If YES:** Success! Dual-keyword strategy restored, volume should recover
+   - **If NO:** Quality Score issue deeper than expected, may need to accept single keyword reality
+   - This determines campaign viability for next 31 days
 
-**Mid-Day Review (12-1 PM):**
-- Search Terms review (add negatives if waste appears)
-- Impressions trending up after bid increase?
-- Clicks quality check
+2. **Add 4 New Negative Keywords** ⏰
+   - burlap (rustic/budget style)
+   - "beach themed" (coastal style)
+   - nativity (religious theme)
+   - "34th and pine" (luxury brand competitor)
+
+3. **Search Terms Review** ⏰
+   - Any new waste appearing?
+   - Are both keywords serving clean searches?
+   - Verify Nov 13 negatives still working (no tk maxx, zara, laura ashley, etc.)
+
+4. **Volume Recovery Check** ⏰
+   - Total impressions target: 40-60 (vs 13 yesterday)
+   - Both keywords contributing?
+   - CPC should drop from $8.54 toward $5-7 range
 
 **Evening Review (6-8 PM):**
-- Full day spend vs budget
-- Attribution check (any conversions appearing in GA4?)
-- Document performance for 3-day trend analysis
+
+1. **Keyword Swap Success Assessment:**
+   - Did "luxury christmas wreaths" serve? How many impressions?
+   - Is dual-keyword strategy working or still single-keyword dependent?
+   - Impression share improved from <10%?
+
+2. **Performance Metrics:**
+   - Full day spend vs $30 budget (yesterday: $25.61 = 85%)
+   - CPC stability (target: $5-7 vs $8.54 yesterday)
+   - Any conversions or key events in GA4?
+
+3. **Document Results:**
+   - Create 2025-11-15-saturday-recovery-check.md
+   - Update ACTION-PLAN.md with keyword swap results
+   - Determine if contingency plan needed (if swap failed)
 - "luxury christmas wreaths" ($4.50 bid)
 - "premium christmas decorations" ($4.00 bid)
 - "premium christmas wreath" ($4.00 bid)
@@ -827,10 +897,10 @@ entrance
 - **PROJECT-STATUS.md** - High-level timeline and expectations
 
 **Document Created:** October 4, 2025  
-**Last Updated:** November 10, 2025  
-**Next Review:** November 16, 2025 (Week 1 performance review after $30/day implementation)  
-**Version:** 5.0 (Updated with first sale breakthrough and $30/day single-keyword strategy)  
-**Status:** ✅ ACTIVE - First sale achieved, optimizing for profitability
+**Last Updated:** November 14, 2025  
+**Next Review:** November 15, 2025 (Keyword swap verification - CRITICAL)  
+**Version:** 6.0 (Updated with keyword swap: "luxury christmas decor" → "luxury christmas wreaths")  
+**Status:** ⏳ WAITING - Keyword swap verification needed tomorrow morning
 - 33s avg engagement = visitors are browsing (positive signal)
 
 **7. Time-Based Optimization (Week 2+)**
