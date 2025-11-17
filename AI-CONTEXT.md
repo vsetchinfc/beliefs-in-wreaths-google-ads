@@ -1,17 +1,18 @@
 # Rapid context for future sessions — Beliefs in Wreaths (Google Ads)
 
-Last updated: 2025-11-03
+Last updated: 2025-11-15
 Owner: vsetchinfc
-Scope: Christmas Search campaign (AU) — 43 days remaining (Nov 3–Dec 15, 2025)
+Scope: Christmas Search campaign (AU) — 30 days remaining (Nov 15–Dec 15, 2025)
 
 ## TL;DR
-- Running **$25/day** budget (optimized Nov 2). Hero keywords performing exceptionally: "luxury christmas wreath" (29.41% CTR), "luxury christmas decor" (25.53% CTR).
-- **🚨 CRITICAL DISCOVERY (Nov 3)**: Campaign was blocking "artificial/fake/faux" searches—but that's THE PRODUCT! Sells **artificial flowers & greenery**, NOT dried/fresh.
-- **Action required**: Remove 14 negative keywords blocking artificial product searches (list: `data/keyword-reports/NEGATIVE-KEYWORDS-TO-REMOVE.csv`).
-- Active keywords: 6 luxury terms only (luxury wreath/wreaths/decor, bespoke/handcrafted decorations, premium decorations).
-- Negative keywords: 1,119 total, but 14 blocking own product category (fake, artificial flowers, faux plants, etc.).
-- Budget throttled (>90% Lost IS budget) but CTR exceptional (11.67%). Missing volume due to blocked artificial searches.
-- Import files ready: wreaths, centrepieces, collection page CSVs in `data/`. Reports archived in `data/keyword-reports/`.
+- Running **$30/day** budget. **SINGLE KEYWORD STRATEGY CONFIRMED**: Only "stylish christmas wreaths" ($7.00) serving. All other keywords paused.
+- **🚨 WEEKEND TEST FAILED (Nov 16-17)**: Added 5 new keywords Friday - all got 0 impressions over entire weekend. Paused Nov 17.
+- **🚨 GOOGLE AUTO-APPLY CRISIS (Nov 15)**: Google re-enabled 10+ auto-apply bidding settings without notification. All disabled, monthly check reminder added.
+- Active keywords: **1 ONLY** ("stylish christmas wreaths"). All alternatives failed (luxury, bespoke, handmade, designer, premium).
+- Negative keywords: 899 total (added 7 more Nov 17), achieving **0% waste** (perfect traffic quality).
+- Volume: 25-28 impressions/day with single keyword. <10% impression share (losing 90%+ of auctions).
+- **Campaign status:** 2 sales ($470 revenue), $414.60 spend, +13% ROI. **7 days without conversion** (Nov 12-17) 🔴.
+- **28 days remaining:** Need 1 sale every 4-5 days to hit targets. Currently BEHIND pace.
 
 ## Important: Google Ads UI Version
 **Using NEW Google Ads UI (2024-2025 interface)**
@@ -20,6 +21,37 @@ Scope: Christmas Search campaign (AU) — 43 days remaining (Nov 3–Dec 15, 202
 - Search terms: Campaigns → Insights and reports → Search terms
 - Locations: Campaigns → Locations (left sidebar)
 - For future sessions: Use updated navigation paths for new UI
+
+## 🚨 MONTHLY REMINDER: Check Auto-Apply Settings
+**⏰ CHECK ON THE 1ST OF EACH MONTH**
+
+Google periodically re-enables auto-apply recommendations without warning. These can automatically change your bidding strategy from Manual CPC to automated bidding.
+
+**How to check:**
+1. Go to **Recommendations** (left sidebar)
+2. Look for **gear icon ⚙️** or **"Auto-apply"** button (top-right of page)
+3. Click to open auto-apply settings
+
+**CRITICAL - Keep these DISABLED:**
+- ❌ All 10+ options under **"Bidding"** section:
+  - Bid more efficiently with Target impression share
+  - Bid more efficiently with Maximise clicks
+  - Bid more efficiently with Maximise conversions
+  - Bid more efficiently with Maximise conversion value
+  - Set a target CPA/ROAS
+  - Adjust CPA/ROAS targets
+  - etc.
+- ❌ Add broad match keywords (under Keywords & targeting)
+- ❌ Add store visits as account default goal (you're online-only)
+
+**Safe to keep ENABLED:**
+- ✅ Remove redundant keywords
+- ✅ Remove non-serving keywords  
+- ✅ Remove conflicting negative keywords
+
+**Why this matters:** With only 2-3 conversions, automated bidding will waste your budget. Manual CPC gives you control with limited data.
+
+**Last checked:** November 15, 2025 - All bidding auto-apply settings were enabled and have been disabled.
 
 ## Important: Product Details
 **What Beliefs in Wreaths Sells:**
@@ -35,6 +67,43 @@ Scope: Christmas Search campaign (AU) — 43 days remaining (Nov 3–Dec 15, 202
 - "Dried" = WRONG product (correctly blocked as negative) ✅
 - "Fresh" = WRONG product (correctly blocked as negative) ✅
 
+## Landing Page & Site Status (Verified Nov 15, 2025)
+
+**✅ ALREADY IMPLEMENTED (Working Well):**
+- Afterpay messaging on product pages ("Pay with 4 interest-free payments")
+- Christmas urgency in announcement bar ("ORDER BY DEC 15 FOR CHRISTMAS")
+- Free shipping messaging prominent ("FREE DELIVERY OVER $140")
+- Free shipping confirmation in cart ("You've earned FREE SHIPPING!")
+- Payment provider logos visible (Afterpay, PayPal in header)
+- Multiple checkout options (Shop Pay, PayPal, Google Pay)
+- Testimonial bar with rotating 5-star reviews
+- Premium positioning ("Bespoke Designer", "Premium Artificial", "Limited Edition")
+- Value propositions ("No wilting, no maintenance", "Enjoy for years to come")
+- Scarcity messaging ("1-2 pieces only", "Once sold, gone forever")
+- Australian studio messaging in descriptions
+
+**🟡 COULD BE ENHANCED (Minor Gaps):**
+- Live stock level indicators not shown (messaging exists but no "Only 2 left!" badges)
+- "Australian Made" could be more prominent (in announcement bar rotation)
+- Customer photos/Instagram feed not visible on landing pages
+- Trust badges (ships 24hrs, returns, guarantee) not above Add to Cart button
+
+**❌ NOT APPLICABLE (Business Model Reasons):**
+- Product star ratings per item: NOT SUITABLE - products are limited edition (1-3 pieces only), not mass-produced. Testimonials work better for bespoke/exclusive positioning.
+- Price value calculator ("$240 ÷ 10 years = $24/Christmas"): Previously tested, business manager rejected - doesn't align with luxury/exclusive brand positioning.
+
+**📊 Conversion Rate Reality:**
+- Current CR: ~1.67% (2 sales from ~120 clicks Nov 10-15)
+- **This is NORMAL for $180-240 premium products**
+- Industry standard for luxury/premium: 1-2% is typical
+- Site quality is NOT the blocker - traffic volume is the issue
+
+**🎯 Real Issue: Traffic Volume, Not Site Quality**
+- Site converts at expected rate for price point
+- Problem: Only 3-6 visitors/day from Google Ads (18 impressions)
+- Need 100-150 visitors/day to generate consistent sales at 1-2% CR
+- Focus should be on traffic generation, not site optimization
+
 ## Project identifiers
 - Site: https://beliefsinwreaths.com.au/
 - Primary landing: https://beliefsinwreaths.com.au/collections/christmas-wreaths
@@ -48,31 +117,148 @@ Scope: Christmas Search campaign (AU) — 43 days remaining (Nov 3–Dec 15, 202
 - 3-month reality: 1,382 clicks, 2 conversions, 0.14% CVR, $508 CPA — failing overall.
 - Breakthrough: "luxury christmas wreath" (Phrase) — 6 clicks, 2 conv (33.33% CVR), $6.14 CPA.
 
-**Current (Oct 31 - Nov 3, 2025 / 4 days):**
-- Hero keywords performing exceptionally:
-  - "luxury christmas wreath" (Phrase, $4.50): 17 imps, 5 clicks, **29.41% CTR**, $23.77 cost
-  - "luxury christmas decor" (Phrase, $4.50): 47 imps, 12 clicks, **25.53% CTR**, $52.24 cost
-  - "luxury christmas wreaths" (Phrase, $4.50): 1 imp, 1 click, 100% CTR, $4.25 cost
-  - "luxury christmas door wreath" (Phrase, $3.50): 1 imp, 1 click, 100% CTR, $3.46 cost
-  - "handmade christmas wreaths" (Phrase, $3.50): 16 imps, 3 clicks, 18.75% CTR, $9.98 cost
-  - "bespoke christmas decorations" (Phrase, $3.00): 13 imps, 2 clicks, 15.38% CTR, $6.49 cost
-- Overall metrics (4 days): 377 imps, 44 clicks, **11.67% CTR**, $137.22 cost ($34.31/day avg), Avg CPC $3.12
-- Lost IS (budget): **>90%** (worse than Nov 2 — budget cap + blocked artificial searches)
-- **Budget still over**: Spending $34/day vs $25/day target (need $9/day reduction)
-- **Search Terms waste discovered**: 51% of budget ($36.33) wasted on competitors (david jones, harrods, harris scarfe), brand stores (ashland, holly and ivy), DIY/lights searches
-- **🚨 CRITICAL DISCOVERY**: 14 negative keywords blocking "artificial/fake/faux" searches—but that's THE PRODUCT! Missing 20-30% impression volume.
-- **GA4 breakthrough**: 1 conversion from Paid Search! (3.13% session conv rate, not yet imported to Google Ads)
+**Current (Nov 10-17, 2025 / 8 days):**
+- **BREAKTHROUGH then DECLINE:**
+  - Nov 10-11: 2 SALES ACHIEVED! ($185 + $285 = $470 revenue)
+  - "stylish christmas wreaths" (Phrase, $7.00): Only converting keyword
+  - Nov 12: Reduced budget to $30/day, achieved 0% waste, single keyword only
+  - Nov 13-17: **7 consecutive days without conversion** 🔴
+- **Weekend test failed (Nov 15-17):**
+  - Added 5 new keywords Friday (premium, designer, handmade, artificial, bespoke)
+  - ALL 5 got 0 impressions over entire weekend
+  - Status: "Not eligible" or "Eligible but not serving"
+  - All paused Nov 17
+- **Single keyword strategy confirmed:**
+  - Only "stylish christmas wreaths" ($7.00) serving
+  - Weekend: 51 impressions, 7 clicks, $55.07 spend (Nov 16-17)
+  - Average: 25-28 impressions/day, 3-4 clicks/day, $27.54/day spend
+  - Budget utilization: 91.8% (optimal)
+- Overall metrics (Nov 10-17, 8 days): 2 sales, $414.60 spend, $470 revenue, **+13% ROI**
+- Lost IS (budget): **>90%** (unchanged - single keyword limitation)
+- **Traffic quality:** 0% waste (899 negative keywords after Nov 17 additions)
+- **Campaign status:** Profitable but behind pace, volume-limited, single point of failure
 ## What to do first when resuming
-1. **🚨 VERIFY Nov 3 ACTION**: Check user removed 14 artificial/faux blocking negatives (fake, artificial flowers, faux plants, etc.). File: `data/keyword-reports/NEGATIVE-KEYWORDS-TO-REMOVE.csv`
-2. Check Nov 4-5 reports to see if "artificial/fake/faux" search terms now appearing (expected: +20-30% impressions).
-3. Monitor spend after negative removal (may temporarily increase to $35-38/day, then stabilize at $25-30).
-4. Review Search Terms for new artificial product queries (validate high CTR 12-15%).
-5. Verify $25/day budget optimization + negative removal achieved target (expect $25-30/day spend, 13-14 clicks).
-6. **Critical**: Monitor GA4 for conversion attribution from artificial product searches.
-7. If "artificial" terms still not appearing: Add explicit keywords ("artificial christmas wreaths", "faux christmas greenery", etc.).
+1. **🚨 CHECK DATE**: If it's the 1st of any month, verify Google auto-apply settings (see section above for details)
+2. **Save all reports locally**: Export and save reports to `data/keyword-reports/` with format `2025-MM-DD-report-name.csv`:
+   - Campaign report
+   - Search keyword report
+   - Search terms report
+   - Device report
+   - Landing page report
+   - Ad report
+   - GA4 traffic acquisition report
+3. **Create minutes file**: After analysis, create comprehensive minutes file in `minutes/` folder with format `2025-MM-DD-descriptive-name.md`:
+   - Include: Performance summary, key metrics vs previous day, what worked/failed, actions taken, insights, next steps
+   - Document all critical decisions and discoveries
+   - Update AI-CONTEXT.md if strategy changes
+4. **Review weekend performance** (if applicable): Did Saturday-Sunday show higher volume for luxury buyers?
+5. **Check conversion status**: Any sales since Nov 11? (Currently 4 days without conversion - critical)
+6. **Verify single keyword status**: Is "stylish christmas wreaths" still serving? Performance stable?
+7. **"Luxury" keyword check**: Did "luxury christmas wreaths" ever start serving at $12 bid? (Failed Nov 14-15)
+8. **Traffic quality**: Is 0% waste maintained? (Has been perfect since Nov 14)
+9. **Budget utilization**: Is campaign spending closer to $30/day target? (Nov 15 only spent $19.96)
+10. **Strategic decision**: Accept single-keyword reality OR invest time in separate luxury ad group?
 ## Completed actions
 
-### ✅ Nov 1, 2025: Initial luxury optimization
+### ✅ Nov 10-11, 2025: BREAKTHROUGH - First Sales Achieved
+**2 Conversions Generated:**
+- Nov 10: $185 sale from "stylish christmas wreaths" 
+- Nov 11: $285 sale from "luxury christmas decor" (click on Nov 9)
+- Total revenue: $470
+- Spend: ~$166 (at $84/day budget)
+- Campaign now profitable: +183% ROI
+
+**Key Learning:** "Stylish christmas wreaths" identified as hero keyword with 7.69% conversion rate.
+
+### ✅ Nov 12, 2025: Budget Reduction & Efficiency Focus
+**Actions Taken:**
+- Reduced budget from $84/day to $30/day (sustainable level)
+- Paused non-performing keywords
+- Kept only 2 active: "stylish christmas wreaths" ($7.00), "luxury christmas decor" ($4.50)
+- Device bid adjustments: Mobile +20%, Desktop/Tablet -70%
+- Added 50+ negative keywords (competitors, wrong products, wrong styles)
+
+**Results:**
+- Achieved 0% waste (perfect traffic quality)
+- $34.19 spend, 16 impressions, 5 clicks, 31.25% CTR
+- 0 conversions (expected with 2-3 day attribution lag)
+
+### ✅ Nov 13, 2025: Waste Cleanup
+**Problem:** Waste returned (45% of impressions from competitors/wrong products)
+
+**Actions Taken:**
+- Added 11 negative keywords: tk maxx, zara, laura ashley, tablecloth, kitsch, perth, big, large
+- Raised "luxury christmas decor" bid: $4.50 → $6.00 (trying to activate after 3 days 0 impressions)
+
+**Results:**
+- Volume increased (44 impressions)
+- Waste decreased but still present
+- "Luxury christmas decor" still got 0 impressions despite bid increase
+
+### ✅ Nov 14, 2025: Keyword Swap Strategy
+**Problem:** "Luxury christmas decor" failed for 4 days straight (0 impressions)
+**Root Cause:** Ad/keyword mismatch (keyword says "decor" but all ads say "wreaths")
+
+**Actions Taken:**
+- Paused: "luxury christmas decor"
+- Enabled: "luxury christmas wreaths" (plural) at $7.50 bid
+- Rationale: Perfect match with wreath-focused ad copy
+- Added 4 negative keywords: burlap, nativity, "34th and pine"
+
+**Results:**
+- Volume collapsed to 13 impressions (worst day)
+- Keyword swap failed - "luxury christmas wreaths" got 0 impressions
+
+### ✅ Nov 15, 2025: Auto-Apply Crisis & Weekend Test Setup
+**CRITICAL DISCOVERY:** Google re-enabled 10+ auto-apply bidding recommendation settings without notification!
+
+**Actions Taken:**
+- Disabled all 10+ bidding auto-apply settings
+- Disabled "Add store visits as account default goal"
+- Added monthly reminder to AI-CONTEXT.md (check on 1st of each month)
+- Raised "luxury christmas wreaths" bid: $7.50 → $12.00 (testing if Quality Score can be overcome)
+- Added 5 NEW keywords for weekend test:
+  1. "premium christmas wreaths australia" ($5.50)
+  2. "designer door wreaths christmas" ($5.00)
+  3. "handmade christmas door wreaths" ($5.00)
+  4. "artificial christmas wreaths luxury" ($5.50)
+  5. "bespoke christmas wreaths" ($6.00)
+
+**Results:**
+- Volume: 18 impressions
+- "Luxury christmas wreaths" STILL got 0 impressions at $12 bid
+- 0% waste maintained
+- 4th consecutive day without conversion
+
+### ✅ Nov 16-17, 2025: Weekend Test - All New Keywords Failed
+**WEEKEND TEST RESULTS:** All 5 new keywords got 0 impressions over entire weekend.
+
+**Performance by keyword:**
+- "premium christmas wreaths australia" → Status: Paused (rarely served), 0 impressions
+- "designer door wreaths christmas" → Status: Not eligible, 0 impressions
+- "handmade christmas door wreaths" → Status: Eligible, 0 impressions
+- "artificial christmas wreaths luxury" → Status: Not eligible (rarely served), 0 impressions
+- "bespoke christmas wreaths" → Status: Eligible, 0 impressions
+
+**Only keyword serving:**
+- "stylish christmas wreaths" → 51 impressions, 7 clicks, $55.07 spend (100% of traffic)
+
+**Actions Taken:**
+- Paused all 5 new keywords (Nov 17)
+- Paused "luxury christmas wreaths" (0 imps for 6 days despite $12 bid)
+- Paused "handmade christmas door wreaths" (0 imps)
+- Added 7 negative keywords: "marks spencer", "marks and spencer", "m&s", "rattan", "extra large", "1 metre", "real"
+- Total negative keywords: 899
+
+**Results:**
+- Weekend: 51 imps, 7 clicks, 13.73% CTR, $55.07 ($27.54/day)
+- Budget utilization: 91.8% ($27.54/$30)
+- Conversions: 0 (7th consecutive day without sale)
+- Campaign spend to date: $414.60, Revenue: $470, ROI: +13%
+
+**Key Learning:** Fresh keywords don't solve Quality Score issues. Low search volume or account-level Quality Score penalties prevent serving regardless of bid amount or keyword freshness. Single-keyword strategy is reality, not choice.
+
+### ✅ Nov 1, 2025: Initial luxury optimization (HISTORICAL - Pre-Budget Reduction)
 **Paused keywords:**
 - christmas table decorations (Broad) — was 235 imps, 23 clicks, $46 (wrong intent)
 - christmas wreath (Broad) — was 74 imps, 8 clicks, $9.65
@@ -141,14 +327,14 @@ Scope: Christmas Search campaign (AU) — 43 days remaining (Nov 3–Dec 15, 202
 - Lost IS >90% partly due to blocked category searches (not just budget!)
 - Landing page needs "Premium Artificial" messaging (explains 0 ATC after 44 clicks)
 **Primary docs:**
-- `ACTION-PLAN.md` — main execution guide (updated Nov 3 with audience quality insights)
-- `PROJECT-STATUS.md` — high-level timeline
-- `minutes/2025-10-31.md` — EOD summary Oct 29-31 reports
-- `minutes/2025-11-01.md` — Nov 1 action plan and monitoring
-- `minutes/2025-11-02.md` — $25/day budget optimization analysis and execution
-- `minutes/2025-11-03.md` — Nov 3 performance review, first conversion, $34/day overspending
-- `minutes/2025-11-03-search-terms-analysis.md` — 51% waste discovery ($36.33 on competitors/brands)
-- `minutes/2025-11-03-negative-keywords-crisis.md` — 🚨 CRITICAL: 14 negatives blocking artificial product searches!
+- `ACTION-PLAN.md` — main execution guide (may be outdated - check minutes for current strategy)
+- `PROJECT-STATUS.md` — high-level timeline (last updated Oct 30, needs update)
+- `minutes/2025-11-10-FIRST-SALES-breakthrough.md` — 🎉 First 2 sales achieved! Hero keyword identified
+- `minutes/2025-11-11-tuesday-performance-review.md` — $285 sale, budget reduction to $30/day
+- `minutes/2025-11-12-wednesday-budget-reduction-day.md` — First day at $30/day, 0% waste achieved
+- `minutes/2025-11-13-thursday-volume-increase.md` — Volume tripled but waste returned (45%)
+- `minutes/2025-11-14-friday-keyword-swap-breakthrough.md` — Keyword swap attempted, volume collapsed
+- `minutes/2025-11-15-friday-keyword-swap-results.md` — 🚨 Keyword swap failed, Google auto-apply crisis
 
 **Landing page mockups (for conversion optimization):**
 - `mockup/luxury-homepage-mockup.html` — Full luxury homepage redesign
@@ -184,8 +370,23 @@ Import-ready files in `data/`:
 - `new-luxury-keywords-import 2.csv` (wreaths variants)
 - `new-centrepieces-keywords-import.csv` (centrepieces/candle holders)
 - `new-collection-keywords-import.csv` (luxury decor/collection page)
+- `2025-11-15-weekend-test-keywords-import.csv` (5 fresh wreath keywords for weekend test)
 
 All files include Campaign ID 20291611349, Ad group "Christmas Products", proper phrase match formatting (triple quotes).
+
+**Google Ads Keyword Import CSV Format:**
+```csv
+Campaign ID,Ad group,Keyword,Match type,Max CPC,Final URL
+20291611349,Christmas Products,"""keyword phrase""",Phrase,5.50,https://beliefsinwreaths.com.au/collections/christmas-wreaths
+```
+
+**Format requirements:**
+- Column headers: Campaign ID, Ad group, Keyword, Match type, Max CPC, Final URL
+- Campaign ID: 20291611349 (numeric, no quotes)
+- Match type: "Phrase" (capital P, for phrase match)
+- Keyword: Triple quotes for phrase match (e.g., `"""luxury christmas wreaths"""`)
+- Max CPC: Decimal format (e.g., 5.50)
+- Final URL: Full URL including https://
 
 ## Files and documentation
 **Primary docs:**
@@ -243,15 +444,15 @@ Note: Update CUSTOMER_ID in `scripts/add_negative_keywords.py` before running.
 ## Known pitfalls and lessons learned
 - **Budget throttling is the #1 issue**: 85% Lost IS (budget) means losing 6x potential impressions. Raising bids helps win more auctions within constrained budget but won't magically 10x traffic.
 - **Luxury longtail = low volume**: Many hero keywords show "Not eligible — rarely served" status. This is normal for ultra-specific terms like "luxury handcrafted christmas wreath". They'll trigger for close variants.
-## Next session priorities (Nov 4+)
-1. **🚨 VERIFY CRITICAL FIX**: Confirm user removed 14 artificial/faux blocking negatives from Google Ads.
-2. **Monitor Search Terms** (Nov 4-5): Look for "artificial", "fake", "faux" queries now appearing (expect 5-10 new terms).
-3. **Check impression volume**: Baseline 94/day → expect 115-125/day (+20-30%) after negative removal.
-4. **Verify spend**: May temporarily increase to $35-38/day, should stabilize at $25-30/day.
-5. **CTR validation**: Should maintain or improve to 12-15% (artificial searches = high intent).
-6. **If artificial terms don't appear**: Add explicit keywords ("artificial christmas wreaths" Phrase $4.00, "faux christmas greenery" Phrase $3.50).
-7. **Landing page audit**: Add "Premium Artificial Christmas Wreaths" messaging prominently (explains 0 ATC after 44 clicks).
-8. **GA4 conversion tracking**: Check if Nov 3 conversion (1) imported to Google Ads yet (24-48 hour delay normal).
+## Next session priorities (Nov 18+)
+1. **🚨 CHECK DATE**: If 1st of month, verify Google auto-apply settings haven't been re-enabled (happened Nov 15!)
+2. **Conversion watch** (CRITICAL): Any sales? Currently 7 days without conversion (last sale Nov 11). Need sale urgently.
+3. **Single keyword monitoring**: Is "stylish christmas wreaths" still serving? Performance degrading? CTR/CPC stable?
+4. **Search terms review**: Any new negative keywords needed? Currently 899 negatives, 0% waste maintained.
+5. **Budget utilization**: Still 91.8% optimal? Or dropping due to auction dynamics?
+6. **Google Shopping exploration**: Check if Merchant Center exists, create Shopping campaign ($10/day) for additional volume.
+7. **ROI tracking**: Current +13% ROI. Need 6-7 more sales to hit season target. Realistic: 4-6 sales (borderline profitable).
+8. **Alternative traffic sources**: Organic (6 sessions weekend), Direct (4 sessions), Email (abandoned cart sequences?).
 - Read: `ACTION-PLAN.md` (updated Nov 1 with current strategy) and latest minutes file under `minutes/`.
 - Check `data/keyword-reports/` for most recent performance reports (sorted by date in filename).
 - Review this file (`AI-CONTEXT.md`) for latest status and completed actions.
