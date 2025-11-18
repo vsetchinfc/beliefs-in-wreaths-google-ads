@@ -1,18 +1,41 @@
 # Rapid context for future sessions — Beliefs in Wreaths (Google Ads)
 
-Last updated: 2025-11-15
+Last updated: 2025-11-18
 Owner: vsetchinfc
-Scope: Christmas Search campaign (AU) — 30 days remaining (Nov 15–Dec 15, 2025)
+Scope: Christmas Search campaign (AU) — 27 days remaining (Nov 19–Dec 15, 2025)
+
+
+## My Notes - don't remove them
+
+Read all reports carefully before analysis. 
+Verify every claim against actual data. 
+No assumptions. Quote specific numbers from the reports.
+Pay HIGH attention to what I write.
+
+## End if My Notes
+
+## 🚨 CRITICAL: Agent Performance Standards
+
+**MANDATORY for every session:**
+
+1. **HIGH attention to details** - Read every number carefully, verify against source data
+2. **NO assumptions** - If data not present, say "I don't see this" instead of guessing
+3. **Pay HIGH attention to what user writes** - User statements override assumptions
+4. **Cite sources** - Every metric must reference specific report + row/column
+5. **Verify claims** - Cross-check all statements against actual data before responding
+6. **Show work** - Explain how conclusions were reached from data
+
+**User feedback:** Multiple errors made (Nov 16-17) from rushing to conclusions without reading data carefully. Standard raised and maintained from this point forward.
 
 ## TL;DR
-- Running **$30/day** budget. **SINGLE KEYWORD STRATEGY CONFIRMED**: Only "stylish christmas wreaths" ($7.00) serving. All other keywords paused.
+- Running **$40/day** budget (raised from $30 on Nov 18). **SINGLE KEYWORD STRATEGY CONFIRMED**: Only "stylish christmas wreaths" ($7.00) serving. All other keywords paused.
 - **🚨 WEEKEND TEST FAILED (Nov 16-17)**: Added 5 new keywords Friday - all got 0 impressions over entire weekend. Paused Nov 17.
-- **🚨 GOOGLE AUTO-APPLY CRISIS (Nov 15)**: Google re-enabled 10+ auto-apply bidding settings without notification. All disabled, monthly check reminder added.
+- **🚨 MONDAY VOLUME CLIFF (Nov 18)**: Only 22 impressions (lowest day recorded), budget utilization dropped to 74.6%. Testing if $40 budget increases volume.
 - Active keywords: **1 ONLY** ("stylish christmas wreaths"). All alternatives failed (luxury, bespoke, handmade, designer, premium).
 - Negative keywords: 899 total (added 7 more Nov 17), achieving **0% waste** (perfect traffic quality).
-- Volume: 25-28 impressions/day with single keyword. <10% impression share (losing 90%+ of auctions).
-- **Campaign status:** 2 sales ($470 revenue), $414.60 spend, +13% ROI. **7 days without conversion** (Nov 12-17) 🔴.
-- **28 days remaining:** Need 1 sale every 4-5 days to hit targets. Currently BEHIND pace.
+- Volume: 22-28 impressions/day with single keyword. <10% impression share (losing 90%+ of auctions).
+- **Campaign status:** 2 sales ($470 revenue), $437 spend, +7.6% ROI. **8 days without conversion** (Nov 12-18) 🔴.
+- **27 days remaining:** Need 6-7 more sales to break even. Currently BEHIND pace. Google Shopping setup critical priority.
 
 ## Important: Google Ads UI Version
 **Using NEW Google Ads UI (2024-2025 interface)**
@@ -117,12 +140,12 @@ Google periodically re-enables auto-apply recommendations without warning. These
 - 3-month reality: 1,382 clicks, 2 conversions, 0.14% CVR, $508 CPA — failing overall.
 - Breakthrough: "luxury christmas wreath" (Phrase) — 6 clicks, 2 conv (33.33% CVR), $6.14 CPA.
 
-**Current (Nov 10-17, 2025 / 8 days):**
+**Current (Nov 10-18, 2025 / 9 days):**
 - **BREAKTHROUGH then DECLINE:**
   - Nov 10-11: 2 SALES ACHIEVED! ($185 + $285 = $470 revenue)
   - "stylish christmas wreaths" (Phrase, $7.00): Only converting keyword
   - Nov 12: Reduced budget to $30/day, achieved 0% waste, single keyword only
-  - Nov 13-17: **7 consecutive days without conversion** 🔴
+  - Nov 13-18: **8 consecutive days without conversion** 🔴
 - **Weekend test failed (Nov 15-17):**
   - Added 5 new keywords Friday (premium, designer, handmade, artificial, bespoke)
   - ALL 5 got 0 impressions over entire weekend
@@ -130,13 +153,14 @@ Google periodically re-enables auto-apply recommendations without warning. These
   - All paused Nov 17
 - **Single keyword strategy confirmed:**
   - Only "stylish christmas wreaths" ($7.00) serving
-  - Weekend: 51 impressions, 7 clicks, $55.07 spend (Nov 16-17)
-  - Average: 25-28 impressions/day, 3-4 clicks/day, $27.54/day spend
-  - Budget utilization: 91.8% (optimal)
-- Overall metrics (Nov 10-17, 8 days): 2 sales, $414.60 spend, $470 revenue, **+13% ROI**
+  - Nov 18 (Monday): 22 impressions, 3 clicks, $22.39 spend - **lowest volume day**
+  - Budget utilization: 74.6% (down from 91.8% weekend) - hitting volume constraints
+  - Average: 22-28 impressions/day, 3-4 clicks/day, $25-28/day spend
+- **Budget raised Nov 18:** $30/day → $40/day to test if budget-constrained vs volume-constrained
+- Overall metrics (Nov 10-18, 9 days): 2 sales, $437 spend, $470 revenue, **+7.6% ROI (declining)**
 - Lost IS (budget): **>90%** (unchanged - single keyword limitation)
-- **Traffic quality:** 0% waste (899 negative keywords after Nov 17 additions)
-- **Campaign status:** Profitable but behind pace, volume-limited, single point of failure
+- **Traffic quality:** 0% waste (899 negative keywords, all search terms legitimate)
+- **Campaign status:** Barely profitable, behind pace, volume-limited, single point of failure, Google Shopping critical
 ## What to do first when resuming
 1. **🚨 CHECK DATE**: If it's the 1st of any month, verify Google auto-apply settings (see section above for details)
 2. **Save all reports locally**: Export and save reports to `data/keyword-reports/` with format `2025-MM-DD-report-name.csv`:
@@ -258,6 +282,44 @@ Google periodically re-enables auto-apply recommendations without warning. These
 
 **Key Learning:** Fresh keywords don't solve Quality Score issues. Low search volume or account-level Quality Score penalties prevent serving regardless of bid amount or keyword freshness. Single-keyword strategy is reality, not choice.
 
+### ✅ Nov 18, 2025: Monday Volume Cliff - Budget Raised to $40/day
+**CRITICAL FINDING:** Volume dropped to lowest level (22 impressions), budget utilization fell to 74.6%.
+
+**Performance (Nov 18 only):**
+- Impressions: 22 (lowest day recorded, -14% vs weekend avg)
+- Clicks: 3 (CTR 13.64%, stable)
+- Spend: $22.39 (74.6% budget utilization, down from 91.8%)
+- Avg CPC: $7.46 (stable)
+- Conversions: 0 (8th consecutive day without sale)
+- Only keyword serving: "stylish christmas wreaths" (100% of traffic)
+
+**Search Terms Analysis:**
+- 7 unique search terms, all legitimate
+- "pink christmas wreath for door" (1 click, $8.44) - User confirmed sells pink wreaths ✅
+- "white xmas wreath" (0 clicks) - User confirmed sells white wreaths ✅
+- No new negative keywords needed (899 total maintained)
+- 0% waste maintained
+
+**GA4 Discrepancy:**
+- GA4 showed: 1 key event from Paid Search (50% session key event rate)
+- Google Ads showed: 0 conversions
+- User confirmed: No purchases, no abandoned checkouts
+- Conclusion: Key event was add_to_cart or other engagement (not purchase)
+
+**Actions Taken:**
+- Budget raised: $30/day → $40/day
+- Purpose: Test if budget-constrained vs volume-constrained
+- Expected: If budget-limited, impressions increase to 28-30/day. If volume-limited, impressions stay at 22-25/day.
+- No negative keywords added (all search terms legitimate)
+
+**Financial Update:**
+- Total spend (Nov 10-18, 9 days): $437.00
+- Total revenue: $470 (unchanged, no new sales)
+- Current ROI: +7.6% (declining from +13%)
+- Days remaining: 27 (through Dec 15)
+
+**Strategic Priority:** Google Shopping setup critical (user confirmed on todo list). Expected to add 30-50 impressions/day from visual searches, bypass Search Quality Score issues.
+
 ### ✅ Nov 1, 2025: Initial luxury optimization (HISTORICAL - Pre-Budget Reduction)
 **Paused keywords:**
 - christmas table decorations (Broad) — was 235 imps, 23 clicks, $46 (wrong intent)
@@ -335,6 +397,8 @@ Google periodically re-enables auto-apply recommendations without warning. These
 - `minutes/2025-11-13-thursday-volume-increase.md` — Volume tripled but waste returned (45%)
 - `minutes/2025-11-14-friday-keyword-swap-breakthrough.md` — Keyword swap attempted, volume collapsed
 - `minutes/2025-11-15-friday-keyword-swap-results.md` — 🚨 Keyword swap failed, Google auto-apply crisis
+- `minutes/2025-11-16-17-weekend-single-keyword-confirmation.md` — Weekend test: All 5 new keywords failed (0 imps)
+- `minutes/2025-11-18-monday-volume-decline-budget-raised.md` — Volume cliff (22 imps), budget raised to $40/day
 
 **Landing page mockups (for conversion optimization):**
 - `mockup/luxury-homepage-mockup.html` — Full luxury homepage redesign
@@ -409,6 +473,8 @@ Campaign ID,Ad group,Keyword,Match type,Max CPC,Final URL
 - `data/keyword-reports/2025-11-01-search-keyword-report.csv` (Oct 29-31)
 - `data/keyword-reports/2025-11-01-ga4-traffic-acquisition.csv` (Oct 29-31)
 - `data/keyword-reports/2025-11-01-midday-*.csv` (Oct 31 + partial Nov 1)
+- `data/keyword-reports/2025-11-16-17-*.csv` (Nov 16-17 weekend, 7 reports)
+- `data/keyword-reports/2025-11-18-*.csv` (Nov 18 Monday, 7 reports)
 - `data/keyword-reports/Negative keyword report.csv` (older baseline)
 
 **Reference docs:**
@@ -444,15 +510,16 @@ Note: Update CUSTOMER_ID in `scripts/add_negative_keywords.py` before running.
 ## Known pitfalls and lessons learned
 - **Budget throttling is the #1 issue**: 85% Lost IS (budget) means losing 6x potential impressions. Raising bids helps win more auctions within constrained budget but won't magically 10x traffic.
 - **Luxury longtail = low volume**: Many hero keywords show "Not eligible — rarely served" status. This is normal for ultra-specific terms like "luxury handcrafted christmas wreath". They'll trigger for close variants.
-## Next session priorities (Nov 18+)
-1. **🚨 CHECK DATE**: If 1st of month, verify Google auto-apply settings haven't been re-enabled (happened Nov 15!)
-2. **Conversion watch** (CRITICAL): Any sales? Currently 7 days without conversion (last sale Nov 11). Need sale urgently.
-3. **Single keyword monitoring**: Is "stylish christmas wreaths" still serving? Performance degrading? CTR/CPC stable?
-4. **Search terms review**: Any new negative keywords needed? Currently 899 negatives, 0% waste maintained.
-5. **Budget utilization**: Still 91.8% optimal? Or dropping due to auction dynamics?
-6. **Google Shopping exploration**: Check if Merchant Center exists, create Shopping campaign ($10/day) for additional volume.
-7. **ROI tracking**: Current +13% ROI. Need 6-7 more sales to hit season target. Realistic: 4-6 sales (borderline profitable).
-8. **Alternative traffic sources**: Organic (6 sessions weekend), Direct (4 sessions), Email (abandoned cart sequences?).
+## Next session priorities (Nov 19+)
+1. **🚨 BUDGET TEST MONITORING** (CRITICAL): Did impressions increase with $40 budget? Compare Nov 19 vs Nov 18 (22 imps baseline).
+   - If imps increase to 28-30: Budget was limiting factor, continue $40/day
+   - If imps stay 22-25: Volume-constrained, Shopping becomes critical priority
+2. **Conversion watch** (CRITICAL): Any sales? Currently 8 days without conversion (last sale Nov 11). GA4 showed 1 key event Nov 18 - did it convert?
+3. **Google Shopping setup** (HIGH PRIORITY): User confirmed on todo list. Expected +30-50 imps/day. Guide: `docs/guides/setup-google-shopping-campaign.md`
+4. **Single keyword stability**: "stylish christmas wreaths" still serving? CTR/CPC stable after budget increase?
+5. **Search terms review**: Daily monitoring, currently 899 negatives, 0% waste maintained.
+6. **ROI tracking**: Current +7.6% ROI (declining). Need 6-7 more sales to break even with $40/day budget over 27 days.
+7. **Budget test conclusion** (3-day analysis Nov 19-21): Determine if budget-constrained or volume-constrained, adjust strategy accordingly.
 - Read: `ACTION-PLAN.md` (updated Nov 1 with current strategy) and latest minutes file under `minutes/`.
 - Check `data/keyword-reports/` for most recent performance reports (sorted by date in filename).
 - Review this file (`AI-CONTEXT.md`) for latest status and completed actions.

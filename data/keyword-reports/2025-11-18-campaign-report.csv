@@ -1,0 +1,29 @@
+Campaign report
+18 November 2025 - 18 November 2025
+Click type,Campaign status,Campaign,Budget,Budget name,Budget type,Status,Status reasons,Optimisation score,Campaign type,Impr.,Interactions,Interaction rate,Currency code,Avg. cost,Cost,Bid strategy type,Clicks,Conv. rate,Conversions,Avg. CPC,Cost / conv.
+Headline,Enabled,B-in-W [Search | Sales],30.00, --,Daily,Eligible (Limited),limited by budget; unknown,80.50,Search,22,2,9.09%,AUD,6.97,13.95,Manual CPC,2,0.00%,0.00,6.97,0.00
+Sitelink,Enabled,B-in-W [Search | Sales],30.00, --,Daily,Eligible (Limited),limited by budget; unknown,80.50,Search,18,1,5.56%,AUD,8.44,8.44,Manual CPC,1,0.00%,0.00,8.44,0.00
+Promotion,Enabled,B-in-W [Search | Sales],30.00, --,Daily,Eligible (Limited),limited by budget; unknown,80.50,Search,0,0, --,AUD,0,0.00,Manual CPC,0,0.00%,0.00,0,0.00
+Image,Enabled,B-in-W [Search | Sales],30.00, --,Daily,Eligible (Limited),limited by budget; unknown,80.50,Search,6,0,0.00%,AUD,0,0.00,Manual CPC,0,0.00%,0.00,0,0.00
+ --,Total: Campaigns, --, --, --, --, --,, --, --,22,3,13.64%,AUD,7.46,22.39, --,3,0.00%,0.00,7.46,0.00
+ --,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --,AUD,0,0, --,0, --,0,0,0
+ --,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --, --,0,0, --,0, --,0,0,0
+Headline,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --, --,0,0, --,0, --,0,0,0
+Sitelink,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --, --,0,0, --,0, --,0,0,0
+Image,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --, --,0,0, --,0, --,0,0,0
+ --,Total: Campaigns, --, --, --, --, --,, --, --,0,0, --, --,0,0, --,0, --,0,0,0
+Headline,Total: Campaigns, --, --, --, --, --,, --, --,22,2,9.09%,AUD,6.97,13.95, --,2,0.00%,0.00,6.97,0.00
+Sitelink,Total: Campaigns, --, --, --, --, --,, --, --,18,1,5.56%,AUD,8.44,8.44, --,1,0.00%,0.00,8.44,0.00
+Image,Total: Campaigns, --, --, --, --, --,, --, --,6,0,0.00%,AUD,0,0.00, --,0,0.00%,0.00,0,0.00
+,Total: Account,,,,,,,,,22,3,13.64%,AUD,7.46,22.39,,3,0.00%,0.00,7.46,0.00
+Image,Total: Account,,,,,,,,,6,0,0.00%,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Promotion,Total: Account,,,,,,,,,0,0, --,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Sitelink,Total: Account,,,,,,,,,18,1,5.56%,AUD,8.44,8.44,,1,0.00%,0.00,8.44,0.00
+Headline,Total: Account,,,,,,,,,22,2,9.09%,AUD,6.97,13.95,,2,0.00%,0.00,6.97,0.00
+,Total: Search,,,,,,,,Search,22,3,13.64%,AUD,7.46,22.39,,3,0.00%,0.00,7.46,0.00
+,Total: Smart,,,,,,,,Smart,0,0, --,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Headline,Total: Search,,,,,,,,Search,22,2,9.09%,AUD,6.97,13.95,,2,0.00%,0.00,6.97,0.00
+Promotion,Total: Search,,,,,,,,Search,0,0, --,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Image,Total: Search,,,,,,,,Search,6,0,0.00%,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Headline,Total: Smart,,,,,,,,Smart,0,0, --,AUD,0,0.00,,0,0.00%,0.00,0,0.00
+Sitelink,Total: Search,,,,,,,,Search,18,1,5.56%,AUD,8.44,8.44,,1,0.00%,0.00,8.44,0.00
